@@ -1,74 +1,75 @@
 {
-    "label": "Ausrüstung (Klassen)",
+    "label": "Equipaggiamento (Classi)",
     "mapping": {
-        "description": "system.description",
-        "weight": "system.weight"
+        "description": "data.description",
+        "weight": "data.weight"
     },
     "entries": [{
             "id": "Fiddle",
-            "name": "Fiedel",
-            "description": "<p>Ein Lauteninstrument, das mit dem Bogen gestrichen wird.</p>"
+            "name": "Violino",
+            "description": "<p>Strumento a corde stridente</p>"
         },
         {
             "id": "Horn",
-            "name": "Horn",
-            "description": "<p>Ein langes Rohr aus Metall.</p>"
+            "name": "Corno",
+            "description": "<p>Bellissimo corno di metallo.</p>"
         },
         {
             "id": "Lute",
-            "name": "Laute",
-            "description": "<p>Ein Zupfinstrument mit einem stark gewöbten Korpus.</p>"
+            "name": "Liuto",
+            "description": "<p>Strumento a corde. Con corpo curvo intagliato nel legno.</p>"
         },
         {
             "id": "Mandolin",
-            "name": "Mandoline",
-            "description": "<p>Ein Zupfinstrument mit einem mandelförmigen Korpus.</p>"
+            "name": "Mandolino",
+            "description": "<p>Vecchio strumento a corde restaurato.</p>"
         },
         {
             "id": "Mark of Faith",
-            "name": "Zeichen deines Glaubens",
-            "description": "<p>Ein Zeichen deines Glaubens, beschreibe es:</p>"
+            "name": "Simbolo di Fede",
+            "description": "<p>Un simbolo di fede. Descrivilo:</p>"
         },
         {
             "id": "Pipes",
-            "name": "Flöte",
-            "description": "<p>Eine Flöte mit 3 Löchern.</p>"
+            "name": "Cornamusa",
+            "description": "<p>Una cornamusa con 3 canne</p>"
         },
         {
             "id": "Poison",
-            "name": "Gift",
-            "description": "Stoff, der Lebewesen durch Eindringen in den Organismus Schaden zufügen kann."
+            "name": "Veleno",
+            "description": "Una sostanza che può danneggiare gli esseri viventi quando entra nell'organismo."
         },
         {
             "id": "Signature Weapon",
-            "name": "Einzigartige Waffe",
-            "description": "<p>Dies ist deine Waffe. Es gibt viele wie sie, aber diese ist die Deine. Sie ist dein bester Freund. Sie ist dein Leben. Du meisterst sie, wie du auch dein Leben meistern musst. Ohne dich ist deine Waffe nutzlos. Ohne deine Waffe bist du nutzlos. Du musst deine Waffe wahrhaftig führen.</p>\n<h3>Wähle einen Grundtyp (alle haben 2 Gewicht):</h3>\n<ul>\n<li>Schwert</li>\n<li>Axt</li>\n<li>Hammer</li>\n<li>Speer</li>\n<li>Flegel</li>\n<li>Fäuste</li>\n</ul>\n<h3>Wähle die Reichweite, die am besten zu deiner Waffe passt:</h3>\n<ul>\n<li>Hand</li>\n<li>Kurz</li>\n<li>Lang</li>\n</ul>\n<h3>Wähle zwei Verbesserungen:</h3>\n<ul>\n<li>Haken und Stacheln (+1 Schaden, +1 Gewicht)</li>\n<li>Scharf (Durchdringung +2)</li>\n<li>Ausbalanciert (präzise)</li>\n<li>Gezackte Klinge (+1 Schaden)</li>\n<li>Leuchtet in Gegenwart einer Kreaturenart deiner Wahl</li>\n<li>Riesig (brutal, wuchtig)</li>\n<li>Vielseitig (wähle eine zusätzliche Reichweite)</li>\n<li>Gut gearbeitet (-1 Gewicht)</li>\n</ul>\n<h3>Wähle ihr Aussehen:</h3>\n<ul>\n<li>Altertümlich</li>\n<li>Makellos</li>\n<li>Verziert</li>\n<li>Blutverkrustet</li>\n<li>Unheimlich</li>\n</ul>",
+            "name": "Arma Caratteristica",
+            "description": "<p><p>Questa è la tua arma. Ce ne sono tante come lei, ma questa è la tua. La tua arma è la tua migliore amica. È la tua vita. Devi dominarla come domini la tua vita. Senza di te la tua arma non è niente. Senza la tua arma, tu non sei niente. Devi saper colpire il bersaglio.</p>\n<h3>Scegli una descrizione di base, hanno tutte <em>peso 2</em>:</h3>\n<ul>\n<li>Spada</li>\n<li>Hacha</li>\n<li>Martello</li>\n<li>Lancia</li>\n<li>Mazzafrusto</li>\n<li>Pugni</li>\n</ul>\n<h3>Scegli la portata che descrive meglio la tua arma:</h3>\n<ul>\n<li>Corta</li>\n<li>Media</li>\n<li>Lunga</li>\n</ul>\n<h3>Scegli due miglioramenti</h3>\n<ul>\n<li>Uncini e punte. +1 danno, ma +1 peso.</li>\n<li>Affilata. +2 <em>perforante</em>.</li>\n<li>Perfettamente bilanciata. +<em>precisa</em>.</li>\n<li>Enorme. +<em>devastante</em>, +<em>possente</em></li>\n<li>Brilla in presenza di un tipo di creatura, a tua scelta.</li>\n<li>Bordi seghettati. +1 danno.</li>\n<li>Versatile. Scegli una portata aggiuntiva.</li>\n<li>Ben costruita. -1 <em>peso</em>.</li>\n</ul>\n<h3>Scegli un aspetto:</h3>\n<ul>\n<li>Antica</li>\n<li>Senza difetti</li>\n<li>Ornata</li>\n<li>Sinistra</li>\n<li>Macchiata di sangue</li>\n</ul>",
             "weight": "2"
         },
         {
             "id": "Songbook",
-            "name": "Gesangsbuch",
-            "description": "<p>Ein Buch, das über viele Jahre gesammelte Lieder enthält.</p>"
+            "name": "Canzoniere",
+            "description": "<p>Libro con una raccolta di canzoni di diverse epoche.</p>"
         },
         {
             "id": "Spellbook",
-            "name": "Zauberbuch",
-            "description": "<p>Du hast einige Zauber gemeistert und in dein Zauberbuch geschrieben. Du beginnst das Spiel mit drei Zaubern des 1. Grades sowie deinen Zaubertricks. Immer wenn du eine Stufe aufsteigst, fügst du deinem Zauberbuch einen neuen Zauber hinzu, dessen Grad deine neue Stufe aber nicht übersteigen darf. Dein Zauberbuch hat 1 Gewicht.</p>"
+            "name": "Libro degli Incantesimi",
+            "description": "<p>Hai padroneggiato diversi incantesimi, che hai trascritto nel tuo libro degli incantesimi. Inizi con tre incantesimi di primo livello nel tuo libro degli incantesimi, oltre a tutti i trucchetti. Ogni volta che <em>sali un livello</em>, aggiungi un nuovo incantesimo di livello uguale o inferiore al tuo libro degli incantesimi. Il tuo libro degli incantesimi ha un peso di 1.</p>",
+          "weight": "1"
         },
         {
             "id": "Symbol",
-            "name": "Zeichen",
-            "description": "<p>Ein Zeichen der früheren Entbehrungen, beschreibe es:</p>"
+            "name": "Simbolo",
+            "description": "<p>Un simbolo dei sacrifici che hai fatto, descrivilo:</p>"
         },
         {
             "id": "Symbol of the Devine",
-            "name": "Heiliges Symbol",
-            "description": "<p>Ein heiliges Symbol, beschreibe es:</p>"
+            "name": "Simbolo sacro",
+            "description": "<p>Un simbolo sacro, descrivilo:</p>"
         },
         {
             "id": "Token",
-            "name": "Andenken",
-            "description": "<p>Ein Andenken an deine Reisen oder deine Heimat – beschreibe es: </p>"
+            "name": "Ricordo",
+            "description": "<p>Un ricordo della tua terra natale o di un posto in cui hai viaggiato.</p>"
         }
     ]
 }
