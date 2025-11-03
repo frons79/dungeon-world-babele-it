@@ -1,0 +1,282 @@
+{
+    "label": "Etichette",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": "+1 armor",
+            "name": "+1 Armatura",
+            "description": "<p>Aggiungi 1 al totale di Armatura.</p>"
+        },
+        {
+            "id": "+1 damage",
+            "name": "+1 Danno",
+            "description": "<p>Aggiungi 1 al Danno</p>"
+        },
+        {
+            "id": "+1 forward",
+            "name": "+1 prossimo",
+            "description": "<p>Aggiungi 1 al prossimo tiro di una mossa (non un tiro di danni). Potrebbe esserci anche un prerequisito, come «prendi +1 al prossimo tiro di <em>taglia e spacca</em>», nel qual caso il bonus si applica solo a quella tua prossima mossa, e a nessun'altra.</p>"
+        },
+        {
+            "id": "+1 ongoing",
+            "name": "+1 continuato",
+            "description": "<p>Aggiungi 1 ai tiri di tutte le mosse (non i tiri di danni). Potrebbe esserci anche un prerequisito, come «prendi +1 continuato a <em>raffica</em>». Un bonus continuato specifica anche che cosa ne causa il termine, ad esempio «finché non sciogli l'incantesimo» o «finché non ti redimi agli occhi del tuo dio».</p>"
+        },
+        {
+            "id": "-1 forward",
+            "name": "-1 prossimo",
+            "description": "<p>Togli 1 al prossimo tiro di una mossa (non un tiro di danni). Potrebbe esserci anche un prerequisito, come «prendi -1 al prossimo tiro di <em>taglia e spacca</em>», nel qual caso il malus si applica solo a quella tua prossima mossa, e a nessun'altra.</p>"
+        },
+        {
+            "id": "-1 ongoing",
+            "name": "-1 continuato",
+            "description": "<p>Togli 1 ai tiri di tutte le mosse (non i tiri di danni). Potrebbe esserci anche un prerequisito, come «prendi -1 continuato a <em>raffica</em>». Un malus continuato specifica anche che cosa ne causa il termine, ad esempio «finché non sciogli l'incantesimo» o «finché non ti redimi agli occhi del tuo dio».</p>"
+        },
+        {
+            "id": "1 ammo",
+            "name": "1 munizioni",
+            "description": "<p>Conta come munizioni per le appropriate armi a distanza. Il numero indicato non rappresenta il numero di singole frecce o pietre, ma un'indicazione generale di quanto hai a portata di mano.</p>"
+        },
+        {
+            "id": "1 armor",
+            "name": "Armatura 1",
+            "description": "<p>Ti protegge dalle ferite e assorbe i danni. Quando subisci danni, sottrai la tua armatura dal totale. Se hai più di un oggetto con armatura n, conta solo quello con il valore più alto.</p>"
+        },
+        {
+            "id": "1 piercing",
+            "name": "Perforante 1",
+            "description": "<p>Attraversa completamente l'armatura. Quando infliggi danno n perforante, sottrai n dall'armatura del nemico per questo attacco.</p>"
+        },
+        {
+            "id": "2 armor",
+            "name": "Armatura 2",
+            "description": "<p>Ti protegge dalle ferite e assorbe i danni. Quando subisci danni, sottrai la tua armatura dal totale. Se hai più di un oggetto con armatura n, conta solo quello con il valore più alto.</p>"
+        },
+        {
+            "id": "3 ammo",
+            "name": "3 munizioni",
+            "description": "<p>Conta come munizioni per le appropriate armi a distanza. Il numero indicato non rappresenta il numero di singole frecce o pietre, ma un'indicazione generale di quanto hai a portata di mano.</p>"
+        },
+        {
+            "id": "3 armor",
+            "name": "Armatura 3",
+            "description": "<p>Ti protegge dalle ferite e assorbe i danni. Quando subisci danni, sottrai la tua armatura dal totale. Se hai più di un oggetto con armatura n, conta solo quello con il valore più alto.</p>"
+        },
+        {
+            "id": "3 piercing",
+            "name": "Perforante 3",
+            "description": "<p>Attraversa completamente l'armatura. Quando infliggi danno n perforante, sottrai n dall'armatura del nemico per questo attacco.</p>"
+        },
+        {
+            "id": "4 ammo",
+            "name": "4 munizioni",
+            "description": "<p>Conta come munizioni per le appropriate armi a distanza. Il numero indicato non rappresenta il numero di singole frecce o pietre, ma un'indicazione generale di quanto hai a portata di mano.</p>"
+        },
+        {
+            "id": "Amorphous",
+            "name": "Amorfo",
+            "description": "<p>La sua anatomia e i suoi organi sono bizzarri e abnormi.</p>"
+        },
+        {
+            "id": "Applied",
+            "name": "Applicato",
+            "description": "<p>Ha effetto solo quando viene applicata con attenzione a una persona, o a qualcosa da bere o da mangiare.</p>"
+        },
+        {
+            "id": "Awkward",
+            "name": "Ingombrante (Arma)",
+            "description": "<p>Poco maneggevole e di difficile utilizzo.</p>"
+        },
+        {
+            "id": "Cautious",
+            "name": "Cauto",
+            "description": "<p>Mette la sopravvivenza prima dell'aggressività.</p>"
+        },
+        {
+            "id": "Close",
+            "name": "Media",
+            "description": "<p>È efficace per attaccare qualcuno alla distanza di un braccio, più circa mezzo metro.</p>"
+        },
+        {
+            "id": "Clumsy",
+            "name": "Ingombrante (Armatura)",
+            "description": "<p>Risulta difficile muoversi con quest’armatura addosso. Prendi -1 continuato fintanto che la usi. Questa penalità è cumulativa.</p>"
+        },
+        {
+            "id": "Construct",
+            "name": "Costrutto",
+            "description": "<p>È stato creato artificialmente.</p>"
+        },
+        {
+            "id": "Dangerous",
+            "name": "Pericoloso",
+            "description": "<p>È facile che ti causi dei problemi. Se ci interagisci senza le opportune precauzioni il GM può invocare liberamente le conseguenze delle tue sciocche azioni.</p>"
+        },
+        {
+            "id": "Devious",
+            "name": "Sfuggente",
+            "description": "<p>È più pericoloso quando lontano dalla foga della battaglia.</p>"
+        },
+        {
+            "id": "Far",
+            "name": "Lontano",
+            "description": "<p>È efficace per attaccare qualcuno a una distanza a cui ci si può sentir urlare.</p>"
+        },
+        {
+            "id": "Forceful",
+            "name": "Possente",
+            "description": "<p>Può spingere qualcuno indietro di un passo, facendolo addirittura cadere.</p>"
+        },
+        {
+            "id": "Group",
+            "name": "Gruppo",
+            "description": "<p>Solitamente si trova in piccoli gruppi, da 3 a 6 componenti circa.</p>"
+        },
+        {
+            "id": "Hand",
+            "name": "Corta",
+            "description": "<p>È efficace per attaccare qualcuno che puoi raggiungere con le mani, e non oltre.</p>"
+        },
+        {
+            "id": "Hoarder",
+            "name": "Accumulatore",
+            "description": "<p>Ha sicuramente un tesoro.</p>"
+        },
+        {
+            "id": "Horde",
+            "name": "Orda",
+            "description": "<p>Dove ce n’è uno, ce ne sono tanti. Tantissimi.</p>"
+        },
+        {
+            "id": "Huge",
+            "name": "Enorme",
+            "description": "<p>È grande come una piccola casa o più grande.</p>"
+        },
+        {
+            "id": "Ignores Armor",
+            "name": "Ignora armatura",
+            "description": "<p>Il bersaglio non sottrae l’armatura dai danni ricevuti.</p>"
+        },
+        {
+            "id": "Intelligent",
+            "name": "Intelligente",
+            "description": "<p>È abbastanza intelligente perché alcuni individui riescano a sviluppare competenze specifiche. Il GM può adattare il mostro aggiungendo etichette per rappresentare un addestramento specifico, come da mago o da guerriero.</p>"
+        },
+        {
+            "id": "Large",
+            "name": "Grande",
+            "description": "<p>È molto più grande di un umano, più o meno quanto un carro.</p>"
+        },
+        {
+            "id": "Magical",
+            "name": "Magico",
+            "description": "<p>È indiscutibilmente magico per natura.</p>"
+        },
+        {
+            "id": "Messy",
+            "name": "Devastante",
+            "description": "<p>Infligge danno in modo particolarmente distruttivo, riducendo in brandelli cose e persone.</p>"
+        },
+        {
+            "id": "Near",
+            "name": "Vicino",
+            "description": "<p>È efficace per attaccare qualcuno di cui riesci a vedere il bianco degli occhi.</p>"
+        },
+        {
+            "id": "Organized",
+            "name": "Organizzato",
+            "description": "<p>Si organizza in gruppi per sopravvivere. Sconfiggerne uno potrebbe causare l’ira di un altro. Oppure uno di loro potrebbe lanciare l’allarme.</p>"
+        },
+        {
+            "id": "Planar",
+            "name": "Planare",
+            "description": "<p>Proviene da oltre questo mondo.</p>"
+        },
+        {
+            "id": "Precise",
+            "name": "Precisa",
+            "description": "<p>Premia gli attacchi accurati. Usi DES per tagliare e spaccare con quest'arma, non FOR.</p>"
+        },
+        {
+            "id": "Ration",
+            "name": "Razione",
+            "description": "<p>È commestibile, più o meno.</p>"
+        },
+        {
+            "id": "Reach",
+            "name": "Lunga",
+            "description": "<p>È utile per attaccare qualcuno lontano un paio di metri — magari anche tre.</p>"
+        },
+        {
+            "id": "Reload",
+            "name": "Ricarica",
+            "description": "<p>Dopo che l'hai usata per attaccare, ci vuole un po' di tempo per prepararla di nuovo all'uso.</p>"
+        },
+        {
+            "id": "Requires",
+            "name": "Richiede: ",
+            "description": "<p>È utile solo ad alcune persone. Se non soddisfi i requisiti funziona male, o non funziona affatto.</p>"
+        },
+        {
+            "id": "Requires Dwarf",
+            "name": "Solo nani",
+            "description": "<p>Solo i nani lo possono utilizzare.</p>"
+        },
+        {
+            "id": "Slow",
+            "name": "Lento",
+            "description": "<p>Ci vogliono minuti o più per usarlo.</p>"
+        },
+        {
+            "id": "Small",
+            "name": "Piccolo",
+            "description": "<p>È grande più o meno quanto un mezzuomo.</p>"
+        },
+        {
+            "id": "Solitary",
+            "name": "Solitario",
+            "description": "<p>Vive e combatte da solo.</p>"
+        },
+        {
+            "id": "Stealthy",
+            "name": "Furtivo",
+            "description": "<p>Sa come non farsi vedere e preferisce attaccare con il vantaggio della sorpresa.</p>"
+        },
+        {
+            "id": "Stun",
+            "name": "Stordimento",
+            "description": "<p>Quando la usi per attaccare, infligge danni da stordimento invece che danni normali.</p>"
+        },
+        {
+            "id": "Terrifying",
+            "name": "Terrificante",
+            "description": "<p>La sua presenza e il suo aspetto incutono paura.</p>"
+        },
+        {
+            "id": "Thrown",
+            "name": "Da lancio",
+            "description": "<p>Lanciala a qualcuno per fargli del male. Se usi <em>raffica</em> con quest'arma, non puoi scegliere di spendere un punto di munizioni con un 7–9; una volta lanciata, è persa finché non riesci a recuperarla.</p>"
+        },
+        {
+            "id": "Tiny",
+            "name": "Minuscolo",
+            "description": "<p>È molto più piccolo di un mezzuomo.</p>"
+        },
+        {
+            "id": "Touch",
+            "name": "Contatto",
+            "description": "<p>Si usa mettendolo a contatto con la pelle del bersaglio.</p>"
+        },
+        {
+            "id": "Two-handed",
+            "name": "A due mani",
+            "description": "<p>Ci vogliono due mani per usarlo efficacemente.</p>"
+        },
+        {
+            "id": "Worn",
+            "name": "Indossato",
+            "description": "<p>Per usarlo, devi indossarlo.</p>"
+        }
+    ]
+}

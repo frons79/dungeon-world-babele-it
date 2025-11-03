@@ -1,0 +1,117 @@
+{
+    "label": "Mosse del Guerriero",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": "Armor Mastery",
+            "name": "Maestria in Armatura",
+            "description": "<p>Quando scegli di lasciare che la tua armatura assorba il grosso del danno, il danno viene annullato ma la tua armatura o il tuo scudo (a tua scelta) prendono -1 <em>armatura</em>. Il valore viene ridotto ogni volta che fai questa scelta. Se l'oggetto rimane con 0 armatura, è distrutto.</p>"
+        },
+        {
+            "id": "Armored",
+            "name": "Corazzato",
+            "description": "<p>Ignori l'etichetta <em>ingombrante</em> sull'armatura che indossi.</p>"
+        },
+        {
+            "id": "Armored Perfection",
+            "name": "Perfezione in Armatura",
+            "description": "<p><em>Sostituisce: Maestria in Armatura</em></p>\n<p>Quando scegli di lasciare che la tua armatura assorba il grosso del danno, il danno viene annullato e prendi +1 al prossimo tiro contro l'aggressore, ma la tua armatura o il tuo scudo (a tua scelta) prendono -1 armatura. Il valore viene ridotto ogni volta che fai questa scelta. Se l'oggetto rimane con 0 armatura, è distrutto.</p>"
+        },
+        {
+            "id": "Bend Bars, Lift Gates",
+            "name": "Piegare Sbarre, Sollevare Cancelli (FOR)",
+            "description": "<p>Quando usi la forza bruta per distruggere un oggetto inanimato, tira+FOR.</p>\n<p>✴ Con un 10+ scegli tre opzioni.</p>\n<p>✴ Con un 7–9 scegli due opzioni.</p>\n<ul>\n<li>Non ci metti molto tempo.</li>\n<li>Niente di valore viene danneggiato.</li>\n<li>Non fai una grande quantità di rumore.</li>\n<li>Puoi riaggiustare l'oggetto senza troppa fatica.</li>\n</ul>"
+        },
+        {
+            "id": "Blacksmith",
+            "name": "Fabbro",
+            "description": "<p>Quando hai accesso a una forgia puoi trasferire le proprietà magiche di un'arma sulla tua arma caratteristica. Questo processo distrugge l'arma magica. La tua arma caratteristica ottiene i poteri dell'arma distrutta.</p>"
+        },
+        {
+            "id": "Bloodthirsty",
+            "name": "Sete di Sangue",
+            "description": "<p><em>Sostituisce: Spietato</em></p>\n<p>Quando infliggi danni, infliggi +1d8 danni.</p>"
+        },
+        {
+            "id": "Evil Eye",
+            "name": "Malocchio",
+            "description": "<p><em>Richiede: Vedere Rosso</em></p>\n<p>Quando entri in combattimento, tira+CAR.</p>\n<p>✴ Con un 10+, prendi 2 punti.</p>\n<p>✴ Con un 7–9, prendi 1 punto.</p>\n<p>Spendi la tua presa per incrociare lo sguardo di un PNG, che s'immobilizza o esita e non può agire finché non distogli lo sguardo.</p><p>✴ Con un 6−, i tuoi nemici ti identificano immediatamente come la minaccia più grande.</p>"
+        },
+        {
+            "id": "Eye For Weaponry",
+            "name": "Un Occhio per le Armi",
+            "description": "<p>Quando osservi le armi del nemico, chiedi al GM quanto danno infligge.</p>"
+        },
+        {
+            "id": "Heirloom",
+            "name": "Cimelio",
+            "description": "<p>Quando ti consulti con gli spiriti che risiedono nella tua arma caratteristica, ti daranno un consiglio riguardo la tua situazione attuale, e potrebbero farti delle domande a loro volta. Tira+CAR.</p>\n<p>✴ Con un 10+, il GM ti fornirà dei dettagli utili.</p>\n<p>✴ Con un 7–9, il GM ti darà un'impressione generale.</p>"
+        },
+        {
+            "id": "Improved Weapon",
+            "name": "Arma Migliorata",
+            "description": "<p>Scegli un miglioramento aggiuntivo per la tua arma caratteristica.</p>"
+        },
+        {
+            "id": "Interrogator",
+            "name": "Interrogatorio",
+            "description": "<p>Quando <em>parlamenti</em> con qualcuno usando la minaccia di fargli del male per far leva su di lui, puoi tirare con FOR invece che con CAR.</p>"
+        },
+        {
+            "id": "Iron Hide",
+            "name": "Pelle di Ferro",
+            "description": "<p>Ottieni +1 armatura.</p>"
+        },
+        {
+            "id": "Merciless",
+            "name": "Spietato",
+            "description": "<p>Quando infliggi danni, infliggi +1d4 danni.</p>"
+        },
+        {
+            "id": "Multiclass Dabbler",
+            "name": "Apprendista Multiclasse",
+            "description": "<p>Scegli una mossa di un'altra classe. Considera il tuo livello come inferiore di uno ai fini di questa mossa.</p>"
+        },
+        {
+            "id": "Multiclass Initiate",
+            "name": "Adepto Multiclasse",
+            "description": "<p><em>Richiede: Apprendista Multiclasse</em></p><p>Scegli una mossa di un'altra classe. Considera il tuo livello come inferiore di uno ai fini di questa mossa.</p>"
+        },
+        {
+            "id": "Scent Of Blood",
+            "name": "L'Odore del Sangue",
+            "description": "<p>Quando <em>tagli e spacchi</em> un nemico, il tuo prossimo attacco contro di esso infligge +1d4 danni.</p>"
+        },
+        {
+            "id": "Seeing Red",
+            "name": "Vedere Rosso",
+            "description": "<p>Quando <em>discerni realtà</em> durante il combattimento, prendi +1.</p>"
+        },
+        {
+            "id": "Signature Weapon",
+            "name": "Arma Caratteristica",
+            "description": "<p>Questa è la tua arma. Ce ne sono tante come lei, ma questa è la tua. La tua arma è la tua migliore amica. È la tua vita. Devi dominarla come domini la tua vita. Senza di te la tua arma non è niente. Senza la tua arma, tu non sei niente. Devi saper colpire il bersaglio.</p>\n<h3>Scegli una descrizione di base, hanno tutte <em>peso 2</em>:</h3>\n<ul>\n<li>Spada</li>\n<li>Hacha</li>\n<li>Martello</li>\n<li>Lancia</li>\n<li>Mazzafrusto</li>\n<li>Pugni</li>\n</ul>\n<h3>Scegli la portata che descrive meglio la tua arma:</h3>\n<ul>\n<li>Corta</li>\n<li>Media</li>\n<li>Lunga</li>\n</ul>\n<h3>Scegli due miglioramenti</h3>\n<ul>\n<li>Uncini e punte. +1 danno, ma +1 peso.</li>\n<li>Affilata. +2 <em>perforante</em>.</li>\n<li>Perfettamente bilanciata. +<em>precisa</em>.</li>\n<li>Enorme. +<em>devastante</em>, +<em>possente</em></li>\n<li>Brilla in presenza di un tipo di creatura, a tua scelta.</li>\n<li>Bordi seghettati. +1 danno.</li>\n<li>Versatile. Scegli una portata aggiuntiva.</li>\n<li>Ben costruita. -1 <em>peso</em>.</li>\n</ul>\n<h3>Scegli un aspetto:</h3>\n<ul>\n<li>Antica</li>\n<li>Senza difetti</li>\n<li>Ornata</li>\n<li>Sinistra</li>\n<li>Macchiata di sangue</li>\n</ul>"
+        },
+        {
+            "id": "Steel Hide",
+            "name": "Pelle d'Acciaio",
+            "description": "<p><em>Sostituisce: Pelle di Ferro</em></p>\n<p>Ottieni +2 armatura.</p>"
+        },
+        {
+            "id": "Superior Warrior",
+            "name": "Guerriero Superiore",
+            "description": "<p>Quando <em>tagli e spacchi</em> con un 12+ infliggi i danni, eviti l'attacco del nemico, e lo impressioni, sgomenti o impaurisci.</p>"
+        },
+        {
+            "id": "Taste Of Blood",
+            "name": "Il Sapore del Sangue",
+            "description": "<p><em>Sostituisce: L'Odore del Sangue</em></p>\n<p>Quando <em>tagli e spacchi</em> un nemico, il tuo prossimo attacco contro di esso infligge +1d8 danni.</p>"
+        },
+        {
+            "id": "Through Death’s Eyes",
+            "name": "Con gli Occhi della Morte",
+            "description": "<p>Quando vai in battaglia, tira+SAG.</p>\n<p>✴ Con un 10+, indica qualcuno che vivrà e qualcuno che morirà.</p>\n<p>✴ Con un 7–9, indica qualcuno che vivrà o qualcuno che morirà.</p>\n<p>Indica dei PNG, non dei personaggi giocanti, Il GM farà in modo che la tua visione si avveri, se è anche remotamente possibile.</p>\n<p>✴ Con un 6− vedi la tua morte e conseguentemente prendi un -1 continuato per tutta la battaglia.</p>"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "label": "Mosse del Druido",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": "Balance",
+            "name": "Equilibrio",
+            "description": "<p>Quando infliggi danno, prendi 1 equilibrio. Quando tocchi qualcuno e richiami gli spiriti della vita puoi spendere equilibrio. Per ogni punto speso guarisci 1d4 PF.</p>"
+        },
+        {
+            "id": "Barkskin",
+            "name": "Pelle Corteccia",
+            "description": "<p>Fintanto che tocchi il suolo con i piedi hai +1 armatura</p>"
+        },
+        {
+            "id": "Blood and Thunder",
+            "name": "Tuoni e Sangue",
+            "description": "<p><em>Sostituisce: Furia di Denti e Artigli</p>\n<p>Quando sei in una forma animale appropriata (qualcosa di pericoloso) aumenta i tuoi danni a un d10.</p>"
+        },
+        {
+            "id": "Born of the Soil",
+            "name": "Nato dal Suolo",
+            "description": "<p>Hai imparato la magia in un luogo dove gli spiriti sono forti e antichi e ti hanno marchiato come uno di loro. Non importa dove tu vada, vivono dentro te e ti permettono di prendere la loro forma. Scegli una delle seguenti opzioni. È la Terra con cui sei in armonia: quando usi <em>mutaforma</em> puoi assumere la forma di qualunque animale potrebbe vivere nella tua Terra.</p>\n<ul>\n<li>Le Grandi Foreste.</li>\n<li>Le Pianure Sussurranti.</li>\n<li>Il Vasto Deserto.</li>\n<li>Il Delta del Fiume.</li>\n<li>Le Profondità della Terra.</li>\n<li>Le Isole di Zaffiro.</li>\n<li>Il Mare Aperto.</li>\n<li>Le Montagne Torreggianti.</li>\n<li>Il Circolo Artico.</li>\n<li>L'Arida Steppa.</li></ul>\n<p>Scegli un Segno Rivelatore — un attributo fisico che ti distingue come Nato dalla Terra — che rifletta lo spirito della tua Terra. Potrebbe essere una caratteristica animale come le corna di un cervo o le macchie di un leopardo, o qualcosa di più generale: capelli come foglie o occhi di cristallo lucente. Il tuo Segno Rivelatore rimane non importa quale forma tu prenda.</p>"
+        },
+        {
+            "id": "By Nature Sustained",
+            "name": "Preservato dalla Natura",
+            "description": "<p>Non hai bisogno di bere o di mangiare. Se una mossa ti dice di consumare una razione ignorala.</p>"
+        },
+        {
+            "id": "Chimera",
+            "name": "Chimera",
+            "description": "<p>Quando usi la tua capacità <em>mutaforma</em>, puoi creare una forma composta da fino a tre esseri diversi. Potresti essere un orso con le ali di un aquila e la testa di un cervo, ad esempio. Ciascuna caratteristica ti conferirà una mossa che puoi fare. La tua forma di chimera per il resto segue le stesse regole di mutaforma.</p>"
+        },
+        {
+            "id": "Communion of Whispers",
+            "name": "Comunione di Sussurri",
+            "description": "<p>Quando passi del tempo in un luogo, prendendo nota degli spiriti che vi risiedono e invocando gli spiriti della terra, tira+SAG. Riceverai una visione significativa per te, per i tuoi alleati e per gli spiriti che ti circondano.</p>\n<p>✴ Con un 10+ la visione sarà chiara e utile.</p>\n<p>✴ Con un 7–9 la visione è torbida e il suo significato confuso.</p>\n<p>✴ Con un fallimento, la visione è inquietante, spaventosa o traumatizzante. Il GM te la descriverà. Prendi -1 al prossimo tiro.</p>."
+        },
+        {
+            "id": "Doppleganger's Dance",
+            "name": "Danza del Sosia",
+            "description": "<p>Puoi <em>studiare l'essenza</em> di individui specifici, inclusi uomini, elfi e simili per assumere la loro forma esatta. Puoi anche nascondere il tuo Segno Rivelatore, ma se lo fai prendi -1 continuato finché non ritorni alla tua forma normale.</p>"
+        },
+        {
+            "id": "Elemental Mastery",
+            "name": "Maestria Elementale",
+            "description": "<p>Quando invochi gli spiriti primordiali del fuoco, dell'acqua, della terra o dell'aria perché svolgano un compito per te tira+SAG.</p>\n<p>✴ Con un 10+ scegli due opzioni.</p>\n<p>✴ Con un 7–9 scegli un'opzione.</p>\n<p>✴ Con un fallimento, qualcosa di catastrofico accade come risultato della tua invocazione.</p>\n<ul>\n<li>L'effetto che desideri accade.</li>\n<li>Eviti di pagare il prezzo richiesto dalla natura.</li>\n<li>Mantieni il controllo.</li>\n</ul>"
+        },
+        {
+            "id": "Embracing No Form",
+            "name": "Svincolato dalla Forma",
+            "description": "<p>Quando usi mutaforma, tira 1d4 e aggiungi il risultato alla presa.</p>"
+        },
+        {
+            "id": "Eyes of the Tiger",
+            "name": "Occhi della Tigre",
+            "description": "<p>Quando marchi un animale (con fango, terra o sangue) puoi vedere attraverso i suoi occhi come se fossero i tuoi, non importa la distanza che vi separa. Solo un animale alla volta può essere marchiato in questo modo.</p>"
+        },
+        {
+            "id": "Formcrafter",
+            "name": "Artigiano di Forme",
+            "description": "<p>Quando usi mutaforma, scegli una capacità: prendi +1 continuato ai tiri con quella capacità mentre sei trasformato. Dopodiché, scegli un'altra capacità: prendi -1 continuato ai tiri con quella capacità mentre sei trasformato.</p>"
+        },
+        {
+            "id": "Formshaper",
+            "name": "Maestro di Forme",
+            "description": "<p><em>Richiede: Artigiano di Forme</em></p>\n<p>Puoi aumentare la tua armatura di 1 o infliggere +1d4 danni aggiuntivi quando sei in forma animale. Scegli quale ogni volta che usi mutaforma.</p>"
+        },
+        {
+            "id": "Hunter's Brother",
+            "name": "Fratello del Cacciatore",
+            "description": "<p>Scegli una mossa dalla lista di classe del Ramingo.</p>"
+        },
+        {
+            "id": "Red of Tooth and Claw",
+            "name": "Furia di Denti e Artigli",
+            "description": "<p>Quando sei in una forma animale appropriata (qualcosa di pericoloso) aumenta i tuoi danni a un d8.</p>"
+        },
+        {
+            "id": "Shapeshifter",
+            "name": "Mutaforma (SAG)",
+            "description": "<p>Quando invochi gli spiriti per cambiare la tua forma, tira+SAG.</p>\n<p>✴ Con un 10+ prendi 3 punti.</p>\n<p>✴ Con un 7–9 prendi 2 punti.</p>\n<p>✴ Con un 6− prendi 1 punto in aggiunta a ciò che ti dice il GM.</p>\n<p>Puoi prendere la forma di qualunque animale la cui essenza hai studiato o che vive nella tua Terra: assieme agli oggetti che porti con te, ti trasformi in una perfetta copia dell'animale scelto. Acquisici qualunque capacità o debolezza innata di questa forma: artigli, ali, branchie, respirare acqua invece che aria. Usi le tue normali statistiche ma alcune mosse potrebbero essere difficili da attivare: un gattino potrebbe avere difficoltà a combattere un ogre. Il GM ti dirà anche una o più mosse associate con la tua nuova forma animale. Spendi 1 presa per fare una di quelle mosse. Una volta finita la presa, ritorni alla tua forma normale. In qualunque momento puoi spendere tutta la presa per tornare alla tua forma normale.</p>\n<p>Le mosse indicano semplicemente cose che l'animale sa fare per istinto, non c'è bisogno di tirare. Se spendi 1 presa per fare una mossa della tua forma animale, quella cosa accade e basta.</p>"
+        },
+        {
+            "id": "Shed",
+            "name": "Cambiare Pelle",
+            "description": "<p>Quando prendi danno mentre sei trasformato, puoi scegliere di annullare il danno e di tornare alla tua forma normale.</p>"
+        },
+        {
+            "id": "Spirit Tongue",
+            "name": "Lingua degli Spiriti",
+            "description": "<p>I grugniti, i latrati, i cinguettii e gli altri versi delle creature selvagge sono per te come una lingua. Puoi comprendere qualunque animale originario della tua Terra o simile a uno di cui hai potuto <em>studiare l'essenza</em>.</p>"
+        },
+        {
+            "id": "Stalker's Sister",
+            "name": "Sorella del Predatore",
+            "description": "<p>Scegli una mossa dalla lista di classe del Ramingo.</p>"
+        },
+        {
+            "id": "Studied Essence",
+            "name": "Studiare l'Essenza",
+            "description": "<p>Quando passi del tempo a contemplare uno spirito animale, puoi aggiungere la sua forma a quelle che puoi assumere usando <em>mutaforma</em>.</p>"
+        },
+        {
+            "id": "The Druid Sleep",
+            "name": "Il Sonno del Druido",
+            "description": "<p>Quando prendi questa mossa, alla prossima opportunità che hai di trascorrere del tempo in un luogo sicuro e appropriato, puoi entrare in sintonia con una nuova Terra. Questo effetto può accadere una sola volta e il GM ti dirà quanto tempo ci vuole e che prezzo dovrai pagare. Da ora in poi, sei considerano Nato da entrambe le Terre.</p>"
+        },
+        {
+            "id": "Thing-talker",
+            "name": "Empatia con le Cose",
+            "description": "<p>Vedi gli spiriti nella sabbia, nel mare e nella pietra. Puoi ora applicare <em>lingua degli spiriti</em>, <em>mutaforma</em> e <em>studiare l'essenza</em> a oggetti naturali inanimati in aggiunta agli animali.</p>"
+        },
+        {
+            "id": "Weather Weaver",
+            "name": "Tessitore di Tempeste",
+            "description": "<p>Quando sei all'aperto quando il sole sorge il GM ti chiederà che tempo farà oggi. Digli che cosa desideri, e accadrà.</p>"
+        },
+        {
+            "id": "World-talker",
+            "name": "Empatia col Mondo",
+            "description": "<p><em>Richiede: Empatia con le Cose</em></p>\n<p>Riesci a vedere i disegni che compongono il tessuto del mondo. Puoi applicare <em>studiare l'essenza</em>, <em>mutaforma</em> e <em>lingua degli spiriti</em> agli elementi puri: fuoco, acqua, aria e terra.</p>"
+        }
+    ]
+}

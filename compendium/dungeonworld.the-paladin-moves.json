@@ -1,0 +1,127 @@
+{
+    "label": "Mosse del Paladino",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": "Armored",
+            "name": "Corazzato",
+            "description": "<p>Ignori l'etichetta <em>ingombrante sull'armatura che indossi</em>.</p>"
+        },
+        {
+            "id": "Bloody Aegis",
+            "name": "Egida Insanguinata",
+            "description": "<p>Quando subisci dei danni puoi stringere i denti e accogliere il colpo. Se lo fai non prendi alcun danno, subendo invece una debilitazione a tua scelta. Se hai già tutte e sei le debilitazioni non puoi usare questa mossa.</p>"
+        },
+        {
+            "id": "Charge!",
+            "name": "Carica!",
+            "description": "<p>Quando carichi davanti a tutti gettandoti nella mischia, coloro che ti seguono prendono +1 al prossimo tiro.</p>"
+        },
+        {
+            "id": "Divine Authority",
+            "name": "Autoridad",
+            "description": "<p><em>Sostituisce: La Voce dell'Autorità</em></p>\n<p>Prendi +1 per <em>dare ordini a un gregario</em>. Con un 12+ il gregario supera il proprio momento di paura e dubbio ed esegue il tuo ordine con particolare efficienza o efficacia.</p>"
+        },
+        {
+            "id": "Divine Favor",
+            "name": "Favore Divino",
+            "description": "<p>Scegli una divinità (inventane una nuova o scegline una già stabilita al tavolo) a cui dedicarti. Ottieni le mosse da Chierico <em>comunione</em> e <em>lanciare incantesimi</em>. Quando scegli questa mossa, considerati un Chierico di livello 1 ai fini degli incantesimi. Ogni volta che sali di livello, aumenta il tuo livello efficace da Chierico di 1.</p>"
+        },
+        {
+            "id": "Divine Protection",
+            "name": "Protección divina",
+            "description": "<p><em>Sostituisce: Protezione Sacra</em></p>\n<p>Hai +1 armatura quando persegui la tua <em>missione</em>.</p>"
+        },
+        {
+            "id": "Ever Onward",
+            "name": "Sempre Avanti!",
+            "description": "<p><em>Sostituisce: Carica!</em></p>\n<p>Quando carichi davanti a tutti gettandoti nella mischia, coloro che ti seguono prendono +1 al prossimo tiro e +2 armatura al prossimo tiro di danni.</p>"
+        },
+        {
+            "id": "Evidence Of Faith",
+            "name": "La Prova della Fede",
+            "description": "<p><em>Richiede: Favore Divino</em></p>\n<p>Quando osservi il manifestarsi della magia divina, puoi chiedere al GM quale divinità abbia concesso l'incantesimo e i suoi effetti. Prendi +1 quando agisci in base alle risposte.</p>"
+        },
+        {
+            "id": "Exterminatus",
+            "name": "Exterminatus",
+            "description": "<p>Quando pronunci ad alta voce il tuo giuramento di sconfiggere un nemico, infliggi +2d4 contro di lui e -4 danni contro chiunque altro.</p>\n<p>L'effetto dura fino a quando il nemico non è sconfitto. Se non riesci a sconfiggere il nemico, o ti arrendi, puoi ammettere il tuo fallimento, ma l'effetto continua fino a quando non trovi un modo per redimerti.</p>"
+        },
+        {
+            "id": "Holy Protection",
+            "name": "Protezione Sacra",
+            "description": "<p>Hai +1 armatura quando persegui la tua <em>missione</em>.</p>"
+        },
+        {
+            "id": "Holy Smite",
+            "name": "Castigo Divino",
+            "description": "<p><em>Sostituisce: Castigo</em></p>\n<p>Mentre persegui la tua <em>missione</em> infliggi +1d8 danni.</p>"
+        },
+        {
+            "id": "Hospitaller",
+            "name": "Ospitaliere",
+            "description": "<p>Quando guarisci un alleato, guarisci +1d8 danni.</p>"
+        },
+        {
+            "id": "I Am The Law",
+            "name": "Io Sono la Legge",
+            "description": "<p>Quando <strong>dai un ordine a un PNG basandoti sulla tua autorità divina</strong>, tira+CAR.</p>\n<p>✴ Con un 7+, il PNG sceglie un'opzione:</p>\n<ul><li>Fare ciò che dici.</li><li>Allontanarsi con prudenza e scappare.</li><li>Attaccarti.</li></ul>\n<p>✴ Con un 10+ in aggiunta prendi +1 al prossimo tiro contro di lui.</p>\n<p>✴ Con un fallimento, il PNG fa ciò che vuole e prendi un -1 al prossimo tiro contro di lui.</p>"
+        },
+        {
+            "id": "Impervious Defender",
+            "name": "Difensore Impenetrabile",
+            "description": "<p><em>Sostituisce: Difensore Devoto</em></p>\n<p>Quando <em>difendi</em> hai sempre +1 presa, anche con un 6−. Con un 12+ a difendere invece di ottenere presa il nemico più vicino che ti sta attaccando viene ostacolato, conferendoti un chiaro vantaggio. Il GM lo descriverà.</p>"
+        },
+        {
+            "id": "Indomitable",
+            "name": "Irriducibile",
+            "description": "<p>Quando subisci una debilitazione (anche con <em>egida insanguinata</em>) prendi +1 al prossimo tiro contro qualunque cosa l'abbia causata.</p>"
+        },
+        {
+            "id": "Lay On Hands",
+            "name": "Imposizione delle Mani (CAR)",
+            "description": "<p>Quando <strong>tocchi qualcuno, pelle contro pelle, e preghi per la sua salute</strong>, tira+CAR.</p>\n<p>✴ Con un 10+, guarisci 1d8 danni o rimuovi una malattia.</p>\n<p>✴ Con un 7-9, lo guarisci come sopra, ma i danni o la malattia sono trasferiti a te.</p>"
+        },
+        {
+            "id": "Perfect Hospitaller",
+            "name": "Maestro Ospitaliere",
+            "description": "<p><em>Sostituisce: Ospitaliere</em></p>\n<p>Quando guarisci un alleato, guarisci +2d8 danni.</p>"
+        },
+        {
+            "id": "Perfect Knight",
+            "name": "Perfetto Cavaliere",
+            "description": "<p>Quando vai in <em>missione</em> scegli tre benedizioni invece di due.</p>"
+        },
+        {
+            "id": "Quest",
+            "name": "Missione",
+            "description": "<p>Quando <strong>ti consacri a una missione con la preghiera e la purificazione rituale</strong>, dichiara il tuo scopo:</p>\n<ul>\n<li>Uccidere _______, un grande flagello di queste terre.</li>\n<li>Difendere _______ dalle iniquità che lo perseguitano.</li>\n<li>Scoprire la verità riguardo a _______.</li>\n</ul>\n<p>Dopodiché scegli fino a due benedizioni:</p>\n<ul>\n<li>Un instancabile senso d'orientamento verso _______.</li>\n<li>Invulnerabilità a _______ (es. armi da taglio, fuoco, stregonerie, etc.).</li>\n<li>Un segno inequivocabile dell'autorità divina.</li>\n<li>Sensi acuti che vedono oltre le menzogne.</li>\n<li>Una voce che trascende ogni linguaggio.</li>\n<li>Libertà dalla fame, dalla sete e dal sonno.</li>\n</ul>\n<p>Il GM ti informerà quindi di quale voto o voti tu debba mantenere per conservare la benedizione:</p>\n<ul>\n<li>Onore (divieto: tattiche da codardo e trucchi sporchi).</li>\n<li>Temperanza (divieto: cedere ai piaceri del mangiare, del bere e della carne).</li>\n<li>Devozione (obbligo: osservanza dei riti sacri ogni giorno).</li>\n<li>Valore (divieto: permettere a una creatura malvagia di vivere).</li>\n<li>Onestà (divieto: menzogne).</li>\n<li>Ospitalità (obbligo: aiutare i bisognosi, non importa di chi si tratti)</li>\n</ul>"
+        },
+        {
+            "id": "Setup Strike",
+            "name": "Attacco a Seguire",
+            "description": "<p>Quando <em>tagli e spacchi</em>, scegli un alleato. Il suo prossimo attacco contro il bersaglio infligge +1d4 danni.</p>"
+        },
+        {
+            "id": "Smite",
+            "name": "Castigo",
+            "description": "<p>Mentre persegui la tua <em>missione</em> infliggi +1d4 danni.</p>"
+        },
+        {
+            "id": "Staunch Defender",
+            "name": "Difensore Devoto",
+            "description": "<p>Quando <em>difendi</em> hai sempre +1 presa, anche con un 6−.</p>"
+        },
+        {
+            "id": "Tandem Strike",
+            "name": "Attacco Coordinato",
+            "description": "<p><em>Sostituisce: Attacco a Seguire</em></p>\n<p>Quando <em>tagli e spacchi</em>, scegli un alleato. Il suo prossimo attacco contro il bersaglio infligge +1d4 danni e l'alleato prende +1 al prossimo tiro contro il bersaglio.</p>"
+        },
+        {
+            "id": "Voice Of Authority",
+            "name": "La Voce dell'Autorità",
+            "description": "<p>Prendi +1 per <em>dare ordini a un gregario</em>.</p>"
+        }
+    ]
+}

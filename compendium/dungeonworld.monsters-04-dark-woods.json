@@ -1,0 +1,317 @@
+{
+	"label": "Mostri - 04 Foreste Oscure",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Centaur",
+			"name": "Centauro",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": "Mezzo uomo, mezzo cavallo"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Sarà un raduno di clan come non se ne sono mai visti in questa era. Chiamate Zoccolo di Tempesta e Lancia Lucente. Convocate Biancachioma e Fianchi di Ferro. Suonate il corno e che il nostro incontro abbia inizio, pronunceremo le parole e uniremo le nostre genti. Troppo a lungo gli uomini hanno abbattuto gli antichi alberi per le loro navi. Gli elfi sono deboli e codardi, amici di quella feccia. Un fuoco purificatore avvamperà dalle foreste più cupe. Innalzate i rossi vessilli di guerra! Oggi ci vendicheremo delle scimmie e ci riprenderemo ciò che è nostro!</p>\n</blockquote>\n<p>Instinto: Infuriarsi.</p>\n<ul>\n<li>Annientare il nemico.</li>\n<li>Centrare perfettamente il bersaglio.</li>\n<li>Spostarsi con velocità inarrestabile.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Vicino\"},{\"value\":\"Orda\"},{\"value\":\"Grande\"},{\"value\":\"Organizzato\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Medio, Lungo, Vicino, Orda, Grande, Organizzato, Intelligente"
+		},
+		{
+			"id": "Chaos Ooze",
+			"name": "Melma del Caos",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": "Melma, Incorpora frammenti di altri piani di esistenza"
+				}
+			},
+			"details": {
+				"biography": "<p>La barriera tra <em>Dungeon World</em> e i piani elementali non è, come sarebbe auspicabile, un muro di pietra. È molto più porosa. Nei luoghi meno battuti dalle razze civilizzate capita che… come dire… ci siano delle infiltrazioni. Un po’ come una diga con qualche falla. Frammenti di caos ne fuoriescono. A volte si addensano come un uovo in padella: da questi si ottiene il materiale per fabbricare tanti degli aggeggi magici delle Gilde; utili, eh? A volte, invece, restano a contorcersi e sguazzare in giro, restando in questo stato e mutando ciò che toccano in qualche altro tipo di strana forma. Caos genera caos, e si accresce.</p>\n<p>Instinto: Mutare.</p>\n<ul>\n<li>Causare un cambiamento nell’aspetto o nella sostanza.</li>\n<li>Creare ponti temporanei fra i piani.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Solitario\"},{\"value\":\"Planare\"},{\"value\":\"Terrificante\"},{\"value\":\"Amorfo\"}]",
+			"tagsString": "Medio, Solitario, Planare, Terrificante, Amorfo"
+		},
+		{
+			"id": "Cockatrice",
+			"name": "Galloserpente",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Tocco pietrificante"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Mai visto niente del genere, forse il signor Rodrick pensava fosse una gallina. Povero Rodrick. Io credevo che fosse un qualche tipo di lucertola ma anche lui aveva le sue ragioni, aveva un becco e penne grigie come un pollo. Si, beh, vede, l’abbiamo trovato nel bosco, in un nido ai piedi di un albero mentre eravamo in giro con la scrofa. Per funghi, signore. Io dicevo a Rodrick che — si signore, certo signore, l’uccello — vede, stava fissando Rodrick e quando lui ha provato a spaventarlo con un bastone per rubargli le uova quella cosa l’ha beccato sulla mano. Veloce, anche. Ho cercato di portarlo via ma lui diventava sempre più lento e… beh signore, proprio come lo vede ora, signore. Duro come il cane che ci si è congelato due inverni fa, quando l’abbiamo lasciato fuori la notte. Povero stupido Rodrick. Non era né un uccello né una lucertola, vero, signore?</p>\n</blockquote>\n<p>Instinto: Difendere il nido.</p>\n<ul>\n<li>Dare il via ad una lenta trasformazione in pietra.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Gruppo\"},{\"value\":\"Piccolo\"},{\"value\":\"Accumulatore\"}]",
+			"tagsString": "Medio, Gruppo, Piccolo, Accumulatore"
+		},
+		{
+			"id": "Dryad",
+			"name": "Driade",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Vegetale"
+				}
+			},
+			"details": {
+				"biography": "<p>Di una bellezza di gran lunga maggiore di qualsiasi uomo o donna nati nei reami civilizzati, posare gli occhi su una di esse, o essi, significa innamorarsene. Profondamente e dolorosamente, tra l’altro. Ma esse non amano, non le genti di carne e sangue che ogni tanto si imbattono in loro, comunque. Il loro amore è qualcosa di primordiale, sposate ai boschi, ad una grande quercia che per loro è casa e madre e luogo di culto. Vederne una è una maledizione perché non ricambierà mai il tuo amore, qualsiasi cosa tu faccia. Non conta che tu le dia tutto te stesso, non avrai nulla di più di un rifiuto sdegnoso. Se mai dovessi ferire la sua quercia non solo dovrai affrontare la sua furia, nei villaggi della zona troverai decine di uomini che portano in cuore un desiderio segreto, pronti ad ammazzarti nel sonno anche solo per un suo sorriso.</p>\n<p>Instinto: Amare la natura appassionatamente.</p>\n<ul>\n<li>Adescare un mortale.</li>\n<li>Fondersi in un albero.</li>\n<li>Scatenare la natura contro i nemici.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Solitario\"},{\"value\":\"Magico\"},{\"value\":\"Intelligente\"},{\"value\":\"Sfuggente\"}]",
+			"tagsString": "Medio, Solitario, Magico, Intelligente, Sfuggente"
+		},
+		{
+			"id": "Elvish High Arcanist",
+			"name": "Elfo, Sommo Arcanista",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": "Sensi acuti"
+				}
+			},
+			"details": {
+				"biography": "<p>La vera magia elfica non è come gli incantesimi dell’uomo. La magia umana è fatta di formule ripetute meccanimente, a memoria: un trucco per trovare gli arcani segreti che risuonano tutto attorno a loro, gli uomini sono sordi alla sinfonia che si leva nei boschi. La magia elfica richiede un orecchio fine per cogliere quella musica e la voce da accompagnare nel canto, per mettersi in armonia con ciò che già risuona. L’uomo piega le forze della magia al suo volere, gli elfi la accompagnano con arpe e cori. Il sommo arcanista, in un certo senso, è diventato più, e meno, di qualsiasi altro elfo. Il battito del suo cuore è il pulsare di tutta la magia al mondo.</p>\n<p>Instinto: Scatenare il potere.</p>\n<ul>\n<li>Operare la magia richiesta dalla natura.</li>\n<li>Incanalare gli elementi.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Vicino\"},{\"value\":\"Lontano\"},{\"value\":\"Solitario\"},{\"value\":\"Magico\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Vicino, Lontano, Solitario, Magico, Intelligente, Organizzato"
+		},
+		{
+			"id": "Elvish Warrior",
+			"name": "Elfo, Guerriero",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Sensi acuti"
+				}
+			},
+			"details": {
+				"biography": "<p>Come in tutte le cose che intraprendono, gli elfi approcciano la guerra come un’arte. Li ho visti combattere una volta, alla Battaglia del Velo di Astrid. Si, sono così vecchio, ragazzo, e ora zitto. Una fanciulla guerriera, indossava una armatura splendente come il cielo d’inverno. Candidi capelli fluenti e uno stendardo color del mare legato alla sua lancia. Sembrava scivolare tra gli alberi come un angelo, colpendo e bagnando la sua lama di sangue, fumante all’aria fredda. Non mi ero mai sentito così piccolo. Mi sono allenato con i maestri d’arme di Battlemoore, sai. Ho tenuto in pugno una spada per più tempo di quanto tu non abbia vissuto, ragazzo, e in quel momento ho capito che le mie abilità non contavano niente. Grazie agli dei gli elfi erano dalla nostra parte. Non ho mai visto nulla di così bello e terribile.</p>\n<p>Instinto: Ricercare la perfezione.</p>\n<ul>\n<li>Colpire un punto debole.</li>\n<li>Attuare antichi progetti.</li>\n<li>Sfruttare i boschi per mettersi in vantaggio.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Orda, Intelligente, Organizzato"
+		},
+		{
+			"id": "Assassin Vine",
+			"name": "Liana Assassina",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": "Vegetale"
+				}
+			},
+			"details": {
+				"biography": "<p>Tra gli animali esiste una netta distinzione tra cacciatore e preda. Basta uno sguardo alle zanne e agli occhi ardenti, agli artigli o a un pungiglione velenoso per capire quali creature siano nate per uccidere e quali per essere uccise. La stessa distinzione, per chi ha occhi per vederla, divide in due anche il mondo delle foglie e dei fiori. Lo sanno i druidi nelle loro foreste e i raminghi pure potrebbero essere in grado di individuare quel genere di piante prima che sia troppo tardi. I profani invece si aggirano dove non dovrebbero, nel folto dei boschi, per sentieri ricoperti da arbusti striscianti quando con uno schiocco queste liane voraci scattano, avviluppando la loro preda succulenta e trascinandola nel sottobosco. Attento ai tuoi piedi, viaggiatore.</p>\n<p>Instinto: Espandersi.</p>\n<ul>\n<li>Diffondersi.</li>\n<li>Attaccare gli incauti.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Devastante\"},{\"value\":\"Solitario\"},{\"value\":\"Furtivo\"},{\"value\":\"Amorfo\"}]",
+			"tagsString": "Medio, Lungo, Devastante, Solitario, Furtivo, Amorfo"
+		},
+		{
+			"id": "Hill Giant",
+			"name": "Gigante delle Colline",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Mai visto un ogre? Ecco, più grosso. E anche più scemo e cattivo. Spero che ti piaccia farti scagliare addosso delle mucche.</p>\n<p>Instinto: Spaccare tutto.</p>\n<ul>\n<li>Lanciare qualcosa.</li>\n<li>Fare qualcosa di stupido.</li>\n<li>Fare tremare la terra.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lungo\"},{\"value\":\"Vicino\"},{\"value\":\"Lontano\"},{\"value\":\"Possente\"},{\"value\":\"Gruppo\"},{\"value\":\"Enorme\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Lungo, Vicino, Lontano, Possente, Gruppo, Enorme, Intelligente, Organizzato"
+		},
+		{
+			"id": "Griffin",
+			"name": "Grifone",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Ali"
+				}
+			},
+			"details": {
+				"biography": "<p>A prima vista il grifone si potrebbe scambiare per qualche forma di magia finita male, come la manticora o la chimera. Sembrerebbe, no? Queste creature hanno sì la stessa regale altezzosità del leone e l’arroganza dell’aquila, ma a mitigare il loro carattere possiedono anche l’irremovibile lealtà di entrambi gli animali. Farsi amico un grifone significa essersi guadagnati un alleato per il resto dei propri giorni, un vero dono. Se sarai mai abbastanza fortunato da incontrarne uno sii prima di tutto rispettoso e deferente. Anche se non sembra, possono percepire la più lieve delle mancanze di rispetto, e vi risponderanno a colpi di becco e artigli.</p>\n<p>Instinto: Servire gli alleati.</p>\n<ul>\n<li>Giudicare il valore di qualcuno.</li>\n<li>Portare in volo un alleato.</li>\n<li>Colpire dall'alto.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Possente\"},{\"value\":\"Gruppo\"},{\"value\":\"Grande\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Lungo, Possente, Gruppo, Grande, Organizzato"
+		},
+		{
+			"id": "Sprite",
+			"name": "Spiritello",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Ali, Magia delle Fate"
+				}
+			},
+			"details": {
+				"biography": "<p>Li classificherei come elementali, non fosse che “essere molesti” non è un elemento.</p>\n<p>Instinto: Giocare brutti tiri.</p>\n<ul>\n<li>Rivelare la natura di qualcuno tramite un dispetto.</li>\n<li>Confondere i loro sensi.</li>\n<li>Plasmare un'illusione.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Corto\"},{\"value\":\"Orda\"},{\"value\":\"Minuscolo\"},{\"value\":\"Furtivo\"},{\"value\":\"Magico\"},{\"value\":\"Sfuggente\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Corto, Orda, Minuscolo, Furtivo, Magico, Sfuggente, Intelligente"
+		},
+		{
+			"id": "Werewolf",
+			"name": "Lupo Mannaro",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": "Vulnerabile all'argento"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Stupenda, vero? La luna, dico. E ci guarda, sai? I suoi begli occhi argentei ci vegliano nel sonno. È folle, anche, come tutte le cose più belle. Se fosse una donna mi ci inginocchierei davanti ora, a chiederle la mano. No, comunque non ti ho chiamata qui per parlarti di lei. Le catene? sono per la tua sicurezza, non per la mia. Sono maledetto, sai, l'avrai immaginato. I re stregoni nei loro giorni la chiamarono <em>licantropia</em>, basta un morso per generare un altro come me. No, non ho trovato nessuna cura. Ti prego, non temere. Hai le frecce che ti ho dato? Si, argento. Ah... cominci a capire. Non piangere, sorella. Fallo per me. Non posso sopportare altro sangue sulle mie mani, devi mettere una fine a questa cosa. Per me.</p>\n</blockquote>\n<p>Instinto: Liberarsi dalle vestigia della civiltà.</p>\n<ul>\n<li>Trasformarsi per passare inosservato in forma umana o animale.</li>\n<li>Colpire dall'interno.</li>\n<li>Cacciare come uomo e come bestia.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Devastante\"},{\"value\":\"Solitario\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Medio, Devastante, Solitario, Intelligente"
+		},
+		{
+			"id": "Worg",
+			"name": "Lupo Nero",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Così come i cavalli stanno alle razze civilizzate, i lupi neri stanno ai goblin. Cavalcature feroci in battaglia, montate solo dai più prodi e temibili, vengono trovati e allevati nella foresta vergine perché servano i goblin nelle guerre contro l’uomo. L’unico lupo nero non pericoloso è il cucciolo, se separato dalla madre. Se riesci a trovarne uno o a rendere orfana una cucciolata a colpi di spada, avrai ciò che col tempo potrà diventare un fedele guardiano o un ottimo cane da caccia. Addestralo bene, attento, perché i lupi neri sono intelligenti e non si libereranno mai completamente dai loro istinti.</p>\n<p>Instinto: Servire.</p>\n<ul>\n<li>Portare un cavaliere in battaglia.</li>\n<li>Dare un vantaggio al proprio cavaliere.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Orda, Organizzato"
+		},
+		{
+			"id": "Razor Boar",
+			"name": "Cinghiale dai denti a sciabola",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 3"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Le zanne del cinghiale dai denti a sciabola squarciano piastre di ferro come fossero tessuto. Vorace, feroce e inarrestabile, si eleva ben al di sopra del suo parente più comune. Ucciderne uno? È difficile pensare ad un trofeo che possa rappresentare meglio coraggio e abilità, anche se ho sentito dire che un cinghiale dai denti a sciabola abbia ucciso il re di Drunkard con una sola carica. Pensi di essere un cacciatore migliore di lui?</p>\n<p>Instinto: Fare a brandelli.</p>\n<ul>\n<li>Squartare qualcuno.</li>\n<li>Lacerare armature e armi.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Devastante\"},{\"value\":\"Solitario\"}]",
+			"tagsString": "Medio, Devastante, Solitario"
+		},
+		{
+			"id": "Ogre",
+			"name": "Ogre",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>A un certo punto della non così lunga storia della razza umanoide ci fu una scissione. Nei giorni in cui gli uomini vivevano ancora nel fango, senza una magia che potessero definire propria, essi si divisero: alcuni lasciarono le grotte e le foreste buie e costruirono la prima città, per onorare gli dei. Gli altri, un gruppo primitivo e selvaggio, si ritirarono nell’oscurità. E lì crebbero. Nel profondo dei boschi, si rinforzarono nutrendosi del rancore verso i loro parenti più deboli. Trovarono i loro dei oscuri nelle foreste e sulle colline. Col passare delle ere crebbero alti e forti e pieni d’odio. Noi abbiamo acciaio forgiato ma loro compensano con la ferocia. Noi potremo aver dimenticato le nostre origini comuni ma da qualche parte, nel profondo, gli ogri ricordano.</p>\n<p>Instinto: Riportare il mondo ai giorni oscuri.</p>\n<ul>\n<li>Distruggere qualcosa.</li>\n<li>Infuriarsi all'improvviso.</li>\n<li>Prendere qualcosa con la forza.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Possente\"},{\"value\":\"Gruppo\"},{\"value\":\"Grande\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Medio, Lungo, Possente, Gruppo, Grande, Intelligente"
+		},
+		{
+			"id": "Blink Dog",
+			"name": "Molosso Instabile",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Illusione"
+				}
+			},
+			"details": {
+				"biography": "<p>Ora lo vedi, ora non lo vedi. Una volta appartenuti ad un potente stregone e permeati dal potere di una illusione occultante, fuggirono nei boschi attorno al suo covo e si accoppiarono con i lupi e i cani selvatici della foresta. Puoi individuarli, se sei fortunato, dal luccichio argenteo del loro manto e dal loro strano, lamentoso ululato. Hanno un talento straordinario nell’essere in un posto diverso da quello in cui sembra che siano, e lo sfruttano per abbattere prede molto più forti di loro. Se ti trovi davanti un branco di molossi instabili tanto vale che tu li combatta ad occhi chiusi, almeno non verrai ingannato dai tuoi stessi occhi. Queste sono le stregonerie che ammorbano la natura.</p>\n<p>Instinto: Cacciare.</p>\n<ul>\n<li>Dare l’impressione di essere dove non sono.</li>\n<li>Richiamare il branco.</li>\n<li>Muoversi a una velocità incredibile.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Gruppo\"},{\"value\":\"Piccolo\"},{\"value\":\"Magico\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Gruppo, Piccolo, Magico, Organizzato"
+		},
+		{
+			"id": "Eagle Lord",
+			"name": "Signore delle Aquile",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": "Ali poderose"
+				}
+			},
+			"details": {
+				"biography": "<p>Alcuni grossi come cavalli, anche più grandi, i re e le regine delle aquile. Il loro grido penetra i cieli di montagna e guai a quelli che si ritrovano all’ombra delle loro ali possenti. I maghi antichi hanno suggellato patti con le aquile in ere ancestrali: l’uomo avrebbe preso le pianure e le valli e avrebbe lasciato le cime ai signori delle aquile. Rispetta questi antichi patti, se non vuoi ritrovarti coi loro artigli affondati nelle tue carni. Fortunati sono gli elfi, perché quelli di loro che strinsero il patto ancora vivono, e quando le loro terre sono in pericolo i signori delle aquile spesso si prestano come spie o come cavalcature. Fieri e longevi, alcuni potrebbero anche essere interessati a scambiare i loro antichi segreti per il giusto prezzo.</p>\n<p>Instinto: Dominare le altezze.</p>\n<ul>\n<li>Attaccare dal cielo.</li>\n<li>Sollevare qualcuno in aria.</li>\n<li>Appellarsi ad antichi giuramenti.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Gruppo\"},{\"value\":\"Grande\"},{\"value\":\"Organizzato\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Medio, Lungo, Gruppo, Grande, Organizzato, Intelligente"
+		},
+		{
+			"id": "Satyr",
+			"name": "Sátiro",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Encantamiento"
+				}
+			},
+			"details": {
+				"biography": "<p>Una de las escasas criaturas que puedes encontrar en los viejos bosques y que no querr&aacute;n herirte, matarte o comerte al instante. Habitan en claros a los que llega el sol y bailan con sus divertidas patas de cabra al son de la encantadora m&uacute;sica que tocan con sus flautas hechas de plata y hueso. Mientras les complazcas con bromas y juegos, ser&aacute;n de sonrisa f&aacute;cil, trat&aacute;ndote de manera amable y amistosa. Pero tienen una vena cruel, as&iacute; que desaparece presto si les contrar&iacute;as, pues pocas cosas son tan rencorosas como un terco s&aacute;tiro.</p>\n<p>Instinto: Disfrutar.</p>\n<ul>\n<li>Atraer a otros a su fiesta mediante la magia.</li>\n<li>Obligar a otros a hacerle regalos.</li>\n<li>Gastar bromas con trucos e ilusiones.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Gruppo\"},{\"value\":\"Sfuggente\"},{\"value\":\"Magico\"},{\"value\":\"Accumulatore\"}]",
+			"tagsString": "Medio, Gruppo, Sfuggente, Magico, Accumulatore"
+		},
+		{
+			"id": "Treant",
+			"name": "Treant",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "De madera"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Vieja, alta y gruesa corteza</p>\n<p>que camina entre la oscuridad de la linde.</p>\n<p>Fuerte, lento, hijo del bosque.</p>\n<p>Aun as&iacute; su ira es rauda,</p>\n<p>si a los bosques vas con hacha ver&aacute;s</p>\n<p>que los treants son tus enemigos</p>\n</blockquote>\n<p>Instinto: Proteger la naturaleza.</p>\n<ul>\n<li>Moverse con una fuerza implacable.</li>\n<li>Echar ra&iacute;ces.</li>\n<li>Extender la antigua magia.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lungo\"},{\"value\":\"Possente\"},{\"value\":\"Gruppo\"},{\"value\":\"Enorme\"},{\"value\":\"Intelligente\"},{\"value\":\"Amorfo\"}]",
+			"tagsString": "Lungo, Possente, Gruppo, Enorme, Intelligente, Amorfo"
+		}
+	]
+}

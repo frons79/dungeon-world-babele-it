@@ -1,0 +1,335 @@
+{
+	"label": "Mostri - 01 Abitanti delle Caverne",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Choker",
+			"name": "Strangolatore",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Flessibile"
+				}
+			},
+			"details": {
+				"biography": "<p>Alcuni dicono che queste creature siano i discendenti della famiglia di un mago crudele, da lui costretti a trascorrere la loro vita nel sottosuolo. Si dice che i suoi esperimenti lo condussero a temere il sole, e col passare delle ere sprofondò nella non vita, trascinando con se tutta la propria gente. Assomigliano a uomini, in un certo senso. Una testa, quattro arti e tutto il resto. Ma la loro pelle è umida e gommosa, le loro braccia lunghe e le loro dita ferine. Come ci si potrebbe aspettare, odiano tutte le creature che emanano l’olezzo di chi vive sotto al sole. L’invidia, covata a lungo, è difficile da scrollare via.</p>\n<p>Istinto: Rifiutare la luce.</p>\n<ul>\n<li>Stritolare qualcuno fino a che non ha più aria in corpo.</li>\n<li>Scagliare una creatura bloccata.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Solitario\"},{\"value\":\"Furtivo\"},{\"value\":\"Piccolo\"}]",
+			"tagsString": "Medio, Lungo, Solitario, Furtivo, Piccolo"
+		},
+		{
+			"id": "Ankheg",
+			"name": "Ankheg",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Scavare cunicoli"
+				}
+			},
+			"details": {
+				"biography": "<p>Avere un carapace duro come una corazza di piastre ed enormi mandibole devastanti è un buon inizio per essere una fonte di problemi. Uno stomaco colmo di acido capace di bucare una parete di pietra peggiora ulteriormente le cose. Sarebbero già abbastanza cattivi se fossero della taglia di un insetto, ma questi esseri hanno la faccia tosta di essere grossi quanto un cavallo. Non è affatto normale! E sarebbe una buona cosa che tendono ad essere stanziali? La fate semplice: non avete un Ankheg che vive sotto il vostro campo di grano.</p>\n<p>Istinto: Scavare</p>\n<ul>\n<li>Scavare il terreno.</li>\n<li>Uscire dalla terra.</li>\n<li>Spruzzare acido, corrodendo carne e metallo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Gruppo\"},{\"value\":\"Grande\"}]",
+			"tagsString": "Medio, Lungo, Gruppo, Grande"
+		},
+		{
+			"id": "Spiderlord",
+			"name": "Signore dei Ragni",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Scavare cunicoli"
+				}
+			},
+			"details": {
+				"biography": "<p>Anche i ragni hanno dèi, a cui sussurrano dalle loro tele, con le piccole zampe giunte in preghiera.</p>\n<p>Istinto: Intessere ragnatele (letteralmente e metaforicamente).</p>\n<ul>\n<li>Avviluppare nella ragnatela.</li>\n<li>Mettere in atto un piano.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Sfuggente\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Medio, Lungo, Solitario, Grande, Sfuggente, Intelligente"
+		},
+		{
+			"id": "Maggot-Squid",
+			"name": "Verme-Iena",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Anfibio, Tentacoli paralizzanti."
+				}
+			},
+			"details": {
+				"biography": "<p>Gli dèi che crearono queste creature stavano facendo qualche folle tiro mancino ai popoli civilizzati del mondo. Il volto del verme iena trabocca di tentacoli che che al tocco ti paralizzano come un fulmine, in modo da poterti mangiare lentamente mentre non puoi difenderti. Meglio non farsi colpire.</p>\n<p>Istinto: Mangiare.</p>\n<ul>\n<li>Paralizzare con un tocco.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"},{\"value\":\"Piccolo\"}]",
+			"tagsString": "Medio, Orda, Piccolo"
+		},
+		{
+			"id": "Gelatinous Cube",
+			"name": "Cubo Gelatinoso",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": "Transparente"
+				}
+			},
+			"details": {
+				"biography": "<p>Quanti avventurieri hanno avuto come ultimo pensiero: “strano, questo tunnel sembra più pulito degli altri?”. Troppi, e tutto per colpa di questa minaccia trasparente. Un’enorme massa informe e corrosiva che si espande fino a riempire camere e corridoi, che poi scivola, seppur lentamente, mangiando tutto quello che incontra sulla sua strada. Non digerisce pietra e metallo, quindi potreste notare qualche residuo galleggiare nella sua massa gelatinosa. Rivoltante!</p>\n<p>Istinto: Pulire.</p>\n<ul>\n<li>Riempire uno spazio apparentemente vuoto.</li>\n<li>Dissolvere.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Corto\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Furtivo\"},{\"value\":\"Amorfo\"}]",
+			"tagsString": "Corto, Solitario, Grande, Furtivo, Amorfo"
+		},
+		{
+			"id": "Earth Elemental",
+			"name": "Elementale della Terra",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Fatto di pietra"
+				}
+			},
+			"details": {
+				"biography": "<p>Ogni cosa in questo mondo ha uno spirito, così dice il nostro sciamano. Sassi, alberi, un corso d’acqua. Adesso che ho visto la terra stessa agitarsi sotto i miei piedi e i miei amici mezzi morti dopo esser stati picchiati con pugni di pietra, sono più propenso a credere a quel vecchio pazzo. Quello che ho visto era enorme: grande come una casa! È emerso da una frana apparendo improvvisamente dal nulla e aveva una voce come di una valanga. Rendo omaggio agli spiriti, ora. Già.</p>\n<p>Istinto: Mostrare la forza della terra.</p>\n<ul>\n<li>Usare la terra come arma.</li>\n<li>Fondersi con la pietra.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lungo\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Enorme\"}]",
+			"tagsString": "Lungo, Possente, Solitario, Enorme"
+		},
+		{
+			"id": "Dwarven Warrior",
+			"name": "Nano, Guerriero",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Per secoli, l’umanità credeva che i nani fossero tutti maschi fatti delle stessa pasta: stoici ed impavidi guerrieri, armati d’ascia e vestiti di piastre. Nani dalle folte barbe, sempre pronti al combattimento e che respingevano sempre con ferocia gli invasori alle porte delle loro miniere. Questo dimostra quanto gli uomini siano ignoranti in merito alle razze antiche. Questa gente è solo l’avanguardia che adempie al proprio dovere con coraggio: protegge le ricchezze del reame nanico. Guadagna la loro fiducia e avrai un alleato per la vita. Scatena la loro ira e non avrai molto tempo per pentirtene.</p>\n<p>Istinto: Difendere.</p>\n<ul>\n<li>Respingerli.</li>\n<li>Chiamare rinforzi.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Orda, Organizzato"
+		},
+		{
+			"id": "Fire Beetle",
+			"name": "Scarabeo di Fuoco",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": "Infiammato"
+				}
+			},
+			"details": {
+				"biography": "<p><em>Scarabaeus pyractomena</em>! Che splendida creatura:vedi come risplende il suo carapace alla luce delle nostre torce? Non avvicinarti troppo, sono irrequieti. Il fuoco nei loro stomaci non è soltanto metaforico, no. Guarda come pungolo la bestia. Aha! Un getto di fuoco! Non te l’aspettavi, eh? Se una di queste creature viene fuori dal sottosuolo può essere una bella seccatura per una fattoria o per un villaggio. Un intero sciame? C’è un motivo se lo chiamano una conflagrazione di scarabei di fuoco.</p>\n<p>Istinto: Infiammare.</p>\n<ul>\n<li>Scavare sottoterra.</li>\n<li>Uscire dal terreno.</li>\n<li>Spruzzare getti di fiamme.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Vicino\"},{\"value\":\"Orda\"},{\"value\":\"Piccolo\"}]",
+			"tagsString": "Vicino, Orda, Piccolo"
+		},
+		{
+			"id": "Goblin",
+			"name": "Goblin",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Nessuno sa da dove arrivino queste creature. Gli elfi dicono che sia colpa dei nani, che scavando li hanno liberati da qualche luogo sotterraneo. I nani sostengono che siano bambini cattivi elfici, portati via alla nascita e cresciuti nell’oscurità. La verità è che i goblin ci sono sempre stati e ci saranno anche quando tutte le razze civilizzate saranno cadute e scomparse. I goblin non si estingueranno mai, ce ne sono dannatamente troppi.</p>\n<p>Istinto: Multiplicarsi.</p>\n<ul>\n<li>Caricare!</li>\n<li>Chiamare altri goblin.</li>\n<li>Ritirarsi e tornare con (molti) altri alleati.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Orda\"},{\"value\":\"Piccolo\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Lungo, Orda, Piccolo, Intelligente, Organizzato"
+		},
+		{
+			"id": "Goblin Orkaster",
+			"name": "Goblin, Orcantatore",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Oh cielo, chi gli ha insegnato la magia?</p>\n<p>Istinto: Attingere potere oltre la loro statura.</p>\n<ul>\n<li>Scatenare un incantesimo a malapena compreso.</li>\n<li>Diffondere il caos magico.</li>\n<li>Usare gli altri goblin come scudi.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Vicino\"},{\"value\":\"Lontano\"},{\"value\":\"Solitario\"},{\"value\":\"Piccolo\"},{\"value\":\"Magico\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Vicino, Lontano, Solitario, Piccolo, Magico, Intelligente, Organizzato"
+		},
+		{
+			"id": "Goliath",
+			"name": "Goliath",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Dimorano sotto terra perché non appartengono più alla superficie. Una razza immortale di possenti titani che fuggì da pianure e montagne nelle ere passate, cacciati dagli umani e dai loro eroi. Attendono nell’oscurità, con odio e rabbia infiammati dal calore delle pozze di lava del sottosuolo. Si dice che i terremoti siano il vagito di un goliath che nasce. Un giorno si riprenderanno ciò che era loro.</p>\n<p>Istinto: Riconquistare.</p>\n<ul>\n<li>Scuotere la terra.</li>\n<li>Ritirarsi, solo per tornare più forte.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lungo\"},{\"value\":\"Possente\"},{\"value\":\"Gruppo\"},{\"value\":\"Enorme\"},{\"value\":\"Organizzato\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Lungo, Possente, Gruppo, Enorme, Organizzato, Intelligente"
+		},
+		{
+			"id": "Purple Worm",
+			"name": "Verme Purpureo",
+			"attributes": {
+				"damage": {
+					"value": "d10+5",
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Scavare cunicoli"
+				}
+			},
+			"details": {
+				"biography": "<p>Alleluia! Alleluia! Il verme purpureo! Benedetto il suo sacro muco! Noi camminiamo, indegni, per le miglia e miglia di enormi cunicoli da esso scavati. Non siamo che ombre sotto la sua violacea gloria che tutto divora. Semplici accoliti, speriamo di unirci un giorno al grande abbraccio delle sue fauci circondate da denti. Che ci consumi! Che mangi le nostre case e i nostri villaggi, così potremo essere prescelti! Alleluia! Alleluia! Il verme purpureo!</p>\n<p>Istinto: Consumare.</p>\n<ul>\n<li>Inghiottire tutto.</li>\n<li>Traforare terra e pietra.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lungo\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Enorme\"}]",
+			"tagsString": "Lungo, Possente, Solitario, Enorme"
+		},
+		{
+			"id": "Gargoyle",
+			"name": "Gargoyle",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Ali"
+				}
+			},
+			"details": {
+				"biography": "<p>È una vicenda triste, davvero. Guardiani addestrati dagli incantatori del passato senza più un castello da proteggere. Hanno nel sangue la sacra mansione dei loro antenati che li porta a cercare un posto, solitamente delle rovine, o talvolta una caverna o una rupe, e sorvegliarlo come se il loro maestro vivesse lì. Sono anche noti per la loro capacità di trovare oggetti di valore sepolti .Trova uno di questi rettili alati e sicuramente ci sarà un tesoro vicino. Fa’ attenzione, sono difficili da individuare e tendono a spostarsi in branco.</p>\n<p>Istinto: Sorvegliare.</p>\n<ul>\n<li>Attaccare di sorpresa.</li>\n<li>Sollevare in volo.</li>\n<li>Mimetizzarsi fra le strutture di pietra.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"},{\"value\":\"Furtivo\"},{\"value\":\"Accumulatore\"}]",
+			"tagsString": "Medio, Orda, Furtivo, Accumulatore"
+		},
+		{
+			"id": "Cloaker",
+			"name": "Mantoscuro",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": "Sembra un mantello"
+				}
+			},
+			"details": {
+				"biography": "<p>Non metterti quel mantello, Gareth. Non farlo. Non sai chi può averlo indossato. Te lo dico, ha qualcosa che non va. Guarda, si muove! Non sono pazzo, Gareth, si è mosso! Non farlo! No! GARETH!</p>\n<p>Istinto: Envolver.</p>\n<ul>\n<li>Envolver a los desprevenidos.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Solitario\"},{\"value\":\"Furtivo\"}]",
+			"tagsString": "Medio, Solitario, Furtivo"
+		},
+		{
+			"id": "Roper",
+			"name": "Morfolito",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Pelle di pietra"
+				}
+			},
+			"details": {
+				"biography": "<p>La casualità dell’evoluzione ha creato un predatore sotterraneo molto astuto. Il roper si camuffa come parte dell’ambiente roccioso, spesso come stalattite o stalagmite, ed aspetta che la sua preda passi vicino. Quando lo fa, che sia un ratto, un goblin o un incauto avventuriero, una tempesta di tentacoli emerge dalla pelle della creatura. In batter d’occhio un centinaio di frustate stordiscono la preda che viene trascinata nella bocca del roper. Sorprendentemente efficace per qualcosa che assomiglia ad una roccia.</p>\n<p>Istinto: Tendere imboscate.</p>\n<ul>\n<li>Accalappiare gli ignari.</li>\n<li>Disarmare un nemico.</li>\n<li>Masticare qualcuno.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Furtivo\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Medio, Lungo, Solitario, Grande, Furtivo, Intelligente"
+		},
+		{
+			"id": "Rot Grub",
+			"name": "Larve della Putrefazione",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Scavare nella carne"
+				}
+			},
+			"details": {
+				"biography": "<p>Vivono sotto tua pelle. O nei tuoi organi. O nei tuoi bulbi oculari. Crescono lì dentro e poi, in modo sanguinoso e terribile, scavano la loro via di fuga verso l'esterno.</p>\n<p>Istinto: Infestare.</p>\n<ul>\n<li>Scavare nella carne.</li>\n<li>Deporre uova.</li>\n<li>Fuoriuscire da una creatura infettata.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Corto\"},{\"value\":\"Orda\"},{\"value\":\"Minuscolo\"}]",
+			"tagsString": "Corto, Orda, Minuscolo"
+		},
+		{
+			"id": "Otyugh",
+			"name": "Otyugh",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Febbre lurida"
+				}
+			},
+			"details": {
+				"biography": "<p>Il richiamo d’amore dell’otyugh è un orribile grido assordante che sembra una via di mezzo fra un elefante che muore ed un avvoltoio impaziente di mangiarti. L’otyugh spende la maggior parte del suo tempo immerso nell’acqua putrida mangiando immondizia, che preferisce ad ogni altro cibo. Infatti solitamente sono grassi e forti grazie alle frattaglie di orchi, goblin ed altri umanoidi che vivono nelle caverne. Avvicinati troppo e ti trascinerà con uno dei suo tentacoli uncinati verso le sue fauci dai denti affilati. Se riesci a farla franca, meglio andare da un dottore, o la tua vittoria potrebbe avere vita breve.</p>\n<p>Istinto: Insudiciare.</p>\n<ul>\n<li>Infettare qualcuno con la febbre.</li>\n<li>Scagliare qualcuno o qualcosa.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"}]",
+			"tagsString": "Medio, Lungo, Possente, Solitario, Grande"
+		},
+		{
+			"id": "Cave Rat",
+			"name": "Ratto delle Caverne",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Chi non ha mai visto un ratto? Questo essere è qualcosa di simile, ma è grosso, disgustoso e non ha alcuna paura di te. Forse si tratta del cugino di quello che hai catturato con una trappola o di quello che hai ucciso con un coltello in una squallida taverna a Darrow. Forse è proprio in cerca di una piccola, bieca vendetta.</p>\n<p>Istinto: Divorare.</p>\n<ul>\n<li>Sovrastare col numero.</li>\n<li>Sventrare qualcosa (o qualcuno).</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Devastante\"},{\"value\":\"Orda\"},{\"value\":\"Piccolo\"}]",
+			"tagsString": "Medio, Devastante, Orda, Piccolo"
+		},
+		{
+			"id": "Troglodyte",
+			"name": "Troglodita",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Da tempo dimenticati, i nostri sopravvissuti antenati, dimorano in caverne nelle zone selvagge del mondo. Questi uomini scimmia, scacciati dalla città con ferro e fuoco, mangiano carne cruda con le loro mani dalle unghie affilate e i loro denti acuminati. Colpiscono i villaggi attaccando in massa con le loro clave per prendere bestiame, attrezzi e sfortunati prigionieri da trascinare verso le loro colline. Conosciuti per la ferocia ed il tanfo, sono una razza antica e morente, della quale potremmo presto dimenticarci sia mai esistita.</p>\n<p>Istinto: Depredare la civiltà.</p>\n<ul>\n<li>Assaltare e ritirarsi.</li>\n<li>Usare vecchie armi abbandonate o la magia.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Gruppo\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Gruppo, Organizzato"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dungeon-world-babele-it",
+  "title": "Dungeon World Babele Italian",
+  "description": "This module is the Italian translation of the German SRD out of the Dungeon World system from Asocalips, approved by System Matters. Further information in the READ.ME. Module Babele is also needed for this module to function.",
+  "version": "1.0",
+  "compatibility": {
+      "minimum": "10",
+      "verified": "13"
+    },
+  "authors": [{
+      "name": "Gabriele Frontini (based on Simone Ricci's module Babele and the Italian SRD of Dungeon Worlds)",
+      "discord": "KarstenW#7984",
+      "flags": {}
+    }],
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "system": ["dungeonworld"],
+  "relationships": {
+    "systems": [{
+        "id": "dungeonworld",
+        "type": "system",
+        "compatibility": {"verified": "1.6.1"}
+    }],
+    "modules": [{
+        "id": "babele",
+        "type": "module",
+        "compatibility": {"verified": "2.3.0"}
+    }]
+  },
+   
+  "url": "",
+  "manifest": "",
+  "download": ""
+}

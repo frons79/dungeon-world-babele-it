@@ -1,0 +1,296 @@
+{
+  "label": "Classi",
+  "mapping": {
+    "description": "system.description",
+    "races": "system.races",
+    "alignments": "system.alignments"
+  },
+  "entries": [
+    {
+      "id": "The Barbarian",
+      "name": "Barbaro",
+      "description": "<p></p>\n<p>Guarda questa gente imbellettata. Ti osservano e hanno paura di te. Fanno bene, devono averne. Tu non sei come loro. Vieni da un luogo dove il valore di un uomo si misura dalla forza del suo pugno, non dalla capienza delle sue tasche. Mentre loro sono deboli, si nascondono dietro leggi fragili come le loro ossa; l'unica legge che conosci è quella del più forte. Ce ne sono altre?</p>\n<p>Tu insegui cose più succulente di una casa tranquilla o di una manciata di monete: tu vuoi la gloria, la fama e un mucchio di ricchezze, tante da non poterle contare. Perché tu non sai contare. C'è solo una cosa che sai fare bene: spaccare la testa di chi si mette tra te e i tuoi appetiti. I tuoi compagni d'avventura potranno trattarti come uno straniero rozzo e ignorante. Che lo pensino pure, che ti importa? Quando le cose si metteranno male piangeranno chiedendo il tuo aiuto.</p>\n<p>Perché nessuno di loro è forte come te. Nessuno.</p>",
+      "races": {
+        "0": {
+          "label": "Estraneo",
+          "description": "Sarai Elfoo, nano, mezzuomo o umano, ma tu e la tua gente non siete di queste parti. All'inizio di ogni sessione, il GM ti farà una domanda a proposito della tua terra madre, di perché te ne sei andato o di cosa ti sei lasciato indietro. Se rispondi guadagna un PE."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Caotico",
+          "description": "Ignora una convenzione del mondo civilizzato."
+        },
+        "1": {
+          "label": "Neutrale",
+          "description": "Insegna a qualcuno le vie del tuo popolo."
+        }
+      }
+    },
+    {
+      "id": "The Bard",
+      "name": "bardo",
+      "description": "<p>I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e della gloria di battaglie vinte e di ricchezze conquistate. Le storie che si raccontano in ogni taverna affollata di villici e braccianti dovranno pur avere una parvenza di verità, non è vero? Le canzoni che ispirano ugualmente nobili e pezzenti, per placare le bestie selvagge o spingere gli uomini alla furia, dovranno pur avere un'origine.</p>\n<p>È qui che arriva il bardo. Tu, con la tua lingua sciolta e il tuo acume. Tu, che racconti favole e canti canzoni. Un semplice menestrello può ripetere una storia, ma ci vuole un bardo per viverla. Metti gli stivali, nobile oratore. Affila la tua daga celata e rispondi all’appello. Qualcuno dev'essere lì, a lottare fianco a fianco con picchiatori e mercenari e futuri eroi. Chi meglio di te per scrivere la storia del tuo stesso eroismo?</p>\n<p>Nessuno. Dai inizio all'avventura.</p>",
+      "races": {
+        "0": {
+          "label": "Elfo",
+          "description": "Quando entri in un luogo importante (a tua discrezione) puoi chiedere al GM un dettaglio della storia di quel luogo."
+        },
+        "1": {
+          "label": "Umano",
+          "description": "Quando entri in un insediamento civilizzato, sarai accolto in casa da qualcuno che rispetta l'usanza dell'ospitalità verso i menestrelli."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Buono",
+          "description": "Esibisciti nella tua arte per aiutare qualcuno."
+        },
+        "1": {
+          "label": "Neutrale",
+          "description": "Evita il conflitto o calma una situazione tesa."
+        },
+        "2": {
+          "label": "Caotico",
+          "description": "Sprona qualcuno a compiere un'azione importante, non pianificata e decisiva."
+        }
+      }
+    },
+    {
+      "id": "The Cleric",
+      "name": "Chierico",
+      "description": "<p>Le terre di <em>Dungeon World</em> sono allo sbando, dimenticate dagli dèi. È un mondo orribile, con morti che camminano e bestie di ogni genere che si aggirano contro natura per le zone selvagge tra le città sicure e benedette dai templi. È un mondo senza religione quello là fuori. È per questo che ha bisogno di te.</p>\n<p>Portare la gloria degli dèi ai selvaggi non è solo la tua natura, è la tua missione. Sta a te diffondere il verbo con la spada, la mazza e la magia, fendere dritto nel barbaro cuore dei luoghi senza dio e piantarvi il seme della religione. Alcuni dicono che è meglio tenere gli dèi vicino al cuore. Sciocchezze. Il tuo dio vive sul filo di una lama.</p>\n<p>Mostra al mondo chi è il suo signore.</p>",
+      "races": {
+        "0": {
+          "label": "Nano",
+          "description": "Sei una sola cosa con la pietra. Quando entri in <em>comunione</em> ti viene concessa una versione speciale di Voce dei Taciturni come orazione che funziona solo sulla pietra."
+        },
+        "1": {
+          "label": "Umano",
+          "description": "La tua fede è varia: scegli un incantesimo da Mago. Puoi riceverlo dal tuo dio come se fosse un incantesimo da Chierico."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Buono",
+          "description": "Mettiti in pericolo per guarire qualcuno."
+        },
+        "1": {
+          "label": "Legale",
+          "description": "Mettiti in pericolo per difendere i precetti della tua chiesa o dio."
+        },
+        "2": {
+          "label": "Malvagio",
+          "description": "Fai del male a qualcuno per provare la superiorità della tua chiesa o dio."
+        }
+      }
+    },
+    {
+      "id": "The Druid",
+      "name": "Druido",
+      "description": "<p>Dai uno sguardo attorno al fuoco. Che cosa ti ha portato a viaggiare con questa gente, che puzza della polvere e del sudore della città? È una forma di bontà? Li proteggi forse come una mamma orso difende i suoi cuccioli? Sono loro il tuo branco, ora? Inconsueti sono i fratelli e sorelle che ti sei dato. Qualunque cosa ti abbia spinto ad aiutarli, certamente sarebbero perduti senza i tuoi sensi acuti e i tuoi artigli affilati.</p>\n<p>Tu appartieni agli ampi spazi consacrati, sei nato dalla terra e porti il marchio dei suoi spiriti sulla tua pelle. Forse avevi una vita prima, forse eri un abitante di città come loro, ma adesso non più. Hai rinunciato a quella forma statica. Ascolta i tuoi alleati pregare i loro dèi scolpiti nella pietra e guardali lucidare i loro simulacri d'argento. Parlano della gloria che troveranno in quella città marcia che vi siete lasciati alle spalle.</p>\n<p>I loro dèi sono infanti, il loro acciaio non li proteggerà. Tu segui le vecchie vie, indossi la pelle della terra stessa. Prenderai certo la tua parte del tesoro, ma camminerai mai come uno di loro? Solo il tempo lo dirà.</p>",
+      "races": {
+        "0": {
+          "label": "Elfo",
+          "description": "La linfa degli antichi alberi scorre dentro di te. In aggiunta a qualsiasi altro ambiente, le Grandi Foreste sono sempre considerate una tua Terra."
+        },
+        "1": {
+          "label": "Umano",
+          "description": "La tua gente ha legato il proprio destino con gli animali da campo e da fattoria. Puoi sempre prendere la forma di qualsiasi animale addomesticato in aggiunta alle tue normali opzioni."
+        },
+        "2": {
+          "label": "Mezzuomo",
+          "description": "Canti le canzoni di guarigione dei torrenti e dei ruscelli. Quando <em>ti accampi</em>, tu e i tuoi alleati guarite +1d6."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Caotico",
+          "description": "Distruggi un simbolo della civiltà."
+        },
+        "1": {
+          "label": "Buono",
+          "description": "Aiuta qualcuno o qualcosa a crescere."
+        },
+        "2": {
+          "label": "Neutrale",
+          "description": "Elimina una minaccia innaturale."
+        }
+      }
+    },
+    {
+      "id": "The Fighter",
+      "name": "Guerriero",
+      "description": "<p>È un lavoro ingrato: sopravvivere giorno dopo giorno grazie alla tua armatura e alla forza del tuo braccio, tuffandoti con indifferenza nel pericolo. Non suoneranno corni d'oro per quel giorno in cui prendesti per loro una coltellata tra le costole in quella locanda di Bucksberg. Nessun coro d'angeli canterà della volta che li trascinasti, ancora urlanti, dal limitare delle Fosse della Follia, no.</p>\n<p>Loro non contano.</p>\n<p>Tu lo fai per il coraggio e la gloria, per il rumore della battaglia e per il caldo, caldo sangue che ti senti scorrere nelle vene quando vi prendi parte. Sei una bestia di ferro. I tuoi amici impugneranno pure lame d'acciaio temprato ma tu, guerriero, tu sei acciaio. Mentre i tuoi compagni si lamentano delle ferite attorno al focolare nelle terre selvagge, tu porti le tue cicatrici con orgoglio.</p>\n<p>Tu sei la muraglia: lascia che ogni pericolo si sfracelli in polvere scontrandosi con te. Alla fine, sarai l'ultimo a stare in piedi.</p>",
+      "races": {
+        "0": {
+          "label": "Nano",
+          "description": "Quando bevi insieme a qualcuno, puoi <em>parlamentare</em> con lui usando COS invece di CAR."
+        },
+        "1": {
+          "label": "Elfo",
+          "description": "Scegli un'arma: puoi sempre considerare le armi di quel tipo come se avessero l'etichetta <em>preciso</em>."
+        },
+        "2": {
+          "label": "Mezzuomo",
+          "description": "Quando <em>sfidi il pericolo</em> e usi la tua piccola taglia a tuo vantaggio, prendi +1."
+        },
+        "3": {
+          "label": "Umano",
+          "description": "Una volta per battaglia, puoi ritirare un singolo tiro di danni (tuo o di qualcun altro)."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Buono",
+          "description": "Difendi coloro che sono più deboli di te."
+        },
+        "1": {
+          "label": "Neutrale",
+          "description": "Sconfiggi un degno avversario."
+        },
+        "2": {
+          "label": "Malvagio",
+          "description": "Uccidi un nemico indifeso o arreso."
+        }
+      }
+    },
+    {
+      "id": "The Immolator",
+      "name": "The Immolator",
+      "description": "<p>Some people pray to their gods for strength like fools; others, too smart for their own good, read books. Others, still, train with their sword-arms or their tongues. Not you, though. Somehow, somewhy, you found power through another way, one wrought in fire and pain. You made a sacrifice, then and there, freely given, for powers beyond the ken of mere mortals.</p>\n<p>And it feels so, so good.</p>\n<p>You’re the wildcard now. The uncaged flame, burning with passion and leaving ruin in your wake. Everyone else can feel it, too; your fire stokes theirs, filling your new adventuring comrades with furore and brightening the lives of every yokel and maiden lucky enough to cross your path. You’ve never felt so alive! And so what if there’s trouble following you every which way; all the more reason to live life to the fullest, right?</p>\n<p>Live fast, die young, and make sure you’re not the one who’s gotta pick up all the pieces.</p>",
+      "races": {
+        "0": {
+          "label": "Human",
+          "description": "When you Make Camp next to a large, open flame, regain all of your HP."
+        },
+        "1": {
+          "label": "Salamander",
+          "description": "Non-magical heat and fire cannot harm you."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Evil",
+          "description": "Sacrifice an unwilling victim to the flames."
+        },
+        "1": {
+          "label": "Chaotic",
+          "description": "Spread a dangerous new idea."
+        },
+        "2": {
+          "label": "Neutrale",
+          "description": "Exchange a sacrifice, freely given, for a service rendered."
+        }
+      }
+    },
+    {
+      "id": "The Paladin",
+      "name": "Paladino",
+      "description": "<p>L'Inferno attende. Un'eternità di tormento nel fuoco o nel gelo o qualunque altra pena meglio rappresenti i peccati commessi dalle orde di dannati di Dungeon World. Sei l'unica cosa che si frappone tra la salvezza dell'anima e le cupe fosse della tortura. Sant'uomo, macchina da guerra in armatura, templare del Bene e della Luce, giusto? Il chierico potrà pregare di notte agli dei che abitano il cielo. Il guerriero potrà impugnare la sua spada affilata nel nome del <em>bene</em> ma tu sai. Solo tu sai.</p>\n<p>Tu sei gli occhi, le mani degli dèi, pietoso esecutore del loro giudizio di morte. Tuo è il dono della rettitudine e della virtù, della giustizia, anche della Vista. Una purezza d'intenti che ai tuoi compagni manca.</p>\n<p>Perciò guida questi sciocchi, paladino. Imbraccia le armi per la tua nobile causa e porta la salvezza a questo mondo scellerato.</p>\n<p>Vae victis.</p>",
+      "races": {
+        "0": {
+          "label": "Umano",
+          "description": "Quando preghi in cerca di consiglio, anche per un istante, e chiedi: «Che cosa qui è malvagio?» il GM te lo dirà onestamente."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Legale",
+          "description": "Nega la pietà a un miscredente."
+        },
+        "1": {
+          "label": "Buono",
+          "description": "Mettiti in pericolo per proteggere qualcuno più debole di te."
+        }
+      }
+    },
+    {
+      "id": "The Ranger",
+      "name": "Ramingo",
+      "description": "<p>Questa gente di città con cui viaggi. Hanno udito loro il richiamo del lupo? Hanno sentito i venti ululare nei tetri deserti dell'Est? Hanno cacciato la preda con l'arco e il coltello come te? Certo che no. È per questo che hanno bisogno di te.</p>\n<p>Guida. Cacciatore. Creatura selvaggia. Sei tutte queste cose e anche più. Hai vissuto nelle terre selvagge da solo fino a ora, ma il richiamo di qualcosa più grande, chiamalo destino se vuoi, ti ha unito a questa gente. Coraggiosi, certamente. Possenti e forti, anche. Ma solo tu conosci i segreti degli spazi inesplorati.</p>\n<p>Senza di te, sarebbero persi. Fai strada tra il sangue e l'oscurità, grampasso.</p>",
+      "races": {
+        "0": {
+          "label": "Elfo",
+          "description": "Quando <em>intraprendi un viaggio pericoloso</em>, qualunque compito tu svolga avrai successo come se avessi tirato un 10+."
+        },
+        "1": {
+          "label": "Umano",
+          "description": "Quando <em>ti accampi</em> in un dungeon o in una città, non hai bisogno di consumare razioni."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Caotico",
+          "description": "Libera qualcuno da catene vere o metaforiche."
+        },
+        "1": {
+          "label": "Buono",
+          "description": "Metti te stesso in pericolo per combattere una minaccia innaturale."
+        },
+        "2": {
+          "label": "Neutrale",
+          "description": "Aiuta un animale o uno spirito della natura."
+        }
+      }
+    },
+    {
+      "id": "The Thief",
+      "name": "Ladro",
+      "description": "<p>Li hai sentiti, seduti attorno al fuoco. Si vantano di questa o quella battaglia, o di come i loro dèi sorridano sulla vostra allegra compagnia. Tu conti le tue monete e sorridi a te stesso — questa è l'emozione più forte. Solo tu conosci il segreto di <em>Dungeon World</em>: sporco, sporco guadagno.</p>\n<p>Certo, ti insulteranno per tutte le volte che te ne sei scappato di nascosto, ma senza di te, ciascuno di loro sarebbe stato diviso in due da una ghigliottina, o avvelenato a morte da qualche antica trappola ad aghi. Perciò, lascia che si lagnino. Quando avrai finito con questa vita di esplorazione e saccheggio brinderai alle loro tombe da eroi.</p>\n<p>Dal tuo castello. Pieno d'oro. Ladro che non sei altro</p>",
+      "races": {
+        "0": {
+          "label": "Mezzuomo",
+          "description": "Quando attacchi con un'arma a distanza, infliggi +1 danno."
+        },
+        "1": {
+          "label": "Umano",
+          "description": "Sei un professionista. Quando <em>discerni realtà</em> o <em>declami conoscenze</em> riguardo ad attività criminali, prendi +1."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Caotico",
+          "description": "Fiondati nel pericolo senza avere un piano."
+        },
+        "1": {
+          "label": "Neutrale",
+          "description": "Evita di farti scoprire o infiltrati in un luogo."
+        },
+        "2": {
+          "label": "Malvagio",
+          "description": "Scarica un pericolo o una colpa su qualcun altro."
+        }
+      }
+    },
+    {
+      "id": "The Wizard",
+      "name": "Mago",
+      "description": "<p><i>Dungeon World</i> ha delle regole. Non sono le leggi degli uomini o la parola di un meschino tiranno. Regole più grandi, migliori. Lasci cadere qualcosa, in pochi attimi è per terra. Non si può creare la materia dal nulla. I morti restano morti, giusto?</p>\n<p>Ah, le cose che ci diciamo per stare meglio durante le lunghe notti buie.</p>\n<p>Hai passato così tanto tempo chino sui tuoi tomi. Hai portato a termine esperimenti che ti hanno fatto quasi impazzire e hai evocato cose che mettevano in pericolo la tua stessa anima. Per cosa? Per il potere. Che altro c'è al mondo? Non si tratta del potere di un Re o di una Nazione, ma del potere di far bruciare il sangue di un uomo nelle sue vene. Di richiamare i fulmini del cielo e le scosse della terra turbolenta. Di ignorare le regole che al mondo sono così care.</p>\n<p>Lascia che ti guardino con occhi biechi. Lascia che ti chiamino stregone o negromante. Chi tra loro può lanciare palle di fuoco dagli occhi?</p>\n<p>Esatto. Non avevo dubbi</p>",
+      "races": {
+        "0": {
+          "label": "Elfo",
+          "description": "La magia per te è naturale come il respiro. Individuazione del Magico per te è un trucchetto."
+        },
+        "1": {
+          "label": "Umano",
+          "description": "Scegli un incantesimo da chierico. Puoi lanciarlo come se fosse un incantesimo da mago."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Buono",
+          "description": "Usa la magia per aiutare direttamente qualcun'altro."
+        },
+        "1": {
+          "label": "Neutrale",
+          "description": "Scopri qualcosa riguardo a un mistero della magia."
+        },
+        "2": {
+          "label": "Malvagio",
+          "description": "Usa la magia per provocare paura e terrore."
+        }
+      }
+    }
+  ]
+}

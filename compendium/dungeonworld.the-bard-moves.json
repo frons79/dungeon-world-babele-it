@@ -1,0 +1,127 @@
+{
+    "label": "Mosse del Bardo",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": "A Little Help From My Friends",
+            "name": "Un Po' di Aiuto dai Miei Amici",
+            "description": "<p>Quando <em>aiuti</em> con successo qualcuno prendi anche tu +1 al prossimo tiro.</p>"
+        },
+        {
+            "id": "A Port In The Storm",
+            "name": "Un Porto nella Tempesta",
+            "description": "<p>Quando <strong>torni in un luogo civilizzato che hai visitato in precedenza</strong>, di' al GM quando ci sei stato l'ultima volta. Lui ti dirà che cosa è cambiato da allora.</p>"
+        },
+        {
+            "id": "An Ear For Magic",
+            "name": "Orecchio per la Magia",
+            "description": "<p>Quando senti un nemico lanciare una magia il GM ti dirà il nome della magia e i suoi effetti. Prendi +1 al prossimo tiro quando agisci in base alle risposte.</p>"
+        },
+        {
+            "id": "Arcane Art",
+            "name": "Arte Arcana (CAR)",
+            "description": "<p>Quando <strong>infondi un semplice incantesimo in un'esibizione della tua arte</strong>, scegli un alleato e un effetto:</p>\n<ul>\n<li>Guarisci 1d8 danni.</li>\n<li>+1d4 al prossimo tiro di danno.</li>\n<li>La mente del bersaglio viene purificata da un incantesimo.</li>\n<li>La prossima volta che qualcuno <em>aiuta</em> con successo il bersaglio, questi prende +2 invece che +1.</li>\n</ul>\n<p>Dopodiché tira+CAR</p>\n<p>Con un 10+, l'alleato subisce l'effetto desiderato.</p>\n<p>Con un 7-9, il tuo incantesimo funziona, ma attiri attenzioni indesiderate oppure la magia riverbera anche su altri bersagli, a scelta del GM.</p>"
+        },
+        {
+            "id": "Bamboozle",
+            "name": "Raggirare",
+            "description": "<p>Quando <em>parlamenti</em> con qualcuno, con un 7+ prendi anche +1 al prossimo tiro con lui.</p>"
+        },
+        {
+            "id": "Bardic Lore",
+            "name": "Conoscenze Bardiche",
+            "description": "<p>Scegli un'area di competenza:</p>\n<ul>\n<li>Incantesimi e Magie.</li>\n<li>La Morte e i Non-morti.</li>\n<li>Grandi Storie del Mondo Conosciuto.</li>\n<li>Un Bestiario di Creature Inconsuete.</li>\n<li>Le Sfere Planari.</li>\n<li>Leggende di Antichi Eroi.</li>\n<li>Gli Dei e i Loro Servitori.</li>\n</ul>\n<p>Quando <strong>ti imbatti per la prima volta in una creatura, un luogo o un oggetto importante (a tua discrezione) che rientri nelle tue conoscenze bardiche</strong> puoi fare al GM una domanda al riguardo, il GM ti risponderà sinceramente. Il GM potrà chiederti da quale racconto, canzone o leggenda hai tratto questa informazione.</p>"
+        },
+        {
+            "id": "Charming & Open",
+            "name": "Affascinante e Onesto",
+            "description": "<p>Quando <strong>parli onestamente con qualcuno</strong>, puoi fare al giocatore che lo interpreta (il GM se è un personaggio del GM) una domanda tra le seguenti. Deve rispondere onestamente, e può farti a sua volta una domanda dalla lista (a cui devi rispondere onestamente).</p>\n<ul>\n<li>Di chi sei al servizio?</li>\n<li>Cosa vorresti che io facessi?</li>\n<li>Come posso fare in modo che tu ______?</li>\n<li>Cosa provi realmente in questo momento?</li>\n<li>Qual è il tuo desiderio più grande?</li>\n</ul>"
+        },
+        {
+            "id": "Con",
+            "name": "Truffa",
+            "description": "<p><em>Sostituisce Raggirare</em></p>\n<p>Quando <em>parlamenti</em> con qualcuno, con un 7+ prendi anche +1 al prossimo tiro con lui e puoi porre al giocatore che lo interpreta (il GM se è un personaggio del GM) una domanda a cui deve rispondere sinceramente.</p>"
+        },
+        {
+            "id": "Devious",
+            "name": "Subdolo",
+            "description": "<p>Quando usi <em>affascinante e onesto</em> puoi fare la domanda: «In che modo sei vulnerabile a me?». Il bersaglio non può porti questa domanda.</p>"
+        },
+        {
+            "id": "Duelist’s Block",
+            "name": "Blocco del Duellante",
+            "description": "<p><em>Sostituisce parata del Duellante</em></p>\n<p>Quando <em>tagli e spacchi</em>, prendi +2 armatura la prossima volta che subisci danno</p>"
+        },
+        {
+            "id": "Duelist’s Parry",
+            "name": "Parata del Duellante",
+            "description": "<p>Quando <em>tagli e spacchi</em>, prendi +1 armatura la prossima volta che subisci danno.</p>"
+        },
+        {
+            "id": "Eldritch Chord",
+            "name": "Accordo Mistico",
+            "description": "<p><em>Sostituisce Tonalità Mistica</em></p>\n<p>Quando usi <em>arte arcana</em>, scegli due effetti. Puoi anche scegliere di raddoppiare uno dei due effetti.</p>"
+        },
+        {
+            "id": "Eldritch Tones",
+            "name": "Tonalità Mistica",
+            "description": "<p>La tua <em>arte arcana</em> è forte, permettendoti di scegliere due effetti anziché uno.</p>"
+        },
+        {
+            "id": "Healing Chorus",
+            "name": "Coro di Guarigione",
+            "description": "<p><em>Sostituisce Canzone di Guarigione</em></p>\n<p>Quando guarisci con <em>arte arcana</em>, guarisci +2d8 danni aggiuntivi.</p>"
+        },
+        {
+            "id": "Healing Song",
+            "name": "Canzone di Guarigione",
+            "description": "<p>Quando guarisci con arte arcana, guarisci +1d8 danni aggiuntivi.</p>"
+        },
+        {
+            "id": "It Goes To Eleven",
+            "name": "A Tutto Volume",
+            "description": "<p>Quando ti lanci in un'esibizione da paura (un perfetto assolo di liuto, un potente soffio di corno, una disorientante danza interpretativa) scegli un bersaglio che può sentirti e tira+CAR.</p>\n<p>Con un 10+ il bersaglio attacca il suo alleato più vicino a portata.</p>\n<p>Con un 7–9 colpisce comunque il suo alleato più vicino, ma attiri la sua attenzione e la sua ira.</p>"
+        },
+        {
+            "id": "Metal Hurlant",
+            "name": "Metallo Urlante",
+            "description": "<p>Quando urli con grande forza o suoni una nota devastante scegli un bersaglio e tira+COS</p>\n<p>Con un 10+ il bersaglio prende 1d10 danni ed è assordato per qualche minuto.</p>\n<p>Con un 7–9 riesci comunque a infliggere i danni, ma perdi il controllo: il GM sceglierà un bersaglio aggiuntivo nelle vicinanze.</p>"
+        },
+        {
+            "id": "Multiclass Dabbler",
+            "name": "Apprendista Multiclasse",
+            "description": "<p>Scegli una mossa di un'altra classe. Considera il tuo livello come inferiore di uno ai fini di questa mossa.</p>"
+        },
+        {
+            "id": "Multiclass Initiate",
+            "name": "Adepto Multiclasse",
+            "description": "<p>Scegli una mossa di un'altra classe. Considera il tuo livello come inferiore di uno ai fini di questa mossa.</p>"
+        },
+        {
+            "id": "Multiclass Master",
+            "name": "Maestro Multiclasse",
+            "description": "<p>Scegli una mossa di un'altra classe. Considera il tuo livello come inferiore di uno ai fini di questa mossa.</p>"
+        },
+        {
+            "id": "Reputation",
+            "name": "Reputazione",
+            "description": "<p>Quando incontri per la prima volta qualcuno che ha sentito canzoni che parlano di te tira+CAR.</p>\n<p>Con un 10+, di' al GM due cose che ha sentito su di te.</p>\n<p>Con un 7–9 tu di' al GM una cosa, lui ti dirà l'altra.</p>"
+        },
+        {
+            "id": "Unforgettable Face",
+            "name": "Faccia Indimenticabile",
+            "description": "<p>Quando incontri qualcuno che hai già incontrato (a tua discrezione) e che non vedi da qualche tempo prendi +1 al prossimo tiro contro di lui.</p>"
+        },
+        {
+            "id": "Vicious Blast",
+            "name": "Esplosione Malefica",
+            "description": "<p><em>Sostituisce Cacofonia Malefica</em></p>\n<p>Quando conferisci danni bonus con <em>arte arcana</em>, conferisci +2d4 danni aggiuntivi.</p>"
+        },
+        {
+            "id": "Vicious Cacophony",
+            "name": "Cacofonia Malefica",
+            "description": "<p>Quando conferisci danni bonus con <em>arte arcana</em>, conferisci +1d4 danni aggiuntivi.</p>"
+        }
+    ]
+}

@@ -1,0 +1,317 @@
+{
+	"label": "Mostri - 03 Legioni dei non morti",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Abomination",
+			"name": "Abominio",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Vari arti, teste, e così via"
+				}
+			},
+			"details": {
+				"biography": "<p>Cadaveri cuciti ad altri cadaveri compongono la maggior parte di queste goffe masse di magia oscura. La maggioranza dei non morti viene costruita per essere controllata. Creata per servire uno scopo come costruire una torre o fare da guardiani. Non è così per l’abominio. L’ultimo aspetto del rituale utilizzato per dare energia ai suoi arti infernali invoca un odio così intenso che l’abominio non conosce che un singolo compito: strappare e lacerare proprio ciò che non può avere: la vita. Molti studenti delle arti oscure imparano a costo della loro vita la lezione più importante su queste carcasse: un abominio non conosce padrone.</p>\n<p>Istinto: Porre fine alla vita.</p>\n<ul>\n<li>Lacerare la carne.</li>\n<li>Riversare budella putride.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Costrutto\"},{\"value\":\"Terrificante\"}]",
+			"tagsString": "Medio, Lungo, Possente, Solitario, Grande, Costrutto, Terrificante"
+		},
+		{
+			"id": "Banshee",
+			"name": "Banshee",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Incorporeo"
+				}
+			},
+			"details": {
+				"biography": "<p>Sfuggi ad un incontro con uno di questi spiriti vendicativi semplicemente assordato e potrai considerarti fortunato per il resto dei tuoi tranquilli, silenziosi giorni. Spesso scambiata, a una prima occhiata, per un fantasma o uno spirito errante la banshee, quando viene fatta arrabbiare, rivela un più mortale talento per gli attacchi sonici. E la sua rabbia si scatena facilmente. Vittima di un tradimento (spesso da parte di una persona amata) la banshee rende noto il suo dispiacere con un ruggito o un grido che può putrefare la carne e lacerare i sensi. Si dice che possa garantire una ricompensa a chi la aiuta ad ottenere la sua vendetta. Che l’affetto di uno spirito respinto è qualcosa che si potrebbe desiderare, beh, questa è un’altra questione.</p>\n<p>Istinto: Ottenere vendetta.</p>\n<ul>\n<li>Soffocare tutti gli altri suoni con un grido senza fine.</li>\n<li>Scatenare un suono spacca-cranio.</li>\n<li>Sparire nelle nebbie.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Vicino\"},{\"value\":\"Solitario\"},{\"value\":\"Magico\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Vicino, Solitario, Magico, Intelligente"
+		},
+		{
+			"id": "Devourer",
+			"name": "Divoratore",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>La maggior parte della gente sa che i non morti si cibano di carne. Il calore, il sangue e la carne viva sostentano la loro sacrilega esistenza. Questo è vero per la maggior parte dei non morti non senzienti, animati dalla magia nera. Non è così per il divoratore. Quando una persona particolarmente malvagia (spesso un manipolatore di uomini, un sacerdote apostata o simile) incontra una morte macabra, i poteri oscuri del Mondo Sotterraneo potrebbero riportarlo indietro ad una sorta di vita. Il divoratore, però non si nutre della carne di uomini ed elfi. Il divoratore mangia anime. Uccide con un piacere che solo i senzienti possono godere e nel momento in cui la sua vittima sta spirando, prende fiato come un uomo che sta affogando e ne ingoia l’anima. Cosa accade alla tua anima quando viene mangiata da una creatura del genere? Nessuno ha il coraggio di chiedere, per paura di scoprirlo.</p>\n<p>Istinto: Banchettare con le anime.</p>\n<ul>\n<li>Divorare o intrappolare un’anima morente.</li>\n<li>Contrattare per la restituzione di un’anima.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Intelligente\"},{\"value\":\"Accumulatore\"}]",
+			"tagsString": "Medio, Lungo, Possente, Solitario, Grande, Intelligente, Accumulatore"
+		},
+		{
+			"id": "Dragonbone",
+			"name": "Drago d'ossa",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 3"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Se questa creatura sia veramente non morta o sia un golem assemblato da un materiale particolarmente raro e blasfemo è materia di dibattito tra gli stregoni mistici. Ossa, tendini e scaglie di un drago morto compongono questo desolante automa. Alato ma senza la capacità di volare, di fattezze draconiche ma senza il potente fuoco di una creatura così nobile, il drago d’ossa serve il suo maestro con una devozione contorta ed è spesso inviato ad assaltare le fortezze e le torri dei negromanti rivali. Sarebbe necessario un essere di notevole malvagità per profanare le spoglie di un drago in questo modo.</p>\n<p>Istinto: Servire.</p>\n<ul>\n<li>Attaccare inesorabilmente.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lungo\"},{\"value\":\"Devastante\"},{\"value\":\"Solitario\"},{\"value\":\"Enorme\"}]",
+			"tagsString": "Lungo, Devastante, Solitario, Enorme"
+		},
+		{
+			"id": "Draugr",
+			"name": "Draugr",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Tocco ghiacciato"
+				}
+			},
+			"details": {
+				"biography": "<p>Nelle Terre del Nord, gli uomini e le donne raccontano nelle loro sale di legno storie di un luogo dove vanno coloro che sono morti nobilmente. Una sala dell’idromele alla cima della loro montagna celeste dove gli uomini di valore vanno ad attendere la battaglia finale per il mondo. E’ un luogo magnifico. E’ un luogo dove si potrebbe sperare di andare dopo la morte. E chi muore di morte ingloriosa? Coloro che cadono avvelenati o in un atto di vigliaccheria, possono essere considerati guerrieri? Beh, quelle sale di idromele non sono aperte a tutti. Alcuni ritornano, congelati, contorti e rafforzati dalla gelosia e conducono la loro guerra eterna non contro le forze dei giganti e dei troll, ma sulle città degli uomini che un tempo conoscevano.</p>\n<p>Istinto: Prendere dai vivi.</p>\n<ul>\n<li>Congelare la carne.</li>\n<li>Richiamare i morti indegni.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Orda\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Lungo, Orda, Organizzato"
+		},
+		{
+			"id": "Spectre",
+			"name": "Spettro",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Incorporeo"
+				}
+			},
+			"details": {
+				"biography": "<p>Ci sono persone che la Morte stessa non riesce a separare dai luoghi che amavano di più al momento del loro trapasso. Un sacerdote la cui devozione al tempio è più grande di quello al suo dio. Un ufficiale della gilda dei banchieri che non può sopportare l’idea di dividersi dalla sua cassaforte. Un ubriaco e la sua locanda preferita. Tutti possono essere eccellenti spettri. Essi non agiscono guidati dalla solita fame che guida i non morti, ma dalla gelosia. Gelosia che chiunque altro possa amare la loro casa tanto quanto loro e cacciarli via. Questi luoghi appartengono a loro e questi spiriti invisibili uccideranno prima di permettere che chiunque li mandi al loro riposo.</p>\n<p>Istinto: Allontanare la vita da un luogo.</p>\n<ul>\n<li>Tormentare una creatura.</li>\n<li>Portare alla vita l'ambiente circostante.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Solitario\"},{\"value\":\"Accumulatore\"}]",
+			"tagsString": "Medio, Solitario, Accumulatore"
+		},
+		{
+			"id": "Skeleton",
+			"name": "Scheletro",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Quelle ossa, quelle ossa, quelle ossa rinsecchite....</p>\n<p>Istinto: Assumere una parvenza di vita.</p>\n<ul>\n<li>Ripetere ciò che ha fatto in vita.</li>\n<li>Spegnere il calore della vita.</li>\n<li>Ricostruirsi dalle ossa sparse.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"}]",
+			"tagsString": "Medio, Orda"
+		},
+		{
+			"id": "Ghost",
+			"name": "Fantasma",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Incorporeo"
+				}
+			},
+			"details": {
+				"biography": "<p>Ogni cultura racconta la storia nello stesso modo. Vivi, ami o odi, vinci o perdi, muori in un modo di cui non sei molto entusiasta ed eccoti: spettrale, pieno di disappunto e così via. Alcuni, gente coraggiosa e gentile, si prendono la responsabilità di cercare i morti ed aiutarli a raggiungere il loro meritato riposo. Li puoi trovare, il più delle volte, alla taverna ad affogare nell’alcool i terrori che hanno visto o borbottare a se stessi nel manicomio. La morte chiede un dazio ai viventi, indipendentemente dal modo in cui la raggiungono.</p>\n<p>Istinto: infestare.</p>\n<ul>\n<li>Rivelare la terrificante natura della morte.</li>\n<li>Infestare un luogo importante.</li>\n<li>Offrire informazioni dall’aldilà, ad un costo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Solitario\"},{\"value\":\"Sfuggente\"},{\"value\":\"Terrificante\"}]",
+			"tagsString": "Medio, Lungo, Solitario, Sfuggente, Terrificante"
+		},
+		{
+			"id": "Ghoul",
+			"name": "Ghoul",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Fame. Fame fame fame. Fame disperata che contorce le budella vuote. Artigli affilati per lacerare la carne e denti per rompere le ossa e succhiare il morbido midollo all’interno. Vomitare odio e urlare gelosa rabbia e caricare su gambe contorte. Spaventare la carne vivente e renderla ancora più dolce con l’odore della paura. Banchettare. Contadino o cavaliere, mago, saggio, principe o sacerdote, tutti hanno carni così deliziose.</p>\n<p>Istinto: Mangiare.</p>\n<ul>\n<li>Mordere via una parte del corpo.</li>\n<li>Ottenere i ricordi dei loro pasti.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Devastante\"},{\"value\":\"Gruppo\"}]",
+			"tagsString": "Medio, Devastante, Gruppo"
+		},
+		{
+			"id": "Lich",
+			"name": "Lich",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Alla fine, ti consegnano una pergamena ed un medaglione ingioiellato per commemorare i tuoi successi. Gran Maestro delle Abiurazioni, fui chiamato allora. Vecchio uomo. Debole, avvizzito e appena un po' troppo rimbambito per loro, quei gelosi idioti. A malapena apprendisti, e si nominarono Il Nuovo Concilio. Mi fa stare male, o mi farebbe stare male, se potessi ancora. Mi dissero che era un onore e che sarei stato ricordato per sempre. Fu come ascoltare il mio stesso elogio funebre. Appropriato, in un certo modo, non credi? Mi servirono altri dieci anni per imparare i rituali e altri quattro per raccogliere i materiali e ora puoi vedere davanti ai tuoi occhi i frutti del mio lavoro. Io sopravvivo. Io vivo. Io vedró la morte di questa era e l'alba della prossima. Mi spiace di doverti fare questo, ma vedi, non posso permetterti di mettere in pericolo la mia ricerca. Quando incontrerai la Morte, salutala da parte mia, ti dispiace?</p>\n</blockquote>\n<p>Istinto: Perpetuare la non vita</p>\n<ul>\n<li>Lanciare un incantesimo perfezionato di morte o distruzione.</li>\n<li>Mettere in atto un rituale o una grande piano.</li>\n<li>Rivelare un piano o una preparazione già completata.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Vicino\"},{\"value\":\"Lontano\"},{\"value\":\"Solitario\"},{\"value\":\"Magico\"},{\"value\":\"Intelligente\"},{\"value\":\"Accumulatore\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Vicino, Lontano, Solitario, Magico, Intelligente, Accumulatore, Costrutto"
+		},
+		{
+			"id": "Wight-wolf",
+			"name": "Lupo Spettrale",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": "Forma d'ombra"
+				}
+			},
+			"details": {
+				"biography": "<p>Come l’ala notturna, il lupo spettrale non è una creatura generata nel nostro mondo. In qualche modo sfuggiti dai sigilli dei Neri Cancelli della Morte, questi spiriti prendono la forma di massicci cani o tenebrosi lupi e cacciano i vivi per divertimento. Viaggiano in branchi, guidati da un possente capobranco, ma hanno un’intelligenza sconosciuta ai veri canidi. Le loro cacce selvagge attirano l’attenzione di non morti intelligenti - lich, vampiri e simili - che talvolta stringono patti con il capobranco e seguono un oscuro scopo insieme. Ascolta il latrare dei segugi della Morte e prega che non ululino per te.</p>\n<p>Istinto: Cacciare.</p>\n<ul>\n<li>Circondare una preda.</li>\n<li>Convocare il branco.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"},{\"value\":\"Organizzato\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Medio, Orda, Organizzato, Intelligente"
+		},
+		{
+			"id": "Mohrg",
+			"name": "Mohrg",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Non la si può fare franca con un omicidio. Non del tutto. Potresti eludere la legge, potresti fuggire dalla tua stessa coscienza e alla fine morire, grasso e felice, in una villa da qualche parte. Quando gli dei stessi notano le tue malefatte, però, e a quel punto che la tua fortuna finisce e nasce un mohrg. Il mohrg è uno scheletro - carne e pelle e capelli, tutto completamente marcito e perduto. Tutto tranne le loro viscere annodate e contorte che continuano a fuoriuscire dai loro ventri, magicamente preservate e spesso avvolte, come un cappio, all’altezza dei loro colli. Non pensano, non esattamente, ma soffrono. Uccidono e devastano e le loro anime non riposano. Questa è la punizione, sia a loro per i loro crimini sia all’umanità intera per aver osato uccidersi l'un l’altro. Gli dei sono giusti e sono severi.</p>\n<p>Istinto: Devastare.</p>\n<ul>\n<li>Infuriarsi.</li>\n<li>Aggiungere viscere alla sua collezione.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Gruppo\"}]",
+			"tagsString": "Medio, Gruppo"
+		},
+		{
+			"id": "Mummy",
+			"name": "Mummia",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Ci sono culture che venerano i morti. Non li seppelliscono nella fredda terra e piangono il loro trapasso. Queste persone impiegano settimane preparando il sacro cadavere per il suo riposo eterno. Templi, piramidi e grandi cripte di pietra sono costruiti per ospitarli e sono popolati di schiavi, animali e oro. Meglio vivere in modo lussuoso al di là dei Neri Cancelli, no? Non essere tentato da queste cripte - oh, io conosco quello sguardo avido! Presta attenzione ai miei avvertimenti o rischierai un terribile fato, poichè gli onorati defunti non desiderano essere disturbati. Il ladrocinio non farà altro che risvegliare la loro ira; e non dire che non ti avevo avvertito!</p>\n<p>Istinto: Godersi l'eterno riposo.</p>\n<ul>\n<li>Maledirli.</li>\n<li>Avvolgerli.</li>\n<li>Risorgere.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Solitario\"},{\"value\":\"Divino\"},{\"value\":\"Accumulatore\"}]",
+			"tagsString": "Medio, Solitario, Divino, Accumulatore"
+		},
+		{
+			"id": "Nightwing",
+			"name": "Ala Notturna",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Ali"
+				}
+			},
+			"details": {
+				"biography": "<p>Gli studiosi delle arti necromantiche ti diranno che l’appellativo “non morto” non si applica soltanto alle creature che sono vissute, morte e che sono state riportate ad una sorta di stato di vita parziale. E’ anche il nome proprio delle creature la cui energia proviene da oltre i Neri Cancelli. La creatura che gli uomini chiamano ala notturna è una di queste - alimentata dalla luce malefica del dominio della Morte. Prendendo la forma di massicce tenebrose creature alate (alcune dalle fattezze simili a pipistrelli, altre più simili agli avvoltoi ed altre ancora come antiche coriacee creature) le ali notturne viaggiano in stormi predatori, piombando giù per strappare le carni da bovini, cavalli e sfortunati contadini usciti dopo il coprifuoco. Cerca nel cielo notturno i loro occhi rossi. Ascolta il loro stridente richiamo. E prega gli dei di avere qualcosa sotto cui nasconderti fino a quando non saranno passati.</p>\n<p>Istinto: Cacciare.</p>\n<ul>\n<li>Attaccare dal cielo notturno.</li>\n<li>Volare via con la preda.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"},{\"value\":\"Furtivo\"}]",
+			"tagsString": "Medio, Orda, Furtivo"
+		},
+		{
+			"id": "Sigben",
+			"name": "Sigben",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Progenie vampirica"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Mastino Aswang e saltellante coda-frusta! Inviati dai vampiri sulle loro due gambe contorte, queste orribili bestie assomigliano alla testa di un topo o di un coccodrillo, magari, ma pelosi e con denti aguzzi. Hanno ali avvizzite ma non possono usarle e lunghe schioccanti code, che terminano con punte avvelenate. Stupidi, vendicativi e dispettosi, possono causare ogni sorta di caos quando liberati dalle strane giare di creta in cui sono nati. Solo un vampiro potrebbe amare una cosa così miserabile.</p>\n</blockquote>\n<p>Istinto: Disturbare</p>\n<ul>\n<li>Avvelenarli.</li>\n<li>Eseguire la volontà di un vampiro.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Orda\"},{\"value\":\"Grande\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Medio, Lungo, Orda, Grande, Costrutto"
+		},
+		{
+			"id": "Shadow",
+			"name": "Ombra",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Forma d'ombra"
+				}
+			},
+			"details": {
+				"biography": "<p>Noi invochiamo gli elementi. Noi richiamiamo il fuoco, che sempre arde. Noi evochiamo l’acqua, che dà la vita. Noi supplichiamo la terra, che resta stabile. Noi gridiamo all’aria, che è sempre mutevole. Questi sono gli elementi che riconosciamo e a cui diamo il nostro ringraziamento, ma che congediamo. L’elemento che chiamiamo in questa notte conosce un altro nome. Chiamiamo l’elemento della Notte. Ombra, noi ti nominiamo. Messaggera della Morte e oscura assassina, ti reclamiamo per noi. Accetta il nostro sacrificio ed esegui i nostri ordini fino all’arrivo della mattina.</p>\n<p>Istinto: Ottenebrare.</p>\n<ul>\n<li>Spegnere la luce.</li>\n<li>Materializzare un'altra ombra dai morti.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Orda\"},{\"value\":\"Grande\"},{\"value\":\"Magico\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Medio, Lungo, Orda, Grande, Magico, Costrutto"
+		},
+		{
+			"id": "Vampire",
+			"name": "Vampiro",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": "Cambiare forma, mente antica"
+				}
+			},
+			"details": {
+				"biography": "<p>Noi li temiamo, perchè ci attirano. Così simili a noi, o come noi vorremmo essere: bellissimi, passionali e potenti. Sono attratti da noi per ciò che non possono essere: caldi, gentili e vivi. Queste anime tormentate possono solo sperare, al massimo, di trasmettere la loro terribile maledizione. Ogni volta che si nutrono corrono il rischio di trasmettere la loro sventura e in ognuno di loro vive il seme contorto del suo creatore. I vampiri generano vampiri, la sofferenza genera sofferenza. Non essere attratto dalle loro seduzioni o potresti ricevere il loro dono - una corona di ombre e le catene di un’immortale, eterna pena.</p>\n<p>Istinto: Manipolare.</p>\n<ul>\n<li>Affascinare qualcuno.</li>\n<li>Nutrirsi del suo sangue.</li>\n<li>Ritirarsi per pianificare di nuovo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Possente\"},{\"value\":\"Gruppo\"},{\"value\":\"Furtivo\"},{\"value\":\"Organizzato\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Medio, Possente, Gruppo, Furtivo, Organizzato, Intelligente"
+		},
+		{
+			"id": "Zombie",
+			"name": "Zombi",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Quando non ci sarà più posto all'inferno...;</p>\n<p>Istinto: Cervelliiiii.</p>\n<ul>\n<li>Attaccare in schiacciante superioritò numerica.</li>\n<li>Metterli all'angolo.</li>\n<li>Guadagnare forza dai morti, generare più zombi.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"}]",
+			"tagsString": "Medio, Orda"
+		}
+	]
+}

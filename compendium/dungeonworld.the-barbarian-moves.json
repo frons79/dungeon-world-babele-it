@@ -1,0 +1,137 @@
+{
+    "label": "Mosse del Barbaro",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": "A Good Day To Die",
+            "name": "Un Buon Giorno per Morire",
+            "description": "<p>Finché hai un numero di PF rimanenti pari o inferiori alla tua COS (o 1, qualunque sia il più alto) prendi +1 continuato.</p>"
+        },
+        {
+            "id": "Appetite For Destruction",
+            "name": "Fame per la Distruzione",
+            "description": "<p>Prendi una mossa dalla lista di classe del guerriero, bardo o ladro. Non puoi prendere mosse multiclasse.</p>"
+        },
+        {
+            "id": "Eye for Weakness",
+            "name": "Occhio ai Punti Deboli",
+            "description": "<p>Quando <em>discerni realtà</em> aggiungi «Cosa qui è debole o vulnerabile?» alla lista di domande che puoi fare.</p>"
+        },
+        {
+            "id": "For The Blood God",
+            "name": "Por el dios de la sangre",
+            "description": "<p>Sei stato iniziato secondo l'antica via, la via del sacrificio. Scegli qualcosa che i tuoi dei (o gli spirit antenati, o il tuo totem, etc.) ritengono importante: oro, sangue, ossa, o simili. Quando sacrifichi questa cosa secondo i tuoi riti e sacrifici, tira+SAG.</p>\n<ul>\n<li>Con un 10+ il GM ti offrirà un indizio per risolvere i tuoi problemi attuali o un beneficio per aiutarti.</li>\n<li>Con un 7-9 il sacrificio non basta e i tuoi dei prendono parte della tua carne, ma ti ricompensano egualmente.</li>\n<li>Con un fallimento, ottieni l'ira degli spiriti capricciosi.</li>\n</ul>"
+        },
+        {
+            "id": "Full Plate and Packing Steel",
+            "name": "Coperto d'Acciaio",
+            "description": "<p>Ignori l'etichetta ingombrante sull'armatura che indossi.</p>"
+        },
+        {
+            "id": "Healthy Distrust",
+            "name": "Sana Diffidenza",
+            "description": "<p>Ogni volta che la magia corrotta controllata dai mortali ti obbliga a <em>sfidare il pericolo</em>, considera qualunque risultato di 6− come fosse un 7–9.</p>"
+        },
+        {
+            "id": "Herculean Appetites",
+            "name": "Appetiti Erculei",
+            "description": "<p>Gli altri si accontenteranno di un semplice sorso di vino o del potere su una manciata di servi, ma tu vuoi di più. Scegli due appetiti. Se devi tirare per una mossa mentre persegui questi appetiti, tiri 1d6+1d8 invece di 2d6. Se il d6 è il dado più alto dei due, il GM introdurrà una complicazione o un pericolo derivante dalle tue azioni avventate.</p>\n<ul>\n<li>Distruzione pura.</li>\n<li>Potere sugli altri.</li>\n<li>Piaceri mortali.</li>\n<li>Conquista.</li>\n<li>Ricchezze e proprietà.</li>\n<li>Fama e gloria.</li>\n</ul>"
+        },
+        {
+            "id": "Indestructible Hunger",
+            "name": "Fame Insaziabile",
+            "description": "<p>Quando subisci danno puoi scegliere di prendere -1 continuato finché non sazi uno dei tuoi appetiti invece di subire il danno. Se hai già la penalità non puoi fare questa scelta.</p>"
+        },
+        {
+            "id": "Khan Of Khans",
+            "name": "Il Khan dei Khan",
+            "description": "<p>I tuoi gregari accettano sempre la soddisfazione arbitraria di uno dei tuoi appetiti come pagamento, in sostituzione al loro normale costo.</p>"
+        },
+        {
+            "id": "Kill 'Em All",
+            "name": "Mátalos a todos",
+            "description": "<p><em>Richiede: Fame per la Distruzione</em></p>\n<p>Prendi un'altra mossa dalla lista di classe del guerriero, bardo o ladro. Non puoi prendere mosse multiclasse.</p>"
+        },
+        {
+            "id": "Mark Of Might",
+            "name": "Un Segno di Forza",
+            "description": "<p>Quando prendi questa mossa e passi del tempo senza interruzione per riflettere sulle tue glorie passate puoi marchiarti con un simbolo della tua forza (una lunga treccia legata con campanelli, cicatrici rituali o tatuaggi, etc.). Qualunque creatura mortale e intelligente che vede questo simbolo capisce istintivamente che sei un avversario temibile e ti tratta di conseguenza.</p>"
+        },
+        {
+            "id": "More! Always More!",
+            "name": "Ancora! Ancora!",
+            "description": "<p>Quando soddisfi un'appetito fino al suo estremo (distruggendo qualcosa di unico e importante, guadagnandoti enorme fama, ricchezze, potere, etc.) puoi scegliere di risolvere quell'appetito. Cancellalo dalla lista e guadagna un PE. Anche se puoi ancora perseguire quell'appetito, non senti più il bisogno impellente che sentivi un tempo. Al suo posto, scegli un nuovo appetito dalla lista o scrivine uno nuovo.</p>"
+        },
+        {
+            "id": "Musclebound",
+            "name": "Un Fascio di Muscoli",
+            "description": "<p>Mentre impugni un'arma, ottiene le etichette <em>devastante</em> e <em>possente</em>.</p>"
+        },
+        {
+            "id": "My Love For You Is Like A Truck",
+            "name": "Il Mio Amore per Te È Come un Carro",
+            "description": "<p>Quando ti metti in mostra con una prova di forza, nomina uno dei presenti che hai impressionato e prendi +1 al prossimo tiro di <em>parlamentare</em> con lui.</p>"
+        },
+        {
+            "id": "On The Move",
+            "name": "Sempre in Movimento",
+            "description": "<p>Quando <em>sfidi il pericolo</em> causato da un movimento (ad esempio cadere da un ponte stretto o superare di corsa una guardia armata) prendi +1.</p>"
+        },
+        {
+            "id": "Samson",
+            "name": "Sansone",
+            "description": "<p>Puoi subire una debilitazione per liberarti immediatamente di qualsiasi costrizione fisica o mentale.</p>"
+        },
+        {
+            "id": "Smash!",
+            "name": "Spacca!",
+            "description": "<p>Quando <em>tagli e spacchi</em>, con un 12+ infliggi i tuoi danni e scegli qualcosa di fisico che il tuo nemico ha (un'arma, la sua posizione, un'arto): lo perde.</p>"
+        },
+        {
+            "id": "Still Hungry",
+            "name": "Ho Ancora Fame",
+            "description": "<p>Scegli un'altro appetito.</p>"
+        },
+        {
+            "id": "The One Who Knocks",
+            "name": "Quello che Bussa",
+            "description": "<p>Quando <em>sfidi il pericolo</em>, con un 12+ ritorci il pericolo contro se stesso, il GM descriverà come.</p>"
+        },
+        {
+            "id": "The Upper Hand",
+            "name": "Dominare la Morte",
+            "description": "<p>Prendi +1 continuato ai tiri di <em>ultimo respiro</em>. Quando esali il tuo ultimo respiro, con un 7–9 sei tu a fare un'offerta alla Morte in cambio della tua vita. Se la Morte accetta ti riporterà in vita. Se no, morirai.</p>"
+        },
+        {
+            "id": "Unencumbered, Unharmed",
+            "name": "Mai Impacciato, Sempre Illeso",
+            "description": "<p>Fintanto che sei al di sotto del tuo Carico e non indossi armatura né porti uno scudo, prendi +1 armatura.</p>"
+        },
+        {
+            "id": "Usurper",
+            "name": "Usurpatore",
+            "description": "<p>Quando dimostri di essere più forte di una persona importante, prendi +1 al prossimo tiro con i loro seguaci, subalterni e sostenitori.</p>"
+        },
+        {
+            "id": "War Cry",
+            "name": "Grido di Battaglia",
+            "description": "<p>Quando entri in battaglia con una dimostrazione di forza (un urlo, grida d'incitazione, una danza di guerra) tira+CAR</p>\n<ul>\n<li>Con un 10+ hai entrambe le opzioni.</li>\n<li>Con un 7–9 scegli un'opzione tra le due.</li>\n</ul>\n<ul><li>I tuoi alleati sono incoraggiati e prendono +1 al prossimo tiro.</li><li>I tuoi nemici si spaventano e agiscono di conseguenza (evitandoti, nascondendosi, attaccandoti in preda al panico).</li></ul>"
+        },
+        {
+            "id": "What Are You Waiting For?",
+            "name": "Cosa Stai Aspettando? (COS)",
+            "description": "<p>Quando lanci una sfida ai tuoi nemici, tira+COS.</p>\n<ul>\n<li>Con un 10+ ti trattano come la minaccia più importante di cui occuparsi e ignorano i tuoi compagni, prendi +2 danni continuati contro di loro.</li>\n<li>Con un 7–9 solo alcuni (i più deboli o i più avventati tra lor) cadono preda della tua provocazione.</li>\n</ul>"
+        },
+        {
+            "id": "What Is Best In Life",
+            "name": "Il Meglio della Vita",
+            "description": "<p>Alla fine della sessione, se durante questa sessione hai sconfitto i tuoi nemici, li hai inseguiti mentre fuggono, o hai sentito i lamenti dei loro cari, guadagna un PE.</p>"
+        },
+        {
+            "id": "Wide-Wanderer",
+            "name": "Giramondo",
+            "description": "<p>Hai girato in lungo in largo. Quando arrivi in un luogo chiedi al GM di importanti tradizioni, rituali, etc. Ti dirà ciò che hai bisogno di sapere.</p>"
+        }
+    ]
+}

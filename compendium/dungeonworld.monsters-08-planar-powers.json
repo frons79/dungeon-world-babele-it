@@ -1,0 +1,249 @@
+{
+	"label": "Mostri - 08 Poteri Planarei",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Angel",
+			"name": "Angelo",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": "Ali"
+				}
+			},
+			"details": {
+				"biography": "<blockquote><p>È scritto che i cieli si aprirono su Avra'hal ed un angelo emerse dalle nuvole per parlarle e le apparve come la sua primogenita: bella, dalla pelle d’ebano e dagli occhi dorati. E Avra'hal pianse nel vederlo. 'Non avere paura,' le comandò. 'Vai nei villaggi che ti ho mostrato nei tuoi sogni e mostra loro la parola che ho scritto sulla tua anima.' Avra'hal pianse a lungo e accettò il suo compito. Prese la sua spada ed il suo tomo e andò in quei villaggi, con labbra bramose di sangue, poiché la parola che l'angelo aveva scritto sulla sua anima era 'uccidi'.</p></blockquote>\n<p>Instinto: Condividere la volontà divina.</p>\n<ul>\n<li>Comunicare visioni e profezie.</li>\n<li>Spingere i mortali ad agire.</li>\n<li>Mettere in luce peccati ed ingiustizie.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Terrificante\"},{\"value\":\"Divino\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Possente, Solitario, Terrificante, Divino, Intelligente, Organizzato"
+		},
+		{
+			"id": "Corrupter",
+			"name": "Corruttore",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Sicuramente, mio buon uomo, saprai perché sono qui. Saprai chi sono. Hai pronunciato le parole. Versato il sangue e seguito le istruzioni praticamente alla lettera. La tua pronuncia ha lasciato un po' a desiderare ma c'era da aspettarselo. Vengo a darti ciò che hai sempre desiderato, amico. Gloria, amore, denaro? Cose insignificanti, quando hai i gironi infernali dai quali attingere. Non fingerti scioccato, sapevi di cosa si trattasse. Non hai che una cosa che possiamo desiderare. Prometticela e il mondo potrebbe essere a tua completa disposizione. Fidati di me.</p>\n</blockquote>\n<p>Instinto: Barattare.</p>\n<ul>\n<li>Offrire un accordo con orribili conseguenze.</li>\n<li>Attingere alle profondità dell'inferno per qualcosa da scambiare.</li>\n<li>Sfoggiare potere.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Solitario\"},{\"value\":\"Sfuggente\"},{\"value\":\"Planare\"},{\"value\":\"Accumulatore\"}]",
+			"tagsString": "Medio, Solitario, Sfuggente, Planare, Accumulatore"
+		},
+		{
+			"id": "Word Demon",
+			"name": "Demone delle Parole",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Tutta la magia mortale è solo parole. Gli incantesimi sono preghiere, formule a memoria, rune tracciate o brani cantati. Lettere, parole, frasi e sintassi legate assieme in un linguaggio che il mondo possa comprendere. Per mezzo delle parole possiamo far piangere o esultare i nostri simili, descrivere immagini e sussurrare desideri agli dei. Nessuna meraviglia quindi, che tutto quel potere abbia uno scopo. Che ogni parola che pronunciamo, se ripetuta, in base al significato e all’emozione che le attribuiamo, può causare una piccola involontaria evocazione. I demoni delle parole sono richiamati per errore, appaiono casualmente e hanno spesso vita breve, ma vengono per servire una particolare parola. Capricciosi, imprevedibili e pericolosi, sì. Ma potenzialmente utili, a seconda dalla parola.</p>\n<p>Instinto: Favorire la propria parola.</p>\n<ul>\n<li>Lanciare un incantesimo relazionato alla propria parola.</li>\n<li>Procurare la propria parola in abbondanza.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Solitario\"},{\"value\":\"Planare\"},{\"value\":\"Magico\"}]",
+			"tagsString": "Solitario, Planare, Magico"
+		},
+		{
+			"id": "Imp",
+			"name": "Diavoletto",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Questi piccoli demoni osservatori sono spesso utilizzati da stregoni novellini come primo famiglio da vincolare. Possono essere trovati ad infestare circoli arcani, bevendo pozioni quando nessuno guarda ed inseguendo animali domestici e servitori con piccoli forconi. Caricatura di ciò che è realmente demoniaco, queste creature non sono, fortunatamente, troppo difficili da vincolare o estinguere.</p>\n<p>Instinto: Infastidire.</p>\n<ul>\n<li>Inviare informazioni all'inferno.</li>\n<li>Causare problemi.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Vicino\"},{\"value\":\"Lungo\"},{\"value\":\"Orda\"},{\"value\":\"Planare\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Vicino, Lungo, Orda, Planare, Intelligente, Organizzato"
+		},
+		{
+			"id": "Chain Devil",
+			"name": "Diavolo delle Catene",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Pensi che la frase: 'Che il diavolo ti porti' non significhi nulla? È infelicemente letterale nel caso del diavolo delle catene. Questa creatura evocata, appare differente ad ognuna delle sue vittime, ma con un singolo scopo: avvolgere la vittima nelle sue spire e portarla via verso un luogo di tormenti. A volte apparirà come una massa umanoide di ferro arruginito, ganci e spire di catene malassortite. Altre volte, come un turbolento groviglio di corde o alghe o lenzuola insanguinate attorcigliate. Il risultato è sempre lo stesso.</p>\n<p>Instinto: Catturare.</p>\n<ul>\n<li>Prendere un prigioniero.</li>\n<li>Tornare da dove è venuto.</li>\n<li>Torturare con diletto.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Solitario\"},{\"value\":\"Planare\"}]",
+			"tagsString": "Medio, Lungo, Solitario, Planare"
+		},
+		{
+			"id": "Barbed Devil",
+			"name": "Diavolo delle Spine",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 3"
+				},
+				"specialQualities": {
+					"value": "Spine"
+				}
+			},
+			"details": {
+				"biography": "<p>Il diavolo ha mille forme, forse di più. Alcune comuni, altre uniche. Ogni volta che gli inquisitori ne scoprono una, la trascrivono nel Codice dei tormentatori e la conoscenza viene condivisa con le abbazie, nella speranza che atrocità di quel particolare tipo non trovino nuovamente la propria via nel mondo. Il diavolo spinato è conosciuto da lungo tempo a fratelli e sorelle dell'inquisizione. Egli appare solo in luoghi di particolare violenza o quando evocato da un evocatore ribelle. Ricoperto di aculei affilati, questo particolare demone gode dello spargimento di sangue, preferibilmente impalando le proprie vittime totalmente o parzialmente sulle sue spine e lasciandole morire lì. Crudele ma non particolarmente efficace ai fini del massacro. Una bassa priorità per l’inquisizione.</p>\n<p>Instinto: Lacerare la carne e versare sangue.</p>\n<ul>\n<li>Impalare qualcuno.</li>\n<li>Uccidere incondizionatamente.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Devastante\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Planare\"},{\"value\":\"Terrificante\"}]",
+			"tagsString": "Medio, Lungo, Devastante, Solitario, Grande, Planare, Terrificante"
+		},
+		{
+			"id": "Djinn",
+			"name": "Djinn",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": "Fatto di fiamme"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Smetti di sfregare quella lampada, idiota. Non mi interessa cosa hai letto, non esaudirà nessun tuo desiderio. Ti ho portato qui per mostrarti qualcosa di reale, qualcosa di vero. Vedi questi graffiti? Mostrano la città antica. La verà città che venne prima. La chiamarono Majilis e fu costruita in ottone dagli spiriti. Avevano servitori golem e amanti umani e, a quei tempi, dissero che avresti potuto scambiare un anno della tua vita con un favore. Non siamo qui per raccogliere tesori stanotte, sciocco, siamo qui per imparare. I djinn vengono ancora da queste parti, a volte, e devi comprendere la loro storia se vuoi sapere come comportarti. Sono potenti e malvagi e orgogliosi, e devi conoscerli se speri di sopravvivere ad un'evocazione. Ora, porta la lampada qui e accendiamola, si sta facendo scuro e queste rovine sono pericolose di notte.</p>\n</blockquote>\n<p>Instinto: Bruciare eternamente.</p>\n<ul>\n<li>Garantire potere ad un prezzo.</li>\n<li>Evocare le forze della città di bronzo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Gruppo\"},{\"value\":\"Grande\"},{\"value\":\"Magico\"}]",
+			"tagsString": "Medio, Lungo, Gruppo, Grande, Magico"
+		},
+		{
+			"id": "Concept Elemental",
+			"name": "Elementale Concettuale",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Forma ideale"
+				}
+			},
+			"details": {
+				"biography": "<p>I piani non sono ordinari come il nostro mondo. Nascosti nel caos elementale ci sono posti di cose ben più strane che aria e acqua. Qui, fiumi di tempo si infrangono su spiagge di cristallina paura. Squallide tempeste d'incubo si agitano e sbattono in cieli ridenti. A volte, gli spiriti di questi posti possono essere attirati nel nostro mondo, anche se sono infinitamente più imprevedibili e strani di quanto i semplici fuoco e terra potrebbero essere. È anche facile sbagliarsi: Uno potrebbe tentare di richiamare un elementale della ricchezza e sorprendersi di trovare al suo posto un elementale dell'assassinio.</p>\n<p>Instinto: Perfezionare il proprio concetto.</p>\n<ul>\n<li>Dimostrare il suo concetto nella sua forma più pura.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Solitario\"},{\"value\":\"Sfuggente\"},{\"value\":\"Planare\"},{\"value\":\"Amorfo\"}]",
+			"tagsString": "Solitario, Sfuggente, Planare, Amorfo"
+		},
+		{
+			"id": "Inevitable",
+			"name": "Inevitabile",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Fatto di ordine"
+				}
+			},
+			"details": {
+				"biography": "<p>Tutto finisce. La realtà sanguina dalle ferite del coltello dell'entropia. Al margine del tempo stesso si staglia l'inevitabile. Massiccio, potente ed apparentemente scolpito nella materia delle stelle, l'inevitabile interviene solo quando la magia o le calamità hanno alterato la trama del fato. Dove l'arrogante e il potente disperdono la sostanza del destino e cercano di minare ciò che è apparentemente immune all'influenza mortale e ciò che è assolutamente enigmatico, si dice che gli inevitabili sono tutto ciò che rimane quando il lungo filo del tempo si esaurisce.</p>\n<p>Instinto: Preservare l'ordine.</p>\n<ul>\n<li>Terminare un'incantesimo o effetto.</li>\n<li>Imporre le leggi della natura o dell'uomo.</li>\n<li>Lasciar intravedere il destino.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Gruppo\"},{\"value\":\"Grande\"},{\"value\":\"Magico\"},{\"value\":\"cauto\"},{\"value\":\"Amorfo\"},{\"value\":\"Planare\"}]",
+			"tagsString": "Medio, Lungo, Gruppo, Grande, Magico, cauto, Amorfo, Planare"
+		},
+		{
+			"id": "Larvae",
+			"name": "Larva",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Coloro che hanno avuto visioni dei Piani Infernali e sono sopravvissuti con il senno intatto, parlano di masse di questi miserabili che si contorcono. Larve con i volti di donne e uomini, implorando salvezza in un nido di fiamme. Talvolta, possono essere spinti attraverso una breccia nella trama planare ed emergere, contorcendosi in tormento, nel nostro mondo. Una volta qui, diffondono miseria e malattia durante le loro brevissime vite prima di estinguersi in una poltiglia sanguinolenta. Tutto sommato un buon incentivo a comportarsi bene in vita.</p>\n<p>Instinto: Soffrire.</p>\n<ul>\n<li>Infondere disperazione.</li>\n<li>Chiedere pietà.</li>\n<li>Attirare l'attenzione del male.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"},{\"value\":\"Sfuggente\"},{\"value\":\"Planare\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Medio, Orda, Sfuggente, Planare, Intelligente"
+		},
+		{
+			"id": "Nightmare",
+			"name": "Incubo",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Fiamme e ombra"
+				}
+			},
+			"details": {
+				"biography": "<p>Il branco naque da un patto stipulato in tempi nei quali le Steppe Maledette erano ancora abitate dall'uomo. Erano Signori dei cavalli ad attraversare queste terre. Nati sulla sella, si dice. Uno di loro, in un tentativo di dominare i suoi simili, fece un patto oscuro con qualche potere malvagio e diede in cambio i suoi migliori cavalli. Ottenne del potere, certo. Ma quanto vale una dinastia millenaria quando una vita è così corta? Ora i demoni dell'abisso cavalcano i migliori cavalli mai visti. Manti di lucido petrolio e criniere di fiamme tormentate: queste sono i destrieri della cavalleria infernale.</p>\n<p>Instinto: Cavalcare sfrenatamente.</p>\n<ul>\n<li>Avvolgere un cavaliere in fiamme infernali.</li>\n<li>Farli fuggire.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Lungo\"},{\"value\":\"Orda\"},{\"value\":\"Grande\"},{\"value\":\"Magico\"},{\"value\":\"Terrificante\"},{\"value\":\"Planare\"}]",
+			"tagsString": "Medio, Lungo, Orda, Grande, Magico, Terrificante, Planare"
+		},
+		{
+			"id": "Quasit",
+			"name": "Quasit",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Forma adattabile"
+				}
+			},
+			"details": {
+				"biography": "<p>Un diavoletto con un po' di ambizione. Un quasit è una sorta di fante del reame demoniaco. Un demone comune, armato di zanne, artigli, ali o qualunque altra cosa per dargli un piccolo vantaggio sui suoi pari. Generalmente vincolato dagli stregoni per portare carichi pesanti, costruire ponti o sorvegliare le loro torri contorte, un quasit può assumere varie forme, nessuna di queste gradevole.</p>\n<p>Instinto: Servire.</p>\n<ul>\n<li>Attaccare con trasporto.</li>\n<li>Infliggere dolore.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Orda\"},{\"value\":\"Planare\"}]",
+			"tagsString": "Medio, Orda, Planare"
+		},
+		{
+			"id": "Hell Hound",
+			"name": "Mastino Infernale",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Pelle d'ombra"
+				}
+			},
+			"details": {
+				"biography": "<p>Quando qualcuno viene meno a un accordo, non viene forse per il debitore il momento del pagamento? Il creditore non manda forse qualcuno a riscuotere ciò che è dovuto? Così è anche per i Poteri degli inferi. Pretendono solo ciò che gli spetta. Un ululante branco di ombre, fiamme e ossa frastagliate, aizzato dal corno da caccia. Non si fermeranno, non si può sfuggire.</p>\n<p>Instinto: Inseguire.</p>\n<ul>\n<li>Inseguire nonostante gli ostacoli.</li>\n<li>Sputare fuoco.</li>\n<li>Evocare le forze dell'inferno sul loro bersaglio.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Medio\"},{\"value\":\"Gruppo\"},{\"value\":\"Planare\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Medio, Gruppo, Planare, Organizzato"
+		},
+		{
+			"id": "The Tarrasque",
+			"name": "Tarrasque",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Inmune"
+				}
+			},
+			"details": {
+				"biography": "<p>Il Tarrasque. Leggendario, inarrestabile, colosso divoratore di città e trangugiatore di navi, cavalli e cavalieri. Una creatura mai vista in questa era ma sulla quale si racconta ogni tipo di storia. C'è un fondo di verità in queste storie. Non può essere ucciso. Nessuna spada può perforare il suo guscio come pietra nè esiste incantesimo che possa penetrare lo scudo che in qualche modo ha. Storie dicono, comunque, che la volontà di un'anima pura potrà mandarlo in letargo, però che cosa significhi e, per gli dei, dove si potrebbe trovare una cosa del genere, pregate non ci sia mai bisogno di impararlo. Giace in letargo. Da qualche parte alla periferia del margine planare, riposa per ora.</p>\n<p>Instinto: Consumare.</p>\n<ul>\n<li>Ingoiare una persona, un gruppo o un intero posto.</li>\n<li>Rigurgitare i resti di un posto divorato da molto tempo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Solitario\"},{\"value\":\"Enorme\"},{\"value\":\"Planare\"}]",
+			"tagsString": "Solitario, Enorme, Planare"
+		}
+	]
+}

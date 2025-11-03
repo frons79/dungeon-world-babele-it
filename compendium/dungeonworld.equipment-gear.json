@@ -1,0 +1,79 @@
+{
+    "label": "Equipaggiamento (Attrezzatura da Dungeon)",
+    "mapping": {
+        "description": "data.description",
+        "tags": "data.tags",
+        "tagsString": "data.tagsString"
+    },
+    "entries": [{
+            "id": "Adventuring Gear",
+            "name": "Attrezzatura da Avventuriero",
+            "description": "<p>Gli strumenti da avventuriero sono una raccolta di oggetti comuni e utili, come gesso, aste, spuntoni, corde, etc. Quando frughi nei tuoi strumenti da avventuriero per cercare un oggetto comune e utile, lo trovi e spendi un utilizzo.</p>"
+        },
+        {
+            "id": "Anti-Toxin",
+            "name": "Antitossina ",
+            "description": "<p>Quando bevi una dose di antitossina sei guarito da un veleno che sta avendo effetto su di te.</p>"
+        },
+        {
+            "id": "Bag of Books",
+            "name": "Borsa di Libri",
+            "description": "<p>Quando la tua borsa di libri contiene proprio il libro giusto per l’argomento su cui stai <em>declamando conoscenze</em>, consulta il libro, spendi un utilizzo, e prendi +1 al tuo tiro.</p>"
+        },
+        {
+            "id": "Bandages",
+            "name": "Bende ",
+            "description": "<p>Quando hai qualche minuto per bendare le ferite di qualcuno, guarisci 4 danni e spendi un utilizzo.</p>",
+            "tags": "[{\"value\":\"Lento\"}]",
+            "tagsString": "Lento"
+        },
+        {
+            "id": "Dungeon Rations",
+            "name": "Razioni da Dungeon",
+            "description": "<p>Non sono buonissime, ma neanche così male.</p>",
+            "tags": "[{\"value\":\"Razione\"}]",
+            "tagsString": "Razione"
+        },
+        {
+            "id": "Dwarven Hardtack",
+            "name": "Gallette Naniche",
+            "description": "<p>I Nani dicono che hanno il sapore di casa. Tutti gli altri dicono che hanno il sapore di casa, se per casa intendi un porcile, che va a fuoco.</p>",
+            "tags": "[{\"value\":\"Solo nani\"}]",
+            "tagsString": "Solo nani"
+        },
+        {
+            "id": "Elven Bread",
+            "name": "Pane Elfico",
+            "description": "<p>Solo ai migliori amici degli Elfi è concesso assaggiare questa delicatezza rara.</p>",
+            "tags": "[{\"value\":\"Razione\"}]",
+            "tagsString": "Razione"
+        },
+        {
+            "id": "Halfling Pipeleaf",
+            "name": "Erbapipa dei Mezzuomini",
+            "description": "<p>Quando fumi l'erbapipa dei Mezzuomini con qualcuno, spendi due utilizzi e prendi +1 al prossimo tiro di <em>parlamentare</em> con questa persona.</p>"
+        },
+        {
+            "id": "Healing Potion",
+            "name": "Pozione Curativa",
+            "description": "<p>Quando bevi un’intera pozione curativa, guarisci 10 danni o cancella una debilitazione, a te la scelta.</p>"
+        },
+        {
+            "id": "Keg of Dwarven Stout",
+            "name": "Barile di Birra scura nanica",
+            "description": "<p>Quando apri un barile di birra scura nanica e lasci che tutti ne bevano a volontà, prendi +1 al tuo tiro di <em>fare baldoria</em>. Se ti bevi una botte da solo, sei molto, molto ubriaco.</p>"
+        },
+        {
+            "id": "Personal Feast",
+            "name": "Banchetto Personale",
+            "description": "<p>Fastoso è dir poco</p>"
+        },
+        {
+            "id": "Poultices and Herbs",
+            "name": "Erbe e Unguenti",
+            "description": "<p>Quando curi le ferite di qualcuno con erbe e unguenti, guarisci 7 danni e spendi un utilizzo.</p>",
+            "tags": "[{\"value\":\"Lento\"}]",
+            "tagsString": "Lento"
+        }
+    ]
+}

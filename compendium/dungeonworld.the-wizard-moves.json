@@ -1,0 +1,132 @@
+{
+    "label": "Mosse del Mago",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": "Arcane Armor",
+            "name": "Armatura Arcana",
+            "description": "<p><em>Sostituisce: Protezione Arcana</em></p>\n<p>Fintanto che hai un incantesimo preparato di primo livello o superiore, hai +4 armatura.</p>"
+        },
+        {
+            "id": "Arcane Ward",
+            "name": "Protezione Arcana",
+            "description": "<p>Fintanto che hai almeno un'incantesimo preparato di primo livello o superiore, hai +2 armatura.</p>"
+        },
+        {
+            "id": "Cast a Spell",
+            "name": "Lanciare Incantesimi (INT)",
+            "description": "<p>Quando lanci un incantesimo che hai preparato, tira+INT.</p>\n<p>✴ Con un 10+, l'incantesimo viene lanciato con successo e non lo dimentichi: puoi lanciarlo nuovamente in futuro.</p>\n<p>✴ Con un 7–9, l'incantesimo viene lanciato, ma scegli un'opzione:</p>\n<ul>\n<li>Attiri attenzioni indesiderate o metti te stesso in difficoltà. Il GM ti dirà come.</li>\n<li>L'incantesimo disturba il tessuto della realtà: prendi -1 continuato a <em>lanciare incantesimi</em> fino al prossimo momento in cui <em>prepari incantesimi</em>.</li>\n<li>Dopo che l'hai lanciato, dimentichi l'incantesimo. Non puoi più lanciarlo fino a quando non <em>prepari incantesimi</em> di nuovo.</li>\n</ul>\n<p>Nota che mantenere attivo un incantesimo con effetti continuati potrebbe causare una penalità al tuo tiro di <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Counterspell",
+            "name": "Controincantesimo",
+            "description": "<p>Quando cerchi di contrastare un incantesimo arcano che avrebbe effetto su di te, rischia uno degli incantesimi che hai preparato e tira+INT.</p>\n<p>✴ Con un 10+, riesci a contrastare l'incantesimo e non ha effetto su di te.</p>\n<p>✴ Con un 7–9, riesci a contrastarlo e dimentichi l'incantesimo che hai rischiato.</p>\n<p>Il controincantesimo protegge soltanto te: se l'incantesimo contrastato ha altri bersagli subiscono normalmente i suoi effetti.</p>"
+        },
+        {
+            "id": "Empowered Magic",
+            "name": "Magia Potenziata",
+            "description": "<p>Quando lanci un incantesimo, con un 10+ hai la possibilità di scegliere dalla lista del 7–9. Se lo fai, puoi scegliere una di queste opzioni:</p>\n<ul>\n<li>Gli effetti dell'incantesimo sono massimizzati.</li>\n<li>L'incantesimo ha effetto su un numero doppio di bersagli.</li>\n</ul>"
+        },
+        {
+            "id": "Enchanter",
+            "name": "Incantatore",
+            "description": "<p>Quando disponi del tempo e della tranquillità necessari ad analizzare un oggetto magico, puoi chiedere al GM qual'è la sua funzione, il GM ti risponderà sinceramente.</p>"
+        },
+        {
+            "id": "Enchanter's Soul",
+            "name": "Anima dell'Incantatore",
+            "description": "<p><em>Richiede: Incantatore</em></p>\n<p>Quando disponi del tempo e della tranquillità necessari ad analizzare un oggetto magico, puoi chiedere al GM qual'è la sua funzione, il GM ti risponderà sinceramente.</p>"
+        },
+        {
+            "id": "Ethereal Tether",
+            "name": "Catena Astrale",
+            "description": "<p>Quando disponi di abbastanza tempo con un soggetto volontario o indifeso puoi leagarlo a te con una catena astrale. Percepisci ciò che percepisce e puoi discernere realtà a proposito di lui o di ciò che lo circonda, non importa la distanza. Chi si è legato a te volontariamente può comunicare con te come se foste nella stessa stanza.</p>"
+        },
+        {
+            "id": "Expanded Spellbook",
+            "name": "Libro degli Incantesimi Espanso",
+            "description": "<p>Aggiungi un incantesimo dalla lista di qualsiasi altra classe al tuo libro degli incantesimi.</p>"
+        },
+        {
+            "id": "Fount of Knowledge",
+            "name": "Pozzo di Scienza",
+            "description": "<p>Quando declami conoscenze su qualcosa di cui nessuno ha la minima idea, prendi +1.</p>"
+        },
+        {
+            "id": "Greater Empowered Magic",
+            "name": "Magia Potenziata Superiore",
+            "description": "<p><em>Sostituisce: Magia Potenziata</em></p>\n<p>Quando lanci un incantesimo, con un 10-11 hai la possibilità di scegliere dalla lista del 7–9. Se lo fai, puoi scegliere una di queste opzioni. Con un 12+ puoi sceglierne una automaticamente.</p>\n<ul>\n<li>Gli effetti dell'incantesimo sono raddoppiati.</li>\n<li>L'incantesimo ha effetto su un numero doppio di bersagli.</li>\n</ul>"
+        },
+        {
+            "id": "Highly Logical",
+            "name": "Estremamente Logico",
+            "description": "<p><em>Sostituisce: Logico</em></p>\n<p>Quando usi le deduzioni logiche per analizzare ciò che ti circonda, puoi <em>discernere realtà</em> con INT invece che con SAG. Con un 12+ puoi fare tre domande qualsiasi al GM, anche se non sono sulla lista.</p>"
+        },
+        {
+            "id": "Know-It-All",
+            "name": "So Tutto Io",
+            "description": "<p>Quando un altro personaggio giocante viene a chiederti consiglio e gli dici cosa pensi sia meglio, ottiene +1 al prossimo tiro quando segue i tuoi consigli e guadagni un PE se lo fa.</p>"
+        },
+        {
+            "id": "Logical",
+            "name": "Logico",
+            "description": "<p>Quando usi le deduzioni logiche per analizzare ciò che ti circonda, puoi <em>discernere realtà</em> con INT invece che con SAG.</p>"
+        },
+        {
+            "id": "Master",
+            "name": "Maestro",
+            "description": "<p><em>Richiede: Prodigio</em></p>\n<p>Scegli un incantesimo in aggiunta a quello che hai scelto per <em>prodigio</em>. Prepari sempre l'incantesimo scelto come fosse di un livello più basso.</p>"
+        },
+        {
+            "id": "Mystical Puppet Strings",
+            "name": "Burattino Mistico",
+            "description": "<p>Quando usi la magia per controllare le azioni di una persona, non ricorderà nulla di ciò che gli hai fatto fare e non ti serberà rancore.</p>"
+        },
+        {
+            "id": "Prepare Spells",
+            "name": "Preparare Incantesimi",
+            "description": "<p>Quando <strong>trascorri del tempo non interrotto (un'ora o più) in quieta contemplazione del tuo libro degli incantesimi</strong>:</p>\n<ul>\n<li>Perdi tutti gli incantesimi che avevi preparato.</li>\n<li>Prepara nuovi incantesimi a tua scelta dal tuo libro degli incantesimi il cui livello totale non superi il tuo livello+1.</li>\n<li>Prepara tutti i trucchetti, che non contano mai ai fini del limite.</li>\n</ul>"
+        },
+        {
+            "id": "Prodigy",
+            "name": "Prodigio",
+            "description": "<p>Scegli un incantesimo. Lo prepari sempre come fosse di un livello più basso.</p>"
+        },
+        {
+            "id": "Protective Counter",
+            "name": "Controincantesimo Protettivo",
+            "description": "<p><em>Richiede: Controincantesimo</em></p>\n<p>Quando un alleato che puoi vedere subisce gli effetti di un incantesimo arcano, puoi contrastarlo come se fossi tu al suo posto. Se l'incantesimo ha più di un bersaglio, devi contrastare separatamente per ogni bersaglio.</p>"
+        },
+        {
+            "id": "Quick Study",
+            "name": "Analisi Rapida",
+            "description": "<p>Quando vedi gli effetti di un incantesimo arcano, chiedi al GM il nome dell'incantesimo e i suoi effetti. Prendi +1 quando agisci secondo le risposte.</p>"
+        },
+        {
+            "id": "Ritual",
+            "name": "Rituale",
+            "description": "<p>Quando attingi a un luogo di potere per creare un effetto magico, di' al GM cosa stai cercando di fare. Gli effetti dei rituali sono sempre possibili, ma il GM ti darà da una a quattro delle seguenti condizioni:</p>\n<ul>\n<li>Ci vorranno giorni/settimane/mesi.</li><li>Prima dovrai ____.</li><li>Avrai bisogno di aiuto da ____.</li><li>Serviranno molti soldi.</li><li>Il meglio che puoi fare è una versione minore, inaffidabile e limitata.</li><li>Tu e i tuoi alleati rischierete di mettervi in pericolo con ____. <li>Dovrai disincantare ____ per farlo.</li>\n</ul>"
+        },
+        {
+            "id": "Self-Powered",
+            "name": "Autoalimentato",
+            "description": "<p>Quando hai il tempo e i materiali arcani necessari e un posto sicuro, puoi creare il tuo personale luogo di potere. Descrivi al GM di che tipo di potere si tratta e di come lo stai legando a questo luogo. Il GM ti dirà un tipo di creatura che si interesserà al tuo lavoro.</p>"
+        },
+        {
+            "id": "Spell Augmentation",
+            "name": "Accrescere Incantesimo",
+            "description": "<p>Quando infliggi danno puoi incanalare l'energia di un incantesimo al suo interno: termina uno dei tuoi incantesimi continuati e aggiungi il livello dell'incantesimo ai danni inflitti.</p>"
+        },
+        {
+            "id": "Spell Defense",
+            "name": "Scudo Magico",
+            "description": "<p>Quando <strong>plasmi un incantesimo continuato in uno scudo di magia arcana per deviare un attacco</strong>, l'incantesimo termina e sottrai il suo livello al danno ricevuto.</p>"
+        },
+        {
+            "id": "Spellbook",
+            "name": "Libro degli Incantesimi",
+            "description": "<p>Hai padroneggiato diversi incantesimi e li hai trascritti nel tuo libro degli incantesimi. Inizi il gioco con tre magie di primo livello e tutti i trucchetti. Ogni volta che <em>sali di livello</em>, aggiungi un nuovo incantesimo del tuo livello o inferiore al tuo libro. Il tuo libro degli incantesimi ha <em>peso 1</em>.</p>"
+        }
+    ]
+}

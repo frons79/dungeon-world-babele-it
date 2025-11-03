@@ -1,0 +1,232 @@
+{
+	"label": "Mostri - 07 Profondità ignote",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Aboleth",
+			"name": "Aboleth",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Telepatia"
+				}
+			},
+			"details": {
+				"biography": "<p>Nelle profondità della superficie del mondo, in mari d'acqua dolce non toccati dal sole, vivono gli aboleth. Pesci grandi come balene, con strane escrescenze di antenne gelatinose usate per sondare le sponde senza luce. Sono serviti da schiavi: vittime albine cieche di qualsiasi razza abbastanza sfortunata da imbattersi in loro, svuotate del pensiero e della vita dai poteri della mente aliena degli aboleth. Nelle profondità complottano l'uno contro l'altro, cultisti ittici che costruiscono e scavano verso la superficie fino a quando, un giorno, la sfonderanno. Per il momento si limitano a dormire e sognare, comandando i loro pallidi servitori a eseguire i loro ordini.</p>\n<p>Instinto: Comandare.</p>\n<ul>\n<li>Invadere la mente.</li>\n<li>Metterti contro dei tirapiedi.</li>\n<li>Mettere in moto un piano.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lunga\"},{\"value\":\"Gruppo\"},{\"value\":\"Enorme\"},{\"value\":\"Intelligente\"}]",
+			"tagsString": "Lunga, Gruppo, Enorme, Intelligente"
+		},
+		{
+			"id": "Gray Render",
+			"name": "Laceratore grigio",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 3"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Di per sé, il Laceratore è pura forza distruttiva. Enorme e corazzato, con una bocca armata di denti indistruttibili e artigli altrettanto letali, il mostro si diletta nel fare a pezzi le cose. Pietra, carne o acciaio, poco importa. Tuttavia, è raro trovare un Laceratore Grigio da solo. Spesso si legano ad altre creature. Alcuni fin dalla nascita, altri in età adulta. Un Laceratore Grigio seguirà il suo padrone ovunque vada, portandogli offerte di carne e proteggendolo mentre dorme. Trovare un Laceratore privo di imprinting significa ricchezza certa, sempre che si riesca a sopravvivere per poterlo vendere.</p>\n<p>Instinto: Servire.</p>\n<ul>\n<li>Fare a pezzi qualcosa.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"}]",
+			"tagsString": "Media, Lunga, Possente, Solitario, Grande"
+		},
+		{
+			"id": "Dragon",
+			"name": "Drago",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 4"
+				},
+				"specialQualities": {
+					"value": "Sangue elementale, Ali"
+				}
+			},
+			"details": {
+				"biography": "<p>Sono la cosa più grande e più terrificante che questo mondo abbia da offrire.</p>\n<p>Instinto: Dominare.</p>\n<ul>\n<li>Piegare un elemento alla sua volontà.</li>\n<li>Esigere un tributo.</li>\n<li>Agire con disprezzo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lunga\"},{\"value\":\"Devastante\"},{\"value\":\"Solitario\"},{\"value\":\"Enorme\"},{\"value\":\"Terrificante\"},{\"value\":\"Cauto\"},{\"value\":\"Accumulatore\"}]",
+			"tagsString": "Lunga, Devastante, Solitario, Enorme, Terrificante, Cauto, Accumulatore"
+		},
+		{
+			"id": "Apocalypse Dragon",
+			"name": "Drago dell'Apocalisse",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 4"
+				},
+				"specialQualities": {
+					"value": "Pelle metallica spessa 2.5cm, Conoscenze soprannaturali, Ali"
+				}
+			},
+			"details": {
+				"biography": "<p>La fine di tutte le cose sarà un incendio degli alberi, della terra e dell'aria stessa. Arriverà sulle pianure e sulle montagne ma non dall'aldilà di questo mondo, bensì dal suo interno. Nascerà dal grembo della terra più profonda il Drago che porrà fine al mondo. Al suo passaggio tutto diventerà cenere e bile e Dungeon World non sarà altro se non un pianeta morente privo di vita alla deriva nello spazio planare. Dicono che adorare il Drago dell'Apocalisse significhi provocare la follia. Dicono che amarlo significhi conoscere l'oblio. Il suo risveglio è imminente.</p>\n<p>Instinto: Porre fine al mondo.</p>\n<ul>\n<li>Mettere in moto un disastro.</li>\n<li>Soffio elementale.</li>\n<li>Agire prevedendo tutto alla perfezione.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lunga\"},{\"value\":\"Possente\"},{\"value\":\"Devastante\"},{\"value\":\"Solitario\"},{\"value\":\"Enorme\"},{\"value\":\"Magico\"},{\"value\":\"Divino\"}]",
+			"tagsString": "Lunga, Possente, Devastante, Solitario, Enorme, Magico, Divino"
+		},
+		{
+			"id": "Deep Elf Assassin",
+			"name": "Elfo Oscuro, Assassino",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Non si trattò di una semplice guerra di religione o di contesa per il territorio. Nessun disaccordo tra le monarchie portò alla grande scissione degli elfi. Fu la tristezza. Fu il progressivo declino del mondo a causa delle razze inferiori. La gloriosa civiltà degli elfi andò in frantumi come il vetro. Alcuni, allora, straziati dalle lacrime, scelsero di allontanarsi dal mondo; voltando le spalle alla razza degli uomini e dei nani. Altri, invece, furono sopraffatti da qualcosa di nuovo. Un sentimento che nessun elfo aveva mai provato prima. Il rancore. L'odio riempì i cuori di questi elfi corrompendoli, portandoli a rivoltarsi contro i loro parenti più deboli. Alcuni rimangono, anche dopo il grande esodo nelle profondità. Alcuni si nascondono tra di noi con lame intrise del veleno dei ragni, per infliggere la più strana delle punizioni: la vendetta elfica.</p>\n<p>Instinto: Provare odio per le razze della superficie.</p>\n<ul>\n<li>Avvelenare.</li>\n<li>Evocare una magia antica.</li>\n<li>Chiamare i rinforzi.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Gruppo\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Media, Gruppo, Intelligente, Organizzato"
+		},
+		{
+			"id": "Deep Elf Swordmaster",
+			"name": "Elfo Oscuro, Maestro di Spade",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Gli elfi delle profondità hanno perso la dolcezza e la gentilezza dei loro luminosi parenti secoli fa, ma non la grazia. Si muovono con una rapidità e una bellezza che farebbero scendere una lacrima negli occhi di qualsiasi guerriero. Nell'oscurità, si sono esercitati. La crudeltà ha infuso loro grande abilità con la spada - una crudeltà che viene alla luce in ogni loro affondo. Lame spinate e fruste sostituiscono le scintillanti spade dei combattenti elfici in superficie. I maestri di spada dei clan degli elfi delle profondità non cercano solo di uccidere, ma di punire con ogni colpo delle loro lame. La malvagità e il dolore sono la loro moneta.</p>\n<p>Instinto: Punire i miscredenti.</p>\n<ul>\n<li>Infliggere dolore oltre ogni misura.</li>\n<li>Usare l'oscurità a proprio vantaggio.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Gruppo\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Media, Gruppo, Intelligente, Organizzato"
+		},
+		{
+			"id": "Deep Elf Priest",
+			"name": "Elfo Oscuro, Sacerdote",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Connessione divina"
+				}
+			},
+			"details": {
+				"biography": "<p>Gli spiriti degli alberi e la Dama della Luce sono molto, molto lontani da casa, negli abissi in cui abitano gli elfi delle profondità. Qui, negli abissi, vennero trovati nuovi dei. Dei che a lungo attesero il ritorno a casa dei propri figli. Divinità dei ragni, delle foreste fungine e delle cose che sussurrano nelle grotte proibite. Gli elfi delle profondità, col cuore colmo di odio ma in sintonia con il mondo che li circonda, ascoltarono i loro nuovi dei e trovarono in essi un nuovo potere. Odio chiama odio e nuove oscure alleanze furono strette. Anche tra questi ranghi spregevoli, la pietà trova un modo per esprimersi.</p>\n<p>Instinto: Infliggere la vendetta divina.</p>\n<ul>\n<li>Intrecciare incantesimi di odio e malvagità.</li>\n<li>Radunare gli elfi delle profondità.</li>\n<li>Trasmettere la conoscenza divina.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Solitario\"},{\"value\":\"Divino\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Media, Lunga, Solitario, Divino, Intelligente, Organizzato"
+		},
+		{
+			"id": "Chaos Spawn",
+			"name": "Progenie del Caos",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Forma del Caos"
+				}
+			},
+			"details": {
+				"biography": "<p>Scacciato dalla città, un cultista trova rifugio nei borghi e nei villaggi. Scoperto, fugge sulle colline e incide sulle pareti delle grotte la sua devozione. Scoperto di nuovo, viene inseguito con coltello e torcia nelle profondità, strisciando sempre più in basso finché, nei luoghi più profondi, perde la strada. Col tempo dimentica il suo nome, e poi il suo aspetto; fino a che i suoi amati Dei del Caos non lo benedicono con una nuova forma.</p>\n<p>Instinto: minare l'ordine costituito.</p>\n<ul>\n<li>Riscrivere la realtà.</li>\n<li>Liberare il Caos da dove è imprigionato.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Solitario\"},{\"value\":\"Amorfo\"}]",
+			"tagsString": "Media, Lunga, Solitario, Amorfo"
+		},
+		{
+			"id": "Chuul",
+			"name": "Chuul",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 3"
+				},
+				"specialQualities": {
+					"value": "Anfibio"
+				}
+			},
+			"details": {
+				"biography": "<p>Il vostro peggior incubo marino prende vita. Una specie feroce mezza uomo e mezza aragosta, maledetta di una intelligenza primordiale e benedetta da un paio di chele affilate come rasoi. Strane cose si nascondono nelle pozze puzzolenti delle caverne dimenticate e il chuul è una di queste. Se ne avvisti uno, la miglior speranza è avere con se una pesante mazza per spezzare il suo guscio... e magari un po' di burro all'aglio. Mmmm....</p>\n<p>Instinto: Chelare.</p>\n<ul>\n<li>Dividere qualcosa in due con le sue chele.</li>\n<li>Rifugiarsi nell'acqua.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Devastante\"},{\"value\":\"Gruppo\"},{\"value\":\"Grande\"},{\"value\":\"Cauto\"}]",
+			"tagsString": "Media, Lunga, Devastante, Gruppo, Grande, Cauto"
+		},
+		{
+			"id": "Magmin",
+			"name": "Magmin",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Sangue ardente"
+				}
+			},
+			"details": {
+				"biography": "<p>Di aspetto nanico e industriosi, in Dungeon World i Magmin sono quelli che abitano più in profondità di tutti. Puoi trovarli in città fatte di ottone e ossidiana nei pressi del nucleo fuso del pianeta, vivendo una vita dedicata all'artigianato, in particolare a quello del fuoco e agli oggetti magici ad esso collegati. Scontrosi e bizzarri, non si degnano spesso di parlare con i richiedenti che si presentano alle loro porte, anche con quelli che hanno trovato il modo di sopravvivere al calore infernale di quelle profondità. Hanno rispetto solo per gli oggetti finemente realizzati e imparare la forgia da un artigiano magmin significa apprendere segreti e tecniche sconosciuti a qualsiasi fabbro della superficie. Come per molte altre cose in questo mondo pericoloso, andare a fare visita a un insediamento magmin è un azzardo ricco rischi e ricompense.</p>\n<p>Instinto: Creare oggetti.</p>\n<ul>\n<li>Offrire uno scambio o un accordo.</li>\n<li>Colpire con il fuoco o la magia.</li>\n<li>Fornire l'oggetto giusto, ma ad un prezzo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Orda\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"},{\"value\":\"Accumulatore\"}]",
+			"tagsString": "Media, Lunga, Orda, Intelligente, Organizzato, Accumulatore"
+		},
+		{
+			"id": "Minotaur",
+			"name": "Minotauro",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Infallibile senso dell'orientamento"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Testa di uomo, corpo di toro. No, no, aspetta: credo di aver invertito. La testa è quella di un toro e il corpo è quello di un uomo. Giusto? Dovrebbe avere gli zoccoli... A volte? Ricordo che il vecchio Re aveva accennato qualcosa a riguardo di un labirinto... Accidenti! Sai che non riesco a pensare quando sono sotto pressione. *tump* 'Cos'è stato? Oh dei, credo che stia arrivando'.</p>\n</blockquote>\n<p>Instinto: imprigionare.</p>\n<ul>\n<li>Confonderli.</li>\n<li>Farli perdere.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"}]",
+			"tagsString": "Media, Lunga, Solitario, Grande"
+		},
+		{
+			"id": "Naga",
+			"name": "Naga",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Ambiziosi e territoriali sopra ogni altra cosa, i Naga si trovano molto raramente senza un culto ben formato e insidioso di seguaci. Lo si può vedere in molte città di montagna: un sigillo di serpente scarabocchiato sul muro di una taverna o una chiesa locale rasa al suolo. Persone che scompaiono nelle miniere. Uomini e donne che portano il marchio di un serpente. Al centro di tutto questo c'è un naga: un'antica razza orgogliosa ormai caduta nell'oscurità, con la testa di un uomo e il corpo di un serpente. Esistono diverse varianti di queste creature, a seconda della loro discendenza e del loro scopo originario, ma sono tutti maestri manipolatori e forze magiche con cui fare i conti.</p>\n<p>Instinto: Guidare.</p>\n<ul>\n<li>Mandare a morire un seguace.</li>\n<li>Usare magia antica.</li>\n<li>Offrire un accordo o una patto.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Solitario\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"},{\"value\":\"Accumulatore\"},{\"value\":\"Magico\"}]",
+			"tagsString": "Media, Lunga, Solitario, Intelligente, Organizzato, Accumulatore, Magico"
+		},
+		{
+			"id": "Salamander",
+			"name": "Salamandra",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Scavare cunicoli"
+				}
+			},
+			"details": {
+				"biography": "<blockquote>\n<p>Lo scavo ha portato alla luce quello che i rapporti definiscono un cancello di basalto. Pietra nera scolpita con rune fuse. Quando l'hanno scavata, i maghi l'hanno dichiarata inerte, ma ulteriori prove indicano che si trattava di un'affermazione errata. L'intera squadra è scomparsa. Quando arrivammo, il cancello brillava. La sua luce riempiva l'intera caverna. Dall'ingresso vedemmo che l'area si era riempita di queste creature simili a uomini dalla pelle rossa e arancione, alti come un orco ma con una coda di serpente al posto delle gambe. Erano anche vestiti, alcuni avevano un'armatura di vetro nero. Parlavano tra loro in una lingua che sembrava grasso in un incendio. Volevo andarmene, ma il sergente non mi ascoltò. Avete già letto di quello che è successo dopo, signore. So di essere l'unico ad essere tornato, ma quello che ho detto è vero. Il cancello è aperto, ora. Questo è solo l'inizio!</p>\n</blockquote>\n<p>Instinto: Consumare nelle fiamme.</p>\n<ul>\n<li>Evocare il fuoco elementale.</li>\n<li>Dissolvere gli inganni.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Vicino\"},{\"value\":\"Orda\"},{\"value\":\"Grande\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"},{\"value\":\"Planaree\"}]",
+			"tagsString": "Media, Lunga, Vicino, Orda, Grande, Intelligente, Organizzato, Planaree"
+		}
+	]
+}

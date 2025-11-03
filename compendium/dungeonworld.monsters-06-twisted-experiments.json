@@ -1,0 +1,266 @@
+{
+	"label": "Monstruos - 06 Esperimenti perversi",
+	"mapping": {
+		"attributes": "data.attributes",
+		"details": "data.details",
+		"tags": "data.tags",
+		"tagsString": "data.tagsString"
+	},
+	"entries": [
+		{
+			"id": "Ethereal Filcher",
+			"name": "Saccheggiatore Etereo",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Scavare cunicoli"
+				}
+			},
+			"details": {
+				"biography": "<p>Capita di smarrire gli oggetti: un calzino, un cucchiaio d'argento, le ossa della tua cara mamma. Incolpiamo quindi la cameriera oppure la sfortuna o semplicemente un momento di stupida distrazione, poi passiamo oltre. Non siamo mai riusciti a vedere la vera causa di questi problemi: quel ragno dalle mani umane e dagli occhi blu simili alle profondità del Piano Etereo da cui proviene. Non abbiamo mai notato l'argentea ragnatela di materia astrale costellata di oggetti rubati disposti in modo folle. Non lo abbiamo mai visto disporre la sua collezione di piccole dita di halfling tagliate durante il sonno. E per tanto siamo fortunati.</p>\n<p>Instinto: Rubare.</p>\n<ul>\n<li>Prendere qualcosa di importante per il suo covo planare.</li>\n<li>Ritirarsi nel piano Etereo.</li>\n<li>Usare un oggetto preso dalla sua tana.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Solitario\"},{\"value\":\"Sfuggente\"},{\"value\":\"Planare\"}]",
+			"tagsString": "Media, Lunga, Solitario, Sfuggente, Planare"
+		},
+		{
+			"id": "Derro",
+			"name": "Derro",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Telepatia"
+				}
+			},
+			"details": {
+				"biography": "<p>È comune pensare che tutte le creature maligne di questo mondo siano state create da maghi, stregoni e simili, o che le scuole e le torri di magia di <em>Dungeon World</em> siano il covo di diabolici esperimenti, ma vi sono anche nefandezze create nelle profondità della terra. Queste mostruosità sono i derro: abominazioni create da un antico nano alchimista il cui nome è stato dimenticato. Tuttavia i derro non dimenticano. Sono perversi e colmi d'odio e possono essere riconosciuti dai loro grossi crani contenenti abnormi cervelli. Non parlano ma comunicano unicamente attraverso il pensiero e tramano vendetta sui loro creatori nel silenzio dell'oscurità.</p>\n<p>Instinto: Rimpiazzare i nani.</p>\n<ul>\n<li>Invadere una mente con pensieri estranei.</li>\n<li>Controllare mentalmente una bestia.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Orda\"},{\"value\":\"Sfuggente\"},{\"value\":\"Intelligente\"},{\"value\":\"Organizzato\"}]",
+			"tagsString": "Media, Orda, Sfuggente, Intelligente, Organizzato"
+		},
+		{
+			"id": "Digester",
+			"name": "Assimilatore",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": "Secrezione acida"
+				}
+			},
+			"details": {
+				"biography": "<p>Siamo d'accordo, la sperimentazione magica è una scienza complessa. Per ogni magnifico pegaso c'è sempre qualche obbrobrio uscito male. Ma è comprensibile. Ad esempio pensavi che il goblin-elefante potesse essere una grande idea, così come il drago gelatinoso. Non ti giudichiamo. In ogni caso abbiamo qualcosa che può fare la caso tuo: l'Assimilatore. Il nome suona bene. Sì è vero, non ha un bell'aspetto e l'odore non è dei migliori, ma quest'affare può succhiare magia alla stessa velocità con cui Svenloff il Possente ingolla birra. La prossima volta che ti capiterà uno di questi sfortunati incidenti sguinzagliagli contro l'Assimilatore e risolverà tutti i tuoi problemi. Tienilo d'occhio però. Questo maledetto affare s'è mangiato la mia bacchetta magica giusto la settimana scorsa.</p>\n<p>Instinto: Digerire.</p>\n<ul>\n<li>Corrodere qualcosa.</li>\n<li>Succhiare nutrimento.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Media, Lunga, Solitario, Grande, Costrutto"
+		},
+		{
+			"id": "Ettin",
+			"name": "Ettin",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Due teste"
+				}
+			},
+			"details": {
+				"biography": "<p>Cosa potrebbe essere migliore di uno stupido gigante delle colline infuriato? Uno con due teste! Davvero un fantastica idea. Un lavoro eccellente.</p>\n<p>Instinto: Distruggere.</p>\n<ul>\n<li>Attaccare due nemici contemporaneamente.</li>\n<li>Difendere il suo creatore.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Media, Lunga, Possente, Solitario, Grande, Costrutto"
+		},
+		{
+			"id": "Flesh Golem",
+			"name": "Golem di Carne",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Corpo composto da parti di altri corpi."
+				}
+			},
+			"details": {
+				"biography": "<p>Pezzi e piccole parti rubati nella notte. Cimiteri furtivamente distrutti, e stanotte forse un braccio, una gamba, un'altra testa... (l'ultima si è distrutta troppo in fretta). Persino il più umile dei quasi-incantatori può costruirne uno con quello che riesce a trovare e con un po' di creatività. Non è prerogativa solo delle scuole di magia, no? Dimostriamolo.</p>\n<p>Instinto: Vivere.</p>\n<ul>\n<li>Eseguire gli ordini.</li>\n<li>Staccare una parte del corpo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Possente\"},{\"value\":\"Orda\"}]",
+			"tagsString": "Media, Possente, Orda"
+		},
+		{
+			"id": "Iron Golem",
+			"name": "Golem di Ferro",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Metallo"
+				}
+			},
+			"details": {
+				"biography": "<p>Il ferro è un elemento basilare dell'arte magica e lo sanno bene i costruttore di golem o i meccano-taumaturghi. Il termine ferro però non è del tutto corretto. Questi guardiani infatti possono essere costruiti con ogni tipo di metallo: acciaio, rame e in rari casi anche oro. A metà strada tra arte e scienza, la costruzione di un buon golem crea tanta ammirazione quanto le più grandi opere architettoniche. Instancabili guardiani e fedeli difensori, i golem di ferro vivono per servire ed eseguono gli ordini per tutta la loro vita. Ogni incantatore degno di questo nome è un grado di crearne uno, sempre che possa permettersi i materiali</p>\n<p>Instinto: Servire.</p>\n<ul>\n<li>Eseguire gli ordini implacabilmente.</li>\n<li>Utilizzare uno speciale strumento o adattamento, incorporato.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Possente\"},{\"value\":\"Gruppo\"},{\"value\":\"Grande\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Media, Lunga, Possente, Gruppo, Grande, Costrutto"
+		},
+		{
+			"id": "Girallon",
+			"name": "Girallon",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Molte braccia"
+				}
+			},
+			"details": {
+				"biography": "<p>I rullo dei tamburi della giungla richiama la creatura. Sulla pietra sacrificale è stato posto un pezzo di carne per attirare la grande scimmia. È il Girallon: nome proveniente dall'antica e dimenticata lingua dei re che allevarono la bestia. Alcuni dicono che sia più alto di un edificio, che sia coperto da una pelliccia avorio e che abbia zanne lunghe come scimitarre. Dicono che abbia quattro braccia o addirittura sei. Non è facile verificare queste dicerie. Ogni anno si ripete : alcuni esploratori visitano i villaggi della giungla alla ricerca della scimmia e ritornano, non più gli stessi, senza il trofeo. E intanto il suono dei tamburi continua.</p>\n<p>Instinto: Dominare.</p>\n<ul>\n<li>Rispondere al richiamo del sacrificio.</li>\n<li>Cacciare gli intrusi dalla giungla.</li>\n<li>Scagliare qualcuno.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lunga\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Enorme\"}]",
+			"tagsString": "Lunga, Possente, Solitario, Enorme"
+		},
+		{
+			"id": "Kraken",
+			"name": "Kraken",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Acquatico"
+				}
+			},
+			"details": {
+				"biography": "<p><blockquote>Un cefalo-che? No, amico. Non “un kraken” ma “Il kraken.” Non so che stupidaggini ti abbiano insegnato in quella scuola da cui provieni, ma qui sappiamo come venerare il Divoratore. Sì, è proprio così che lo chiamiamo qui, o più esattamente Il Divoratore degli Abissi. Comunque non è una divinità. E' una calamaro! Un potente calamaro dai tentacoli grossi come un barile e dagli occhi enormi come la luna piena. Ed è pure intelligente. Lui sa quando colpire: quando sarete troppo stanchi o ubriachi, oppure quando correrete fuori dall'acqua limpida, è lì che verrà a prendervi. No, non l'ho mai visto. Sono vivo, no?</blockquote></p>\n<p>Instinto: Dominare l'oceano.</p>\n<ul>\n<li>Trascinare una persona o un'imbarcazione verso una tomba d'acqua.</li>\n<li>Avvolgerli tra i suoi tentacoli.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lunga\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Enorme\"}]",
+			"tagsString": "Lunga, Possente, Solitario, Enorme"
+		},
+		{
+			"id": "Manticore",
+			"name": "Manticora",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 1"
+				},
+				"specialQualities": {
+					"value": "Ali"
+				}
+			},
+			"details": {
+				"biography": "<p>Se la chimera è il primo passo lungo un cammino oscuro, la manticora è la porta che non può più essere chiusa una volta aperta. Un leone, uno scorpione, le ali di un drago. Tutto difficile da ottenere ma non impossibile e sono solo animali comunque. L'ultimo componente, la ripugnante e sibilante faccia della bestia, è l'ingrediente che rende la manticora così malvagia. Non importa che sia giovane o vecchio, uomo o donna, basta che sia umano, vivo e che respiri, congiunto alla creatura con la magia perversa. Il ricordo di chi fossero è perduto e probabilmente è una benedizione per loro, ma la bestia è nata dalla sofferenza umana. Non c'è da stupirsi quindi che siano così desiderosi di uccidere.</p>\n<p>Instinto: Ucciderli.</p>\n<ul>\n<li>Avvelenarli.</li>\n<li>Fare qualcosa a brandelli.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Devastante\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Media, Lunga, Devastante, Solitario, Grande, Costrutto"
+		},
+		{
+			"id": "Rust Monster",
+			"name": "Rugginofago",
+			"attributes": {
+				"damage": {
+					"piercing": "ignora armatura"
+				},
+				"specialQualities": {
+					"value": "Tocco corrosivo (per i metalli)"
+				}
+			},
+			"details": {
+				"biography": "<p>Una creatura dall'aspetto davvero originale. Assomiglia un po' ad un grillo rossastro direi, con lunghe zampe da insetto. È cieco se ho capito bene. Sembra usino le loro antenne da falena per trovare la strada. E con esse si nutrono anche. Setacciando mucchi di metallo in cerca dei pezzi più prelibati. Questo è ciò che mangiano, non importa il tipo di metallo. Basta un solo loro tocco per trasformare tutto in fiocchi ruggine. Le cose magiche resistono più a lungo ma sotto la prova di un rugginofago la conclusione è scontata. Solo gli dei sanno da dove sono venuti, ma sono una maledizione se ci tieni ai tuoi effetti personali.</p>\n<p>Instinto: Ossidare.</p>\n<ul>\n<li>Trasformare il metallo in ruggine.</li>\n<li>Trarre forza dal consumo di metallo.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Gruppo\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Media, Gruppo, Costrutto"
+		},
+		{
+			"id": "Owlbear",
+			"name": "Orsogufo",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>Corpo di orso. Piume di gufo. Becco, artigli e un eccellente visione notturna. Come può non piacere?</p>\n<p>Instinto: Cacciare.</p>\n<ul>\n<li>Colpire dalle tenebre.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Solitario\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Media, Solitario, Costrutto"
+		},
+		{
+			"id": "Pegasus",
+			"name": "Pegaso",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Ali"
+				}
+			},
+			"details": {
+				"biography": "<p>Non pensare adesso che qualsiasi creatura nata in modo non naturale sia un orribile abominio. Non pensare che siano tutti tentacoli, grida e sangue o altro. Prendi ad esempio questa nobile creatura. Non è amabile? Un elegante cavallo bianco con ali da cigno. Non parrebbe possibile che possa volare, ma invece lo fa. Gli elfi possono creare dei veri miracoli, a modo loro. Essi possono riprodursi — questa è la purezza della magia elfica al lavoro. Nasce dalla schiusa di piccole uova di cristallo e si lega per la vita ai propri cavalieri. C'è ancora bellezza nel mondo, credici.</p>\n<p>Instinto: Portare in volo.</p>\n<ul>\n<li>Trasportare un cavaliere in volo.</li>\n<li>Aiutare il proprio cavaliere.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Gruppo\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Media, Gruppo, Costrutto"
+		},
+		{
+			"id": "Chimera",
+			"name": "Chimera",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": ""
+				}
+			},
+			"details": {
+				"biography": "<p>La celebre e annoverata chimera è una creatura modificata. Dai manoscritti della Gilda dei Maghi alle pagine del Compendio delle Creature di Cullaina, non vi è alcun dubbio su cosa sia una chimera. Due parti di leonessa, una di serpente, una testa di capra e tutta la magia nera che si può infondere. Il rituale di creazione può essere modificato, così come uno o due aspetti: ad esempio gli stregoni più creativi possono cambiare il soffio infuocato con uno acido. Poco importa che venga utilizzata come guardiano, come sicario oppure semplicemente come strumento di distruzione: la chimera è una delle abominazioni peggiori, un affronto alla vita stessa.</p>\n<p>Instinto: Eseguire gli ordini.</p>\n<ul>\n<li>Soffiare fuoco.</li>\n<li>Travolgere.</li>\n<li>Avvelenare.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Lunga\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Lunga, Solitario, Grande, Costrutto"
+		},
+		{
+			"id": "Bulette",
+			"name": "Bulette",
+			"attributes": {
+				"damage": {
+					"piercing": "perforante 3"
+				},
+				"specialQualities": {
+					"value": "Due teste"
+				}
+			},
+			"details": {
+				"biography": "<p>Un bravo guardiano di carovane sa comprendere tempestivamente i richiami degli esploratori e delle sentinelle e deve agire velocemente: pochi secondi possono fare la differenze tra la vita e la morte. Ogni segnale, infatti, implica una reazione appropriata: al grido “orchi!” estraete la spada e preparatevi ad un bagno di sangue. Se di tratta di “banditi!”, be', ve la potreste anche cavare contrattando. Ma se l'allarme è “SQUALI DI TERRA!”... fate velocemente i bagagli e galoppate verso le colline più vicine!</p>\n<p>Instinto: Divorare.</p>\n<ul>\n<li>Trascinare una preda dentro un cunicolo.</li>\n<li>Sbucare dal suolo.</li>\n<li>Inghiottire in un solo boccone.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Possente\"},{\"value\":\"Solitario\"},{\"value\":\"Enorme\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Media, Possente, Solitario, Enorme, Costrutto"
+		},
+		{
+			"id": "Xorn",
+			"name": "Xorn",
+			"attributes": {
+				"damage": {
+					"piercing": ""
+				},
+				"specialQualities": {
+					"value": "Scavare cunicoli"
+				}
+			},
+			"details": {
+				"biography": "<p>È un ruminatore elementale di spazzatura creato dai nani. Ha l'aspetto di un cestino dei rifiuti dotato di una raggiera di braccia che usa per nutrirsi di detriti che introduce nelle sue enormi fauci. Mangiano pietra ed espellono luce e calore. Perfetti da utilizzare in una miniera o per estrarre materiale da una cava. E che accade se ne smarrisce uno nella fogne di una città o era nelle fondamenta di un castello? Siete in guai seri. Essi mangeranno e mangeranno finché non rimarrà più nulla e la zona collasserà su se stessa e si sposteranno da un'altra parte. Chiedi a Burrin, figlio di Fjornnvald, esule del suo clan. Scommetto che potrebbe raccontarti una storia sugli xorn.</p>\n<p>Instinto: Mangiare.</p>\n<ul>\n<li>Consumare pietra.</li>\n<li>Emettere una esplosione di luce e calore.</li>\n</ul>"
+			},
+			"tags": "[{\"value\":\"Media\"},{\"value\":\"Lunga\"},{\"value\":\"Solitario\"},{\"value\":\"Grande\"},{\"value\":\"Costrutto\"}]",
+			"tagsString": "Media, Lunga, Solitario, Grande, Costrutto"
+		}
+	]
+}

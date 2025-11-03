@@ -1,0 +1,172 @@
+{
+    "label": "Incantesimi del Chierico",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": "Animate Dead",
+            "name": "Animare i Morti",
+            "description": "<p>Livello 3 <em>Continuato</em></p>\n<p>Invochi uno spirito affamato perché possegga un corpo morto di recente. Ciò crea uno zombie che segue i tuoi ordini al meglio delle sue limitate facoltà.</p>\n<p>Considera lo zombie come se fosse un personaggio, ma con accesso soltanto alle mosse basilari. Ha un modificatore di +1 a tutte le capacità e 1 PF. Lo zombie ottiene anche 1d4 caratteristiche a tua scelta tra:</p>\n<ul>\n<li>È abile: ha uno dei modificatori a +2 anziché +1.</li>\n<li>È resistente. Ha +2 PF per ogni tuo livello.</li>\n<li>Ha un cervello funzionante e può eseguire compiti complessi.</li>\n<li>Non ha l'aspetto di un cadavere, almeno per un paio di giorni.</li>\n</ul>\n<p>Lo zombie perdura finché non viene distrutto subendo danno superiore ai suoi PF o finché non dissolvi l'incantesimo. Mentre questo incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Bless",
+            "name": "Benedizione",
+            "description": "<p>Livello 1 <em>Continuato</em></p>\n<p>La tua divinità sorride a un bersaglio a tua scelta in combattimento. Prende +1 continuato fintanto che la battaglia perdura e questi continua a combattere. Mentre questo incantesimo è attivo prendi -1 a lanciare incantesimi.</p>"
+        },
+        {
+            "id": "Cause Fear",
+            "name": "Provocar miedo",
+            "description": "<p>Livello 1 <em>Continuato</em></p>\n<p>Scegli un bersaglio intelligente che puoi vedere e un oggetto nelle vicinanze. Il bersaglio è spaventato dall'oggetto fintanto che mantieni attivo l'incantesimo</p>\n<p>La sua reazione è a sua discrezione: fuga, panico, supplica, lotta. Mentre questo incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Consume Unlife",
+            "name": "Consumare non-morti",
+            "description": "<p>Livello 9</p>\n<p>Una creatura non morta e non senziente che tocchi è distrutta e assorbi l'energia della sua morte per guarire te stesso o il prossimo alleato che tocchi. La quantità di PF guariti è pari ai PF che la creatura aveva prima che la distruggessi.</p>"
+        },
+        {
+            "id": "Contagion",
+            "name": "Contagio",
+            "description": "<p>Livello 5 <em>Continuato</em></p>\n<p>Scegli una creatura che puoi vedere. Finché non dissolvi l'incantesimo, il bersaglio soffre di una malattia a tua scelta. Mentre questo incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Control Weather",
+            "name": "Controllare Tempo Atmosferico",
+            "description": "<p>Livello 7</p>\n<p>Prega per la pioggia — o per il sole, il vento o la neve. Entro un giorno circa, il tuo dio ti risponderà. Il tempo cambierà secondo la tua volontà e l'effetto durerà una manciata di giorni.</p>"
+        },
+        {
+            "id": "Cure Critical Wounds",
+            "name": "Cura Ferite Critiche",
+            "description": "<p>Livello 5</p>\n<p>Guarisci 3d8 danni a un alleato con il tocco delle tue mani.</p>"
+        },
+        {
+            "id": "Cure Light Wounds",
+            "name": "Cura Ferite Leggere",
+            "description": "<p>Livello 1</p>\n<p>Al tuo tocco le ferite si rimarginano e le ossa cessano di far male. Guarisci 1d8 danni a un alleato con il tocco delle tue mani.</p>"
+        },
+        {
+            "id": "Cure Moderate Wounds",
+            "name": "Cura Ferite Moderate",
+            "description": "<p>Livello 3</p>\n<p>Interrompi le emorragie e rinsaldi le ossa con la magia. Guarisci 2d8 danni a un alleato con il tocco delle tue mani.</p>"
+        },
+        {
+            "id": "Darkness",
+            "name": "Oscurità",
+            "description": "<p>Livello 3 <em>Continuato</em></p>\n<p>Scegli un'area che puoi vedere: si riempie di oscurità e ombre sovrannaturali. Mentre questo incantesimo è attivo prendi -1 a lanciare incantesimi.</p>"
+        },
+        {
+            "id": "Detect Alignment",
+            "name": "Individuare Allineamento ",
+            "description": "<p>Livello 1</p>\n<p>Quando lanci questo incantesimo scegli un allineamento: Buono, Malvagio, Legale o Caotico. Diventi capace di individuare quell'allineamento con uno dei tuoi sensi. Il GM ti dirà se c'è qualcosa che risponde a quell'allineamento nelle vicinanze.</p>"
+        },
+        {
+            "id": "Divination",
+            "name": "Divinazione",
+            "description": "<p>Livello 5</p>\n<p>Indica il nome di una persona, luogo o oggetto su cui vuoi saperne di più. La tua divinità ti concede una visione del bersaglio, chiara come se fossi lì presente.</p>"
+        },
+        {
+            "id": "Divine Presence",
+            "name": "Presenza Divina",
+            "description": "<p>Livello 9 <em>Continuato</em></p>\n<p>Ogni creatura deve chiederti il permesso per arrivare al tuo cospetto o andarsene, e devi dargli il permesso ad alta voce. Le creature senza il tuo permesso che si trovano al tuo cospetto subiscono +1d10 danni ogni volta che subiscono danni in tua presenza. Mentre questo incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Guidance",
+            "name": "Guida",
+            "description": "<p>Orazione</p>\n<p>Il simbolo della tua divinità appare innanzi a te e ti indica la direzione o il modo d'agire che la tua divinità vorrebbe che seguissi, e poi scompare. Questo messaggio avviene solo attraverso un gesto; la comunicazione attraverso questo incantesimo è decisamente limitata.</p>"
+        },
+        {
+            "id": "Harm",
+            "name": "Ferire",
+            "description": "<p>Livello 7</p>\n<p>Tocca un nemico e colpiscilo con l'ira della tua divinità: infliggi 2d8 danni a lui e 1d6 a te stesso. Questi danni ignorano l'armatura.</p>"
+        },
+        {
+            "id": "Heal",
+            "name": "Guarigione",
+            "description": "<p>Livello 7</p>\n<p>Tocca un alleato e puoi guarire un numero di danni fino al tuo valore massimo di PF.</p>"
+        },
+        {
+            "id": "Hold Person",
+            "name": "Blocca Persona",
+            "description": "<p>Livello 3</p>\n<p>Scegli una creatura che puoi vedere. Fino a quando non lanci un incantesimo o smetti di essere nei paraggi, non potrà agire se non parlando. Se il bersaglio subisce qualsiasi tipo di danno l'effetto termina.</p>"
+        },
+        {
+            "id": "Light",
+            "name": "Luz",
+            "description": "<p>Orazione</p>\n<p>Un oggetto che tocchi brilla di luce divina, intensa più o meno come una torcia. Non emette né calore né suono e non richiede combustibile, ma per il resto funziona come una normale torcia. Hai il totale controllo del colore della fiamma. L'incantesimo dura fintanto che la luce è in tua presenza.</p>"
+        },
+        {
+            "id": "Magic Weapon",
+            "name": "Arma Magica",
+            "description": "<p>Livello 1 <em>Continuato</em></p>\n<p>L'arma che tieni in mano mentre lanci l'incantesimo infligge +1d4 danni finché non dissolvi l'incantesimo. Mentre questo incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Mark of Death",
+            "name": "Sigillo della Morte",
+            "description": "<p>Livello 7</p>\n<p>Scegli una creatura di cui conosci il vero nome. Questo incantesimo crea delle rune permanenti su una superficie che uccideranno quella creatura, se dovesse leggerle.</p>"
+        },
+        {
+            "id": "Plague",
+            "name": "Pestilenza",
+            "description": "<p>Livello 9 <em>Continuato</em></p>\n<p>Indica il nome di una città, borgo, accampamento o altro luogo dove vivono delle persone. Fintanto che questo incantesimo è attivo quel luogo subisce una pestilenza appropriata al dominio della tua divinità (locuste, morte dei primogeniti, etc.). Mentre questo incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Repair",
+            "name": "Riparare",
+            "description": "<p>Livello 9</p>\n<p>Scegli un evento nel passato del bersaglio. Tutte le conseguenze di quell'evento, inclusi danno, avvelenamenti, malattie ed effetti magici, terminano e viene ad essi posto rimedio. PF e malattie sono curati, i veleni sono neutralizzati, gli effetti magici terminano.</p>"
+        },
+        {
+            "id": "Resurrection",
+            "name": "Resurrezione",
+            "description": "<p>Livello 3</p>\n<p>Di' al GM che vuoi resuscitare un corpo la cui anima non ha ancora lasciato questo mondo. La resurrezione è sempre possibile, ma il GM ti chiederà di soddisfare una o più (anche tutte) delle seguenti condizioni:</p>\n<ul>\n<li>Ci vorranno giorni/settimane/mesi.</li>\n<li>Dovrai ____.</li>\n<li>Dovrai chiedere aiuto a ____.</li>\n<li>Serviranno molti soldi.</li>\n<li>Dovrai sacrificare ____ per farlo.</li>\n</ul>\n<p>Il GM potrebbe, a seconda delle circostanze, permetterti di resuscitare il cadavere al momento, con l'intesa che le condizioni debbano essere soddisfatte prima che sia permanente, oppure chiederti di soddisfare le condizioni prima di resuscitare il corpo.</p>"
+        },
+        {
+            "id": "Revelation",
+            "name": "Rivelazione",
+            "description": "<p>Livello 5</p>\n<p>La tua divinità risponde alle tue preghiere con un momento di perfetta illuminazione. Il GM ti spiegherà la vera natura della tua situazione attuale. Quando agisci basandoti sulle informaizoni, prendi +1 al prossimo tiro.</p>"
+        },
+        {
+            "id": "Sanctify",
+            "name": "Purificare",
+            "description": "<p>Orazione</p>\n<p>Il cibo o l'acqua che tieni in mano mentre lanci quest'orazione viene consacrato dalla tua divinità. In aggiunta ad essere ora sacro o empio, la sostanza interessata è purificata da qualunque deterioramento ordinario.</p>"
+        },
+        {
+            "id": "Sanctuary",
+            "name": "Santuario",
+            "description": "<p>Livello 1</p>\n<p>Percorrendo il perimetro di un'area, lo rendi consacrato alla tua divinità. Fintanto che resti all'interno dell'area vieni avvertito quando qualcuno agisce con intento maligno all'interno del santuario (comprende entrare nel santuario con l'intenzione di fare del male). Chiunque venga guarito all'interno del santuario guarisce +1d4 PF.</p>"
+        },
+        {
+            "id": "Sever",
+            "name": "Separare",
+            "description": "<p>Livello 7 <em>Continuato</em></p>\n<p>Scegli un'appendice del bersaglio, come un braccio, un tentacolo o un'ala. L'appendice viene separata magicamente dal corpo, senza causare danno ma provocando un forte dolore. Un'appendice mancante potrebbe impedire, ad esempio, a una creatura con le ali di volare o a un toro di impalarti con le sue corna. Mentre questo incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Speak With Dead",
+            "name": "Parlare con i Morti",
+            "description": "<p>Livello 1</p>\n<p>Hai una breve conversazione con un cadavere, che risponderà alle prime tre domande che gli poni al meglio della conoscenza che aveva in vita e della conoscenza che ha ottenuto con la morte.</p>"
+        },
+        {
+            "id": "Storm Of Vengeance",
+            "name": "Tempesta della Vendetta",
+            "description": "<p>Livello 9</p>\n<p>La tua divinità fa avvenire un fenomeno atmosferico innaturale a tua scelta. Piogge di sangue o di acido, venti che sradicano gli edifici, o qualunque altro effetto tu possa immaginare: chiedi e ti sarà dato.</p>"
+        },
+        {
+            "id": "Trap Soul",
+            "name": "Trappola delle Anime",
+            "description": "<p>Livello 5</p>\n<p>Intrappoli l'anima di una creatura morente in una gemma. La creatura intrappolata è consapevole della sua prigionia ma può essere manipolata con incantesimi, parlamentando, o con altri effetti. Tutte le mosse effettuate contro la creatura intrappolata prendono +1. Puoi liberare l'anima quando vuoi ma non potrai mai ricatturla una volta liberata.</p>"
+        },
+        {
+            "id": "True Seeing",
+            "name": "Visione del Vero",
+            "description": "<p>Livello 5 <em>Continuato</em></p>\n<p>Ti è rivelata attraverso la vista la vera natura di tutto ciò su cui posi lo sguardo. Penetri le illusioni e vedi ciò che è nascosto. Il GM descriverà l'area davanti a te ignorando illusioni e falsità, che siano magiche o meno. Mentre questo incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Word of Recall",
+            "name": "Paroal del Ritorno",
+            "description": "<p>Livello 7</p>\n<p>Scegli una parola. La prima volta che dopo aver lanciato questo incantesimo pronunci la parola scelta, tu e i tuoi alleati venite riportati immediatamente all'esatta posizione in cui hai lanciato l'incantesimo. Puoi mantenere attiva solo una posizione alla volta; lanciare Parola del Ritorno ancora prima di pronunciare la parola d'attivazione sostituisce il primo incantesimo con quello nuovo.</p>"
+        },
+        {
+            "id": "Words of the Unspeaking",
+            "name": "Voce dei Taciturno",
+            "description": "<p>Livello 5</p>\n<p>Con un tocco parli agli spiriti che risiedono nelle cose. L'oggetto non vivente che tocchi risponde a tre domande per te, al meglio delle sue facoltà.</p>"
+        }
+    ]
+}

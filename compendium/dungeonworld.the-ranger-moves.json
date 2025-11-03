@@ -1,0 +1,127 @@
+{
+    "label": "Mosse del Ramingo",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": "A Safe Place",
+            "name": "Un Posto Sicuro",
+            "description": "<p>Quando prepari i turni di guardia per la notte, tutti prendono +1 a <em>fare la guardia</em>.</p>"
+        },
+        {
+            "id": "A Safer Place",
+            "name": "Un Posto Ancora Più Sicuro",
+            "description": "<p><em>Sostituisce: Un Posto Sicuro</em></p>\n<p>Quando prepari i turni di guardia per la notte, tutti prendono +1 a fare la guardia. Dopo una notte d'accampamento in cui prepari i turni di guardia tutti prendono +1 al prossimo tiro.</p>"
+        },
+        {
+            "id": "Animal Companion",
+            "name": "Compagno Animale",
+            "description": "<p>Hai un legame sovrannaturale con un animale a te fedele. Non puoi parlargli, ma agisce sempre nel modo che desideri.</p><h3> Dai un nome al tuo compagno animale e scegli una specie:</h3>\n<p><em>Lupo, puma, orso, aquila, cane, falco, gatto, gufo, piccione, ratto, mulo.</em></p>\n<h3>Scegli una base:</h3>\n<ul>\n<li>• Ferocia +2, Astuzia +1, Armatura 1, Istinto +1 </li>\n<li>• Ferocia +2, Astuzia +2, Armatura 0, Istinto +1</li>\n<li>• Ferocia +1, Astuzia +2, Armatura 1, Istinto +1</li>\n<li>• Ferocia +3, Astuzia +1, Armatura 1, Istinto +2</li>\n</ul>\n<h3>Scegli tanti vantaggi quanta è la sua Ferocia:</h3>\n<p><em>Veloce, robusto, enorme, calmo, adattabile, riflessi pronti, instancabile, mimetismo, feroce, minaccioso, sensi acuti, furtivo.</em></p>\n<h3>Il tuo compagno animale è addestrato per combattere gli umanoidi. Scegli tante abilità aggiuntive quanta è la sua Astuzia:</h3>\n<p><em>Cacciare, cercare, esplorare, fare la guardia, combattere mostri, spettacolo, lavori pesanti, viaggiare.</em></p>\n<h3>Scegli tanti svantaggi quanto è il suo Istinto:</h3>\n<p><em>Codardo, selvaggio, lento, deperito, spaventoso, smemorato, ostinato, zoppo.</em></p>"
+        },
+        {
+            "id": "Blot Out The Sun",
+            "name": "Oscurare il Sole",
+            "description": "<p>Quando fai una <em>raffica</em> puoi spendere munizoni in più prima di tirare. Per ogni punto di munizioni speso puoi scegliere un bersaglio aggiuntivo. Tira una volta e applica i danni a tutti i bersagli.</p>"
+        },
+        {
+            "id": "Called Shot",
+            "name": "Colpo Mirato (DES)",
+            "description": "<p>Quando <strong>attacchi un nemico sorpreso o indifeso a distanza</strong>, puoi scegliere di infliggere i tuoi danni o nominare una parte specifica del suo corpo e tirare+DES.</p>\n<p><strong>Testa:</strong><ul><li>✴ 10+: Come 7–9, e infliggi i tuoi danni.</li><li>✴ 7-9: Per qualche momento il bersaglio è stordito.</li></ul></p><p><strong>Braccia:</strong><ul><li>✴ 10+: Come 7–9, e infliggi i tuoi danni.</li><li>✴ 7-9: Il bersaglio fa cadere qualunque cosa abbia in mano.</li></ul></p><p><strong>Gambe:</strong><ul><li>✴ 10+: Come 7–9, e infliggi i tuoi danni.</li><li>✴ 7-9: Il bersaglio zoppica e si muove lentamente.</li></ul></p>"
+        },
+        {
+            "id": "Camouflage",
+            "name": "Mimetizzarsi",
+            "description": "<p>Quando resti immobile in un ambiente naturale, i nemici non possono scorgerti finché non ti muovi.</p>"
+        },
+        {
+            "id": "Command",
+            "name": "Comando",
+            "description": "<p>Quando il tuo compagno animale ti aiuta a fare qualcosa in cui è addestrato...</p><ul><li>...e attaccate lo stesso bersaglio, aggiungi la sua <strong>Ferocia</strong> al danno.</li><li>...e segui delle tracce, aggiungi la sua <strong>Astuzia</strong> al tuo tiro.</li><li>...e subisci danno, aggiungi la sua armatura alla tua.</li><li>...e <em>discerni realtà</em>, aggiungi la sua <strong>Astuzia</strong> al tuo tiro.</li><li>...e <em>parlamenti</em> con qualcuno, aggiungi la sua <strong>Astuzia</strong> al tuo tiro.</li><li>...e qualcuno <em>ti ostacola</em>, aggiungi il suo <strong>Istinto</strong> al tuo tiro.</ul>"
+        },
+        {
+            "id": "Familiar Prey",
+            "name": "Preda Familiare",
+            "description": "<p>Quando <em>declami conoscenze</em> su un mostro usi SAG invece di INT.</p>"
+        },
+        {
+            "id": "Follow Me",
+            "name": "Seguimi",
+            "description": "<p>Quando intraprendi un viaggio pericoloso puoi ricoprire due compiti. Fai un tiro separato per ciascun compito.</p>"
+        },
+        {
+            "id": "God Amidst The Wastes",
+            "name": "Dio delle Terre Selvagge",
+            "description": "<p>Scegli una divinità (inventane una nuova o scegline una già stabilita al tavolo) a cui dedicarti. Ottieni le mosse da Chierico <em>comunione</em> e <em>lanciare incantesimi</em>. Quando scegli questa mossa, considerati un Chierico di livello 1 ai fini degli incantesimi. Ogni volta che sali di livello, aumenta il tuo livello efficace da Chierico di 1.</p>"
+        },
+        {
+            "id": "Half-elven",
+            "name": "Mezzelfo",
+            "description": "<p>Da qualche parte nel tuo sangue si nascondono discendenze miste e la cosa sta cominciando a mostrarsi. Ottieni la mossa iniziale dell'Elfo se hai scelto quella dell'Umano o viceversa.</p>"
+        },
+        {
+            "id": "Hunt & Track",
+            "name": "Cacciare e Seguire Tracce (SAG)",
+            "description": "<p>Quando <strong>segui una traccia lasciata da qualche creatura</strong>, tira+SAG.</p>\n<p>✴ Con un 7+, riesci a seguire le tracce della creatura fino al prossimo significativo cambio di direzione o di mezzo di spostamento.</p>\n<p>✴ Con un 10+, puoi scegliere un'opzione:</p>\n<ul>\n<li>Ottieni un'informazione utile sulla tua preda, il GM ti dirà che cosa.</li>\n<li>Determini cosa ha causato l'interrompersi della traccia.</li>\n</ul>"
+        },
+        {
+            "id": "Hunter’s Prey",
+            "name": "Preda del Cacciatore",
+            "description": "<p><em>Sostituisce: Preda Familiare</em></p>\n<p>Quando <em>declami conoscenze</em> su un mostro usi Sag invece di Int. Con un 12+ puoi fare al GM una domanda qualsiasi sulla creatura.</p>"
+        },
+        {
+            "id": "Man’s Best Friend",
+            "name": "Il Miglior Amico dell'Uomo",
+            "description": "<p>Quando permetti al tuo compagno animale di subire un colpo destinato a te, il danno è annullato e la sua Ferocia scende a 0. Se la sua Ferocia è già 0 non puoi usare questa capacità. Quando riesci a riposarti per qualche ora con il tuo compagno animale la sua Ferocia torna normale.</p>"
+        },
+        {
+            "id": "Observant",
+            "name": "Perspicace",
+            "description": "<p>Quando <em>cacci e segui tracce</em>, con un successo puoi anche fare una domanda sulla creatura che stai inseguendo dalla lista di <em>discernere realtà</em>.</p>"
+        },
+        {
+            "id": "Smaug’s Belly",
+            "name": "Il Ventre di Smaug",
+            "description": "<p>Quando conosci il punto debole del tuo nemico le tue frecce sono perforanti 2.</p>"
+        },
+        {
+            "id": "Special Trick",
+            "name": "Abilità Speciale",
+            "description": "<p>Scegli una mossa di un'altra classe. Fintanto che il tuo compagno animale ti aiuta, hai accesso a quella mossa.</p>"
+        },
+        {
+            "id": "Strider",
+            "name": "Grampasso",
+            "description": "<p><em>Sostituisce: Seguimi.</em></p>\n<p>Quando <em>intraprendi un viaggio pericoloso</em> puoi ricoprire due compiti. Fai due tiri e usa il migliore per entrambi i compiti.</p>"
+        },
+        {
+            "id": "Unnatural Ally",
+            "name": "Alleato Innaturale",
+            "description": "<p>Il tuo compagno animale è un mostro, non un animale. Descrivilo. Ottiene +1 Ferocia e +1 Istinto, più una nuova abilità.</p>"
+        },
+        {
+            "id": "Viper’s Fangs",
+            "name": "Zanne della Vipera",
+            "description": "<p><em>Sostituisce: Colpo della Vipera</em></p>\n<p>Quando colpisci un nemico con due armi contemporaneamente, aggiungi 1d8 danni per il tuo secondo attacco.</p>"
+        },
+        {
+            "id": "Viper’s Strike",
+            "name": "Colpo della Vipera",
+            "description": "<p>Quando colpisci un nemico con due armi contemporaneamente, aggiungi 1d4 danni per il tuo secondo attacco.</p>"
+        },
+        {
+            "id": "Well-trained",
+            "name": "Ben Addestrato",
+            "description": "<p>Scegli un'altra abilità per il tuo compagno animale.</p>"
+        },
+        {
+            "id": "Wild Empathy",
+            "name": "Empatia Animale",
+            "description": "<p>Puoi comprendere e parlare con gli animali.</p>"
+        },
+        {
+            "id": "Wild Speech",
+            "name": "Lingua Selvatica",
+            "description": "<p><em>Sostituisce: Empatia Animale</em></p>\n<p>Puoi comprendere e parlare con qualsiasi creatura non magica e non planare.</p>"
+        }
+    ]
+}

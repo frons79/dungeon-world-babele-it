@@ -1,0 +1,157 @@
+{
+    "label": "Incantesimi del Mago",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": " Unseen Servant",
+            "name": "Servitore Inosservato",
+            "description": "<p>Trucchetto <em>Continuato</em></p>\n<p>Evochi un semplice costrutto invisibile che può solo trasportare oggetti. Ha Carico 2 e trasporta tutto ciò che gli affidi personalmente. Non può raccogliere oggetti da solo e può solo portare quelli che gli dài tu. Gli oggetti trasportati da un servitore inosservato sembrano fluttuare nell'aria pochi passi dietro di te. Un servitore invisibile che prende danno o si allontana da te si dissolve immediatamente, lasciando cadere gli oggetti che trasporta. </p>"
+        },
+        {
+            "id": "Alarm",
+            "name": "Allarme",
+            "description": "<p>Livello 1</p>\n<p>Cammina descrivendo un ampio cerchio mentre lanci questo incantesimo. Finché non <em>prepari incantesimi</em> di nuovo, la tua magia ti avvertirà se una creatura oltrepassa quel cerchio. Anche se stai dormendo, l'incantesimo ti sveglierà dal tuo torpore.</p>"
+        },
+        {
+            "id": "Alert",
+            "name": "Presagio",
+            "description": "<p>Livello 9 <em>Divinazione</em></p>\n<p>Descrivi un evento. Il GM ti dirà quando accadrà, non importa dove ti trovi o quanto l'evento sia lontano nel tempo o nello spazio. Se vuoi, puoi vedere il luogo dell'evento come se fossi lì di persona. Puoi avere un solo presagio attivo alla volta.</p>"
+        },
+        {
+            "id": "Antipathy",
+            "name": "Antipatia",
+            "description": "<p>Livello 9 <em>Incantamento, Continuato</em></p>\n<p>Scegli un bersaglio e descrivi un tipo di creatura o un allineamento. Le creature del tipo o dell'allineamento specificato non possono rimanere in vista del bersaglio. Se una creatura del tipo specificato si trova in vista del bersaglio, fugge immediatamente. Questo effetto continua finché non ti allontani dal bersaglio o dissolvi l'incantesimo. Mentre l'incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Cage",
+            "name": "Gabbia",
+            "description": "<p>Livello 5 <em>Evocazione, Continuato</em></p>\n<p>Il bersaglio viene racchiuso in una gabbia di forza magica. Niente può entrare o uscire dalla gabbia. La gabbia rimane finché lanci un altro incantesimo o la dissolvi. Mentre l'incantesimo è attivo, la creatura intrappolata può sentire i tuoi pensieri e non puoi perdere di vista la gabbia.</p>"
+        },
+        {
+            "id": "Charm Person",
+            "name": "Encantar persona",
+            "description": "<p>Livello 1 <em>Incantamento, Continuato</em></p>\n<p>La persona (no animal ni monstruo) a la que toques mientras lanzas el conjuro te creerá un amigo hasta que le hagas daño o se demuestre lo contrario.</p>"
+        },
+        {
+            "id": "Cloudkill",
+            "name": "Nube Mortale",
+            "description": "<p>Livello 7 <em>Convocazione, Continuato</em></p>\n<p>Una nuvola di fumo proveniente dai Neri Cancelli della Morte si sparge in questo mondo, riempiendo l'area a te circostante. Quando una creatura nell'area subisce danni, subisce 1d6 danni aggiuntivi che ignorano l'armatura. L'incantesimo persiste fintanto che puoi vedere l'area interessata o lo dissolvi.</p>"
+        },
+        {
+            "id": "Contact Other Plane",
+            "name": "Contattare Altri Piani",
+            "description": "<p>Livello 5 <em>Divinazione</em></p>\n<p>Invii una richiesta d'udienza verso un altro piano. Specifica chi o che cosa vorresti contattare indicando il luogo, il tipo di creatura, il nome o il titolo. Apri una comunciazione bidirezionale con quella creatura. La comunicazione può essere interrotta in ogni momento da te o dalla creatura contattata.</p>"
+        },
+        {
+            "id": "Contact Spirits",
+            "name": "Contactar con espíritus",
+            "description": "<p>Livello 1 <em>Convocazione</em></p>\n<p>Nombra al espíritu con el que quieres contactar (o déjaselo al DJ). Atraerás a esa criatura de entre los planos, lo bastante como para hablar con ella. Está obligada a responder lo mejor que pueda a una pregunta que le hagas.</p>"
+        },
+        {
+            "id": "Contingency",
+            "name": "Innesco",
+            "description": "<p>Livello 7 <em>Evocazione</em></p>\n<p>Scegli un incantesimo di quinto livello o inferiore. Descrivi una condizione d'innesco usando un numero di parole eguale o inferiore al tuo livello. L'incantesimo scelto viene trattenuto fin quando non decidi di lanciarlo o si verifica la condizione d'innesco, qualunque delle due succeda per prima. Non devi tirare per lanciare l'incantesimo, ha semplicemente effetto. Puoi avere un solo incantesimo innescato alla volta; se lanci Innesco mentre hai già un'incantesimo trattenuto, il nuovo incantesimo sostituisce quello vecchio.</p>"
+        },
+        {
+            "id": "Detect Magic",
+            "name": "Detectar magia",
+            "description": "<p>Livello 1 <em>Divinazione</em></p>\n<p>Uno de tus sentidos se sintoniza brevemente con la magia. El DJ te dirá qué es mágico en las inmediaciones.</p>"
+        },
+        {
+            "id": "Dispel Magic",
+            "name": "Disipar magia",
+            "description": "<p>Livello 3</p>\n<p>Elige un conjuro o efecto mágico en tu presencia y la magia que lo alimenta se dispersará. Los conjuros menores son cancelados y la magia poderosa se queda reducida o disminuida mientras estés cerca.</p>"
+        },
+        {
+            "id": "Dominate",
+            "name": "Dominare",
+            "description": "<p>Livello 7 <em>Incantamento, Continuato</em></p>\n<p>Il tuo tocco spinge la tua mente dentro a quella di qualcun altro. Ottieni 1d4 presa. Spendi 1 presa per far fare al bersaglio una di queste azioni:</p>\n<ul>\n<li>Dire un paio di parole a tua scelta.</li>\n<li>Darti qualcosa che tiene in mano.</li>\n<li>Fare un attacco coordinato contro un nemico a tua scelta.</li>\n<li>Rispondere sinceramente a una domanda.</li>\n</ul>\n<p>Se finisci la presa l'incantesimo finisce. Se il bersaglio subisce danni perdi 1 presa. Mentre l'incantesimo è attivo non puoi <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Fireball",
+            "name": "Palla di Fuoco",
+            "description": "<p>Livello 3 <em>Evocazione</em></p>\n<p>Evochi una potente sfera di fiamme che avvolge il tuo bersaglio e tutti coloro che gli sono vicini, infliggendo 2d6 danni che ignorano l'armatura.</p>"
+        },
+        {
+            "id": "Invisibility",
+            "name": "Invisibilità",
+            "description": "<p>Livello 1 <em>Illusione, Continuato</em></p>\n<p>Tocca un alleato: nessuno può vederlo. È diventato invisibile! L'incantesimo persiste finché il bersaglio attacca o dissolvi l'incantesimo. Mentre l'incantesimo è attivo non puoi lanciarne un altro.</p>"
+        },
+        {
+            "id": "Light",
+            "name": "Luce",
+            "description": "<p>Trucchetto</p>\n<p>Un oggetto che tocchi brilla di luce arcana, intensa più o meno come una torcia. Non emette né calore né suono e non richiede combustibile, ma per il resto funziona come una normale torcia. Hai il totale controllo del colore della fiamma. L'incantesimo dura fintanto che la luce è in tua presenza.</p>"
+        },
+        {
+            "id": "Magic Missile",
+            "name": "Dardo Incantato",
+            "description": "<p>Livello 1 <em>Evocazione</em></p>\n<p>Scagli un proiettile di pura magia dalle tue dita. Infliggi 2d4 danni al bersaglio.</p>"
+        },
+        {
+            "id": "Mimic",
+            "name": "Mimesi",
+            "description": "<p>Livello 3 <em>Continuato</em></p>\n<p>Prendi la forma di qualcuno che stai toccando mentre lanci l'incantesimo. Il tuo aspetto fisico corrisponde esattamente al suo, ma il tuo comportamento potrebbe non esserlo. Questo cambiamento persiste finché prendi danno o scegli di tornare alla tua forma normale. Mentre questo incantesimo è attivo non puoi più usare le tue mosse da mago.</p>"
+        },
+        {
+            "id": "Mirror Image",
+            "name": "Immagine Speculare",
+            "description": "<p>Livello 3 <em>Illusione</em></p>\n<p>Crei un'immagine illusoria di te stesso. Quando vieni attaccato, tira un d6. Con un 4, 5 o 6 l'illusione viene colpita al tuo posto e si dissolve, e l'incantesimo termina.</p>"
+        },
+        {
+            "id": "Perfect Summons",
+            "name": "Evocazione Infallibile",
+            "description": "<p>Livello 9 <em>Convocazione</em></p>\n<p>Una creatura viene teletrasportata al tuo cospetto. Nomina una creatura o fornisci una breve descrizione di un tipo di creatura. Se hai nominato una creatura, essa appare innanzi a te. Se hai descritto un tipo di creatura, una creatura di quel tipo appare innanzi a te.</p>"
+        },
+        {
+            "id": "Polymorph",
+            "name": "Metamorfosi",
+            "description": "<p>Livello 5 <em>Incantamento</em></p>\n<p>Il tuo tocco cambia completamente la forma di una creatura, che resta nella forma in cui l'hai plasmata finché non lanci un altro incantesimo. Descrivi la nuova forma che hai creato, compresi eventuali cambiamenti alle capacità o agli attributi, caratteristiche utili o particolari debolezze. Il GM sceglierà quindi una o più delle seguenti opzioni:</p>\n<ul>\n<li>La forma sarà instabile o temporanea.</li>\n<li>Anche la mente del bersaglio sarà alterata.</li>\n<li>La forma ha una debolezza o un beneficio non previsto.</li>\n</ul>"
+        },
+        {
+            "id": "Prestidigitation",
+            "name": "Prestidigitazione",
+            "description": "<p>Trucchetto</p>\n<p>Puoi fare dei piccoli trucchi di autentica magia. Se tocchi un oggetto come parte del lancio puoi effettuare delle modifiche cosmetiche: pulirlo, sporcarlo, raffreddarlo, riscaldarlo, dargli un sapore, cambiargli colore. Se lanci l'incantesimo senza toccare un oggetto puoi invece creare semplici illusioni non più grandi di te stesso. Le illusioni causate dalla prestidigitazione sono rozze e chiaramente riconoscibili: non inganneranno nessuno, ma potrebbero divertire.</p>"
+        },
+        {
+            "id": "Shadow Walk",
+            "name": "Camminare nelle Ombre",
+            "description": "<p>Livello 7 <em>Illusione</em></p>\n<p>Le ombre su cui lanci questo incantesimo diventano un portale per te e i tuoi alleati. Nomina un luogo, descrivendolo con un numero di parole eguale o inferiore al tuo livello. Attraversare il portale trasporta te e gli alleati che ti seguono al luogo da te descritto. Il portale può essere usato una sola volta per ciascun alleato.</p>"
+        },
+        {
+            "id": "Shelter",
+            "name": "Rifugio",
+            "description": "<p>Livello 9 <em>Evocazione, Continuato</em></p>\n<p>Crei una struttura fatta di pura energia magica. Può essere grande come un castello o piccola come una capanna, ma è immune a tutti i danni non magici. La struttura perdura fin quando non ti allontani o non interrompi l'incantesimo.</p>"
+        },
+        {
+            "id": "Sleep",
+            "name": "Sonno",
+            "description": "<p>Livello 3 <em>Incantamento</em></p>\n<p>1d4 nemici che puoi vedere a scelta del GM si addormentano. Solo le creature in grado di dormire subiscono l'effetto. Si svegliano come di norma: con rumori forti, scosse o dolore.</p>"
+        },
+        {
+            "id": "Soul Gem",
+            "name": "Gemma dell'Anima",
+            "description": "<p>Livello 9</p>\n<p>Intrappoli l'anima di una creatura morente in una gemma. La creatura intrappolata è consapevole della sua prigionia ma può essere manipolata con incantesimi, parlamentando, o con altri effetti. Tutte le mosse effettuate contro la creatura intrappolata prendono +1. Puoi liberare l'anima quando vuoi ma non potrai mai ricatturla una volta liberata.</p>"
+        },
+        {
+            "id": "Summon Monster",
+            "name": "Evocare Mostri",
+            "description": "<p>Livello 5 <em>Convocazione, Continuato</em></p>\n<p>Un mostro appare e ti aiuta al meglio delle sue facoltà. Considera come se fosse il tuo personaggio, ma con accesso solo alle mosse basilari. Ha un modificatore di +1 a tutte le capacità, 1 PF e usa il tuo dado di danno. Il mostro ottiene anche 1d6 tratti a tua scelta tra i seguenti:</p>\n<ul>\n<li>Ha un +2 invece che un +1 a una capacità (puoi scegliere quest'opzione fino a due volte).</li>\n<li>Non è spericolato.</li>\n<li>Infligge 1d8 danni.</li>\n<li>Il suo legame a questo piano è forte, +2 PF per ciascun tuo livello.</li>\n<li>Ha una qualche caratteristica utile (puoi scegliere quest'opzione quante volte vuoi).</li>\n</ul>\n<p>Il GM ti dirà che mostro appare basandosi sui tratti che hai scelto. La creatura resta su questo piano fino a quando non muore o non la bandisci. Mentre l'incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Telepathy",
+            "name": "Telepatia",
+            "description": "<p>Livello 1 <em>Divinazione, Continuato</em></p>\n<p>Formi un legame telepatico con una singola persona toccata, che ti permette di comunicare con quella persona con la sola forza del pensiero. Puoi avere un solo legame telepatico alla volta.</p>"
+        },
+        {
+            "id": "True Seeing",
+            "name": "Visione del Vero",
+            "description": "<p>Livello 7 <em>Divinazione, Continuato</em></p>\n<p>Vedi tutte le cose secondo la loro vera natura. Questo effetto persiste fin quando non dici una menzogna o dissolvi l'incantesimo. Mentre l'incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
+        },
+        {
+            "id": "Visions Through Time",
+            "name": "Vsioni attraverso il Tempo",
+            "description": "<p>Livello 3 <em>Divinazione</em></p>\n<p>Lancia questo incantesimo e osserva una superficie riflettente per avere visioni dalle profondità del tempo. Il GM ti rivelerà i dettagli di un Oscuro Presagio: un evento nefasto che accadrà sicuramente se non intervieni. Ti dirà qualcosa di utile per interferire con l'avverarsi dell'Oscuro Presagio. È raro il presagio che annuncia «Vivrete per sempre felici e contenti». Mi spiace.</p>"
+        }
+    ]
+}

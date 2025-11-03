@@ -1,0 +1,37 @@
+{
+    "label": "Equipaggiamento (Veleni)",
+    "mapping": {
+        "description": "system.description",
+        "tags": "system.tags",
+        "tagsString": "system.tagsString"
+    },
+    "entries": [{
+            "id": "Bloodweed",
+            "name": "Ambrosia Rossa",
+            "description": "<p>Finché non viene curato, quando l’avvelenato tira i danni, tira un d4 aggiuntivo e sottrae il risultato dai suoi danni normali.</p>\n<p>Malus al Danno: [[/roll 1d4]]</p>",
+            "tags": "[{\"value\":\"Pericoloso\"},{\"value\":\"Tocco\"}]",
+            "tagsString": "Pericoloso, Tocco"
+        },
+        {
+            "id": "Goldenroot",
+            "name": "Radiola Dorata",
+            "description": "<p>Il bersaglio tratta la prossima creatura che vede come un alleato fidato, finché non ha prova del contrario.</p>",
+            "tags": "[{\"value\":\"Pericoloso\"},{\"value\":\"Applicato\"}]",
+            "tagsString": "Pericoloso, Applicato"
+        },
+        {
+            "id": "Oil of Tagit",
+            "name": "Olio di Tagete",
+            "description": "<p>Il bersaglio cade in un sonno leggero.</p>",
+            "tags": "[{\"value\":\"Pericoloso\"},{\"value\":\"Applicato\"}]",
+            "tagsString": "Pericoloso, Applicato"
+        },
+        {
+            "id": "Serpent's Tears",
+            "name": "Lacrime di Serpente",
+            "description": "<p>Chiunque infligga danno al bersaglio tira due volte e sceglie il miglior risultato.</p>",
+            "tags": "[{\"value\":\"Pericoloso\"},{\"value\":\"Tocco\"}]",
+            "tagsString": "Pericoloso, Tocco"
+        }
+    ]
+}

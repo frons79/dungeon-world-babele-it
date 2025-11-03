@@ -1,0 +1,201 @@
+{
+    "label": "Mosse base",
+    "mapping": {
+        "description": "system.description",
+        "failure": "system.moveResults.failure.value",
+        "partial": "system.moveResults.partial.value",
+        "success": "system.moveResults.success.value",
+        "choices": "system.choices"
+    },
+
+    "entries": [{
+            "id": "Aid or Interfere",
+            "name": "Aiutare o Ostacolare",
+            "description": "<p><strong>Quando aiuti o ostacoli qualcuno</strong>, tira+legame con quella persona.",
+            "failure": "",
+            "partial": "Con un 7–9, subirà comunque il modificatore, ma ti esponi al pericolo, a una punizione o a un prezzo da pagare.",
+            "success": "Con un 10+, prende +1 o -2 al tiro, a tua scelta.",
+            "choices": ""
+        },
+        {
+            "id": "Bolster",
+            "name": "Prepararsi",
+            "description": "<p>Quando <strong>passi il tuo tempo libero a studiare, meditare o allenarti duramente</strong>, ottieni addestramento. </p>\n<p>Se ti prepari per una settimana o più, ottieni addestramento 1. </p>\n<p>Se ti prepari per un mese o più, ottieni invece addestramento 3. </p>\n<p>Quando la preparazione ti torna utile, spendi 1 addestramento per avere +1 a qualsiasi tiro. Puoi spendere 1 addestramento al massimo per tiro.</p>",
+            "failure": "",
+            "partial": "",
+            "success": "",
+            "choices": ""
+        },
+        {
+            "id": "Carouse",
+            "name": "Fare baldoria",
+            "description": "<p>Quando <strong>torni trionfante e dai una grande festa</strong>, spendi 100 monete e tira +1 per ogni altre 100 monete aggiuntive spese.",
+            "failure": "Con un fallimento, scegli comunque una, ma le cose ti sfuggono decisamente di mano (il GM ti dirà come).",
+            "partial": "Con un 7–9, scegli un'opzione dalla lista seguente.",
+            "success": "Con un 10+, scegli tre opzioni dalla lista seguente.",
+            "choices": "<ul>\n<li>Ti fai amico un PNG utile. </li>\n<li>Senti voce di un'opportunità. </li>\n<li>Ottieni delle informazioni utili. </li>\n<li>Non finisci imbrogliato, invischiato in affari loschi o ammaliato da una stregoneria.</li>\n</ul>"
+        },
+        {
+            "id": "Defend",
+            "name": "Difendere",
+            "description": "<p>Quando <strong>difendi dal pericolo una persona, un oggetto o un luogo</strong>, tira+COS.",
+            "failure": "",
+            "partial": "Con un 7–9, prendi 1 punto.",
+            "success": "Con un 10+, prendi 3 punti.",
+            "choices": "Fintanto che rimani a difendere, quando tu o ciò che difendi subisce un attacco puoi spendere la presa, un punto alla volta, per scegliere un'opzione:</p>\n<ul>\n<li>Dirotta verso te stesso un attacco diretto alla cosa che difendi.</li>\n<li>Dimezza i danni o l'effetto dell'attacco.</li>\n<li>Esponi l'attaccante a un alleato, dando all'alleato +1 al prossimo tiro contro il nemico.</li>\n<li>Infliggi danno pari al tuo livello all'attaccante.</li>\n</ul>"
+        },
+        {
+            "id": "Defy Danger",
+            "name": "Sfidare il Pericolo",
+            "description": "<p>Quando <strong>agisci nonostante una minaccia incombente o ti esponi al pericolo</strong>, spiega come affronti la situazione e tira. Se lo fai...</p>\n<ul>\n<li>... grazie alla forza bruta, +FOR.</li>\n<li>... levandoti di mezzo o agendo rapidamente, +DES.</li>\n<li>... resistendo al pericolo, +COS.</li>\n<li>... con acume e furbizia, +INT.</li>\n<li>... con la forza di volontà, +SAG.</li>\n<li>... con il fascino e l'eleganza sociale, +CAR.</li>\n</ul>",
+            "failure": "",
+            "partial": "Con un 7–9 inciampi, esiti o indietreggi: il GM ti proporrà un esito inferiore, un prezzo da pagare, o una scelta difficile.",
+            "success": "Con un 10+, riesci a fare ciò che hai descritto ed eviti la minaccia.",
+            "choices": ""
+        },
+        {
+            "id": "Discern Realities",
+            "name": "Discernere Realtà",
+            "description": "<p>Quando <strong>udi attentamente una situazione o una persona</strong>, tira+SAG.",
+            "failure": "",
+            "partial": "Con un 7–9, fai al GM una domanda dalla lista sotto.",
+            "success": "Con un 10+, fai al GM tre domande dalla lista sotto.",
+            "choices": "<ul>\n<li>Che cos'è accaduto qui di recente?</li>\n<li>Cosa sta per accadere?</li>\n<li>Da chi o cosa dovrei stare all’erta?</li>\n<li>Cosa qua è utile o di valore per me?</li>\n<li>Chi ha davvero il controllo della situazione?</li>\n<li>Che cosa qui non è ciò che sembra?</li>\n</ul>"
+        },
+        {
+            "id": "Encumbrance",
+            "name": "Ingombro",
+            "description": "<p>Quando <strong>fai una mossa mentre trasporti peso</strong>, potresti essere sovraccarico. Se il peso che trasporti è </p>\n<ul>\n<li>... Uguale o minore al tuo carico, non soffri penalità. </li>\n<li>... Minore o uguale del tuo carico+2, prendi -1 continuato finché non alleggerisci il tuo fardello. </li>\n<li>... Maggiore del tuo carico+2, hai una scelta: lascia giù un peso di almeno 1 e tira con -1, o fallisci automaticamente.</li>\n</ul>",
+            "failure": "",
+            "partial": "",
+            "success": "",
+            "choices": ""
+        },
+        {
+            "id": "End of Session",
+            "name": "Fine sessione",
+            "description": "<p>Quando <strong>arrivi alla fine di una sessione</strong>, scegli uno dei tuoi legami che credi sia risolto (completamente esplorato, non più rilevante o altro). Chiedi al giocatore del personaggio con cui hai il legame se è d'accordo. Se lo è, guadagna un PE e scrivi un nuovo legame con un personaggio qualsiasi. </p>\n<p>Una volta che i legami sono stati aggiornati, controlla il tuo allineamento. Se hai perseguito il tuo allineamento almeno una volta in questa sessione, guadagna un PE.</p>\n<p>Poi rispondete a queste domande come gruppo: </p>\n<ul>\n<li>Abbiamo imparato qualcosa di importante e nuovo a proposito del mondo? </li>\n<li>Abbiamo sconfitto un nemico o un mostro degno di nota? </li>\n<li>Abbiamo saccheggiato un tesoro memorabile? </li>\n</ul><p>Per ogni domanda a cui rispondete affermativamente, ciascuno guadagna un PE.</p>",
+            "failure": "",
+            "partial": "",
+            "success": "",
+            "choices": ""
+        },
+        {
+            "id": "Hack & Slash",
+            "name": "Taglia e Spacca",
+            "description": "<p>Quando <strong>attacchi un nemico in mischia</strong>, tira+FOR.",
+            "failure": "",
+            "partial": "Con un 7–9, infliggi i tuoi danni al nemico, ma il nemico effettua un attacco contro di te.",
+            "success": "Con un 10+, infliggi i tuoi danni al nemico ed eviti il suo attacco. A tua scelta, puoi decidere di infliggere +1d6 danni ed esporti all'attacco del nemico.",
+            "choices": ""
+        },
+        {
+            "id": "Last Breath",
+            "name": "Ultimo Respiro",
+            "description": "<p>Quando <strong>stai per morire</strong>, vedi uno scorcio di ciò che giace oltre i Neri Cancelli del Regno della Morte (il GM lo descriverà). Poi tira (solo un tiro, +niente — già, alla Morte non importa quanto sei tosto o affascinante).",
+            "failure": "Con un 6-, il tuo destino è segnato. Sei marchiato come proprietà della Morte e presto passerai la soglia. Il GM ti dirà quando.",
+            "partial": "Con un 7–9, la Morte stessa ti offrirà un patto. Accettalo e riprendi conoscenza o rifiutalo e attraversa i Neri Cancelli per andare incontro a qualunque destino ti attenda.",
+            "success": "Con un 10+, l'hai fatta franca alla Morte: sei in una brutta situazione ma sei ancora vivo.",
+            "choices": ""
+        },
+        {
+            "id": "Level Up",
+            "name": "Salire di livello",
+            "description": "<p>Quando <strong>hai tempo libero (ore o giorni) e PE pari o superiori al tuo livello+7</strong>, puoi riflettere sulle tue esperienze e affinare le tue abilità: </p>\n<ul>\n<li>Sottrai il tuo livello attuale+7 dai tuoi PE. </li>\n<li>Aumenta il tuo livello di 1.</li>\n<li>Scegli una nuova mossa avanzata della tua classe.</li>\n<li>Se sei il mago, aggiungi un incantesimo al tuo libro degli incantesimi.</li>\n<li>Scegli una capacità e aumentala di 1 (questo potrebbe cambiare il rispettivo modificatore). Cambiare la Costituzione aumenta anche i tuoi PF massimi e attuali. Una capacità non può mai essere superiore a 18.</li>\n</ul>",
+            "failure": "",
+            "partial": "",
+            "success": "",
+            "choices": ""
+        },
+        {
+            "id": "Make Camp",
+            "name": "Accamparsi",
+            "description": "<p>Quando <strong>ti prepari al riposo</strong>, consuma una razione. </p>\n<p>Se sei in un luogo pericoloso decidi i turni di guardia.</p>\n<p>Se hai abbastanza PE puoi salire di livello.</p>\n<p>Quando ti risvegli da almeno qualche ora di sonno ininterrotto guarisci danno pari alla metà dei tuoi PF massimi.</p>",
+            "failure": "",
+            "partial": "",
+            "success": "",
+            "choices": ""
+        },
+        {
+            "id": "Outstanding Warrants",
+            "name": "Offene Rechnungen",
+            "description": "<p><strong>Wenn du an einen zivilisierten Ort zurückkehrst</strong>, an dem du schon mal Ärger gemacht hast, würfle+CH.",
+            "failure": "",
+            "partial": "Bei 7–9 ebenso, aber der SL wählt zusätzlich eine der folgenden Komplikationen: </p>\n<ul>\n<li>Die örtliche Wache hat einen Haftbefehl gegen dich. </li>\n<li>Jemand hat ein Kopfgeld auf dich ausgesetzt. </li>\n<li>Jemand, der dir wichtig ist, sitzt aufgrund deiner Taten in der Klemme.</li>\n</ul>",
+            "success": "Bei einer 10+ haben sich deine Taten herumgesprochen und jeder erkennt dich.",
+            "choices": ""
+        },
+        {
+            "id": "Parley",
+            "name": "Parlamentare",
+            "description": "<p>Quando <strong>hai qualche modo per far leva su un personaggio del GM e lo manipoli</strong>, tira+CAR. Devi far leva con qualcosa che vuole o di cui ha bisogno.",
+            "failure": "",
+            "partial": "Con un 7–9, farà ciò che dici, ma dovrai dargli una garanzia concreta della tua promessa, subito.",
+            "success": "Con un 10+, farà quello che dici se prometti di dargli ciò che chiede.",
+            "choices": ""
+        },
+        {
+            "id": "Recover",
+            "name": "Recuperare le Forze",
+            "description": "<p>Quando <strong>non fai altro che riposare in sicurezza e tranquillità</strong>, dopo un giorno di riposo recuperi tutti i tuoi PF.</p>\n<p>Dopo tre giorni di riposo rimuovi una debilitazione a tua scelta. Se sei sotto la cura di un guaritore (magico o meno) guarisci invece una debilitazione ogni due giorni di riposo.</p>",
+            "failure": "",
+            "partial": "",
+            "success": "",
+            "choices": ""
+        },
+        {
+            "id": "Recruit",
+            "name": "Reclutare",
+            "description": "<p>Quando <strong>diffondi la voce che sei in cerca di qualcuno da assumere</strong>, tira: </p>\n<ul>\n<li>+1 se fai sapere che la paga è abbondante.</li>\n<li>+1 se fai sapere che cosa ti stai preparando a fare.</li>\n<li>+1 se fai sapere che chi accetta avrà una parte del bottino.</li>\n<li>+1 se hai una reputazione utile da queste parti.</li>\n</ul>",
+            "failure": "Con un fallimento qualcuno di influente e inadatto dichiara di volersi unire a te (un giovane spericolato, una testa calda o un nemico sotto mentite spoglie), portalo con te e accetta le conseguenze o respingilo. Se respingi dei candidati prendi -1 al prossimo tiro di <em>reclutare</i>.",
+            "partial": "Con un 7–9, dovrai accontentarti di qualcuno che non è proprio quello che cercavi o respingerlo.",
+            "success": "Con un 10+, hai da scegliere tra un buon numero di candidati abili, scegli tu chi assumere e non c'è penalità se non porti con te qualcuno.",
+            "choices": ""
+        },
+        {
+            "id": "Spout Lore",
+            "name": "Declamare Conoscenze",
+            "description": "<p>Quando <strong>consulti la tua conoscenza accumulata a proposito di qualcosa</strong>, tira+INT.",
+            "failure": "",
+            "partial": "Con un 7–9 il GM ti dirà qualcosa di interessante — sta a te renderlo utile. Il GM potrebbe chiederti come fai a saperlo. Raccontagli la verità, adesso.",
+            "success": "Con un 10+, il GM ti dirà qualcosa di interessante e utile di un argomento relativo alla tua situazione.",
+            "choices": ""
+        },
+        {
+            "id": "Supply",
+            "name": "Fare rifornimento",
+            "description": "<p>Quando <strong>vai a comprare qualcosa con l'oro in mano</strong>, se è prontamente reperibile nell'insediamento in cui ti trovi, puoi comprarla al prezzo di mercato.</p>\n<p>Se è qualcosa di speciale, al di là di quanto normalmente disponibile in questo luogo, o straordinario, tira+CAR.",
+            "failure": "",
+            "partial": "Con 7–9 dovrai pagare di più o accontentarti di qualcosa che non è esattamente ciò che vuoi, ma si avvicina. Il GM ti dirà quali sono le tue opzioni.",
+            "success": "Con 10+, trovi ciò che stai cercando a un prezzo onesto.",
+            "choices": ""
+        },
+        {
+            "id": "Take Watch",
+            "name": "Fare la guardia",
+            "description": "<p>Quando <strong>sei di guardia e qualcosa si avvicina al campo</strong>, tira+SAG.",
+            "failure": "Con un fallimento, siete alla mercé di qualunque cosa si aggiri lontano dalla luce del fuoco.",
+            "partial": "Con un 7–9, te ne accorgi un momento troppo tardi; i tuoi compagni sono svegli ma non hanno avuto il tempo di prepararsi. Hanno le armi e l'armatura ma poco altro.",
+            "success": "Con un 10+, riesci a svegliare il campo e a preparare una risposta adeguata, tutti prendono +1 al prossimo tiro.",
+            "choices": ""
+        },
+        {
+            "id": "Undertake A Perilous Journey",
+            "name": "Intraprendere un viaggio pericoloso",
+            "description": "<p>Quando <strong>viaggi per un territorio ostile</strong>, scegli un membro del gruppo per fare da <em>apripista</em>, uno che vada davanti in <em>esplorazione</em>, e uno che sia il <em>quartiermastro</em>. Ogni personaggio che ha un compito tira+SAG.",
+            "failure": "",
+            "partial": "Con un 7–9, ciascuno esegue il proprio compito come previsto: il normale numero di razioni viene consumato, il viaggio richiede il tempo previsto, e nessuno vi prende di sorpresa, ma neanche voi sorprendete nessuno.",
+            "success": "Con un 10+: </p>\n<ul>\n<li>l'apripista riduce la quantità di tempo che serve a raggiungere la destinazione (il GM dirà quanto tempo, e dunque quante razioni).</li>\n<li>il quartiermastro riduce di uno le razioni consumate da ciascun personaggio.</li>\n<li>l'esploratore si accorgerà di eventuali pericoli abbastanza rapidamente da permettervi di prenderli di sprovvista.</li>\n</ul>",
+            "choices": ""
+        },
+        {
+            "id": "Volley",
+            "name": "Raffica",
+            "description": "<p>Quando <strong>prendi la mira per colpire un nemico a distanza</strong>, tira+DES.",
+            "failure": "",
+            "partial": "Con un 7–9, scegli un'opzione (infliggi comunque i danni qualunque opzione tu scelga):</p>\n<ul>\n<li>Devi spostarti per trovare la giusta linea di tiro. Ti esponi a un pericolo descritto dal GM.</li>\n<li>Devi accontentarti: -1d6 danni.</li>\n<li>Devi tirare più volte per colpire, spendendo un punto di munizioni.</li>\n</ul>",
+            "success": "Con un 10+, è un colpo sicuro—infliggi i tuoi danni.",
+            "choices": ""
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "label": "Equipaggiamento (Armi)",
+    "mapping": {
+        "description": "system.description",
+        "tags": "system.tags",
+        "tagsString": "system.tagsString"
+    },
+    "entries": [{
+            "id": "Axe",
+            "name": "Ascia",
+            "description": "<p>Sia uno strumento che un'arma, adatta per spaccare.</p>",
+            "tags": "[{\"value\":\"media\"}]",
+            "tagsString": "media"
+        },
+        {
+            "id": "Battle Axe",
+            "name": "Ascia da Battaglia",
+            "description": "<p>Un'ascia a due lame, progettata per il combattimento..</p>",
+            "tags": "[{\"value\":\"media\"},{\"value\":\"+1 danni\"}]",
+            "tagsString": "media, +1 danni"
+        },
+        {
+            "id": "Bundle of Arrows",
+            "name": "Fascio di Frecce",
+            "description": "<p>Un fascio di frecce.</p>",
+            "tags": "[{\"value\":\"munizioni 3\"}]",
+            "tagsString": "munizioni 3"
+        },
+        {
+            "id": "Club",
+            "name": "Randello",
+            "description": "<p>Un'arma da combattimento in legno.</p>",
+            "tags": "[{\"value\":\"media\"}]",
+            "tagsString": "media"
+        },
+        {
+            "id": "Crossbow",
+            "name": "Balestra",
+            "description": "<p>La balestra è fondamentalmente un arco montato orizzontalmente su una colonna centrale, che consente al tiratore di tenere armata l'arma senza sforzo tramite un dispositivo di ritegno della corda e quindi di mirare lontano e con precisione.</p>",
+            "tags": "[{\"value\":\"vicino\"},{\"value\":\"+1 danni\"},{\"value\":\"ricarica\"}]",
+            "tagsString": "vicino, +1 danni, ricarica"
+        },
+        {
+            "id": "Dagger",
+            "name": "Pugnale",
+            "description": "<p>Una lama media fatta di ferro.</p>",
+            "tags": "[{\"value\":\"corta\"}]",
+            "tagsString": "corta"
+        },
+        {
+            "id": "Dueling Rapier",
+            "name": "Stocco",
+            "description": "<p>Una lama dritta a doppio taglio con una punta molto appuntita, un'arma precisa e ben bilanciata per colpire di taglio e di punta.</p>",
+            "tags": "[{\"value\":\"media\"},{\"value\":\"perforante 1\"},{\"value\":\"precisa\"}]",
+            "tagsString": "media, perforante 1, precisa"
+        },
+        {
+            "id": "Elven Arrows",
+            "name": "Frecce elfiche",
+            "description": "<p>Frecce elfiche finemente lavorate.</p>",
+            "tags": "[{\"value\":\"munizioni 4\"}]",
+            "tagsString": "munizioni 4"
+        },
+        {
+            "id": "Fine Bow",
+            "name": "Arco pregiato",
+            "description": "<p>Un arco di alta qualità.</p>",
+            "tags": "[{\"value\":\"vicino\"},{\"value\":\"lontano\"}]",
+            "tagsString": "vicino, lontano"
+        },
+        {
+            "id": "Flail",
+            "name": "Mazzafrusto",
+            "description": "<p>Arma da impatto con una testa da impatto fissata all'asta tramite una catena..</p>",
+            "tags": "[{\"value\":\"media\"},{\"value\":\"+1 danni\"}]",
+            "tagsString": "media, +1 danni"
+        },
+        {
+            "id": "Halberd",
+            "name": "Alabarda",
+            "description": "<p>Un'arma molto lunga e tagliente con potere d'arresto.</p>",
+            "tags": "[{\"value\":\"lunga\"},{\"value\":\"+1 danni\"},{\"value\":\"a due mani\"}]",
+            "tagsString": "lunga, +1 danni, a due mani"
+        },
+        {
+            "id": "Hunter's Bow",
+            "name": "Arco da Cacciatore",
+            "description": "<p>Un arco ottimizzato per velocità e precisione..</p>",
+            "tags": "[{\"value\":\"vicino\"},{\"value\":\"lontano\"}]",
+            "tagsString": "vicino, lontano"
+        },
+        {
+            "id": "Knife",
+            "name": "Coltello",
+            "description": "<p>Coltello, utensile e piccola arma, tutto in uno..</p>",
+            "tags": "[{\"value\":\"corta\"}]",
+            "tagsString": "corta"
+        },
+        {
+            "id": "Long Sword",
+            "name": "Spada lunga",
+            "description": "<p>Una spada con una lama lunga..</p>",
+            "tags": "[{\"value\":\"media\"},{\"value\":\"+1 danni\"}]",
+            "tagsString": "media, +1 danni"
+        },
+        {
+            "id": "Mace",
+            "name": "Mazza",
+            "description": "<p>Un'arma con una testa pesante su un calcio solido, adatta a sferrare colpi decisi..</p>",
+            "tags": "[{\"value\":\"media\"}]",
+            "tagsString": "media"
+        },
+        {
+            "id": "Ragged Bow",
+            "name": "Arco logoro",
+            "description": "<p>Un arco molto usurato.</p>",
+            "tags": "[{\"value\":\"vicino\"}]",
+            "tagsString": "vicino"
+        },
+        {
+            "id": "Rapier",
+            "name": "Fioretto",
+            "description": "<p>Una lama dritta a doppio taglio con una punta molto appuntita, un'arma precisa per tagliare e affondare.</p>",
+            "tags": "[{\"value\":\"media\"},{\"value\":\"precisa\"}]",
+            "tagsString": "media, precisa"
+        },
+        {
+            "id": "Shillelagh",
+            "name": "Knüppel",
+            "description": "<p>Un grosso bastone di legno di quercia.</p>",
+            "tags": "[{\"value\":\"media\"}]",
+            "tagsString": "media"
+        },
+        {
+            "id": "Shiv",
+            "name": "Daga",
+            "description": "<p>Eine hausgemachte messerähnliche Waffe.</p>",
+            "tags": "[{\"value\":\"corta\"}]",
+            "tagsString": "corta"
+        },
+        {
+            "id": "Short Sword",
+            "name": "Spada corta",
+            "description": "<p>Una spada media per l'uso con una sola mano.</p>",
+            "tags": "[{\"value\":\"media\"}]",
+            "tagsString": "media"
+        },
+        {
+            "id": "Spear",
+            "name": "Lancia",
+            "description": "<p>Un'arma con un lungo manico e una punta di metallo.</p>",
+            "tags": "[{\"value\":\"lunga\"},{\"value\":\"da lancio\"},{\"value\":\"vicino\"}]",
+            "tagsString": "lunga, da lancio, vicino"
+        },
+        {
+            "id": "Staff",
+            "name": "Bastone",
+            "description": "<p>Un bastone di legno, intagliato per escursioni e per colpire.</p>",
+            "tags": "[{\"value\":\"media\"},{\"value\":\"a due mani\"}]",
+            "tagsString": "media, a due mani"
+        },
+        {
+            "id": "Throwing Dagger",
+            "name": "Coltello da lancio",
+            "description": "<p>Un pugnale leggero, perfettamente bilanciato per essere lanciato.</p>",
+            "tags": "[{\"value\":\"da lancio\"},{\"value\":\"vicino\"}]",
+            "tagsString": "da lancio, vicino"
+        },
+        {
+            "id": "Two-cortaed sword",
+            "name": "Spadone",
+            "description": "Una spada a doppia corta con lama lunga.",
+            "tags": "[{\"value\":\"media\"},{\"value\":\"+1 danni\"},{\"value\":\"a due mani\"}]",
+            "tagsString": "media, +1 danni, a due mani"
+        },
+        {
+            "id": "War hammer",
+            "name": "Martello da guerra",
+            "description": "<p>Un martello con una grande testa metallica, ottimo per fracassare crani.</p>",
+            "tags": "[{\"value\":\"media\"}]",
+            "tagsString": "media"
+        }
+    ]
+}

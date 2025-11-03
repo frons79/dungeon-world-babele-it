@@ -1,0 +1,137 @@
+{
+    "label": "Mosse del Chierico",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": [{
+            "id": "Anointed",
+            "name": "Benedetto",
+            "description": "<p><em>Richiede: Prescelto</em></p>\n<p>Scegli un incantesimo in aggiunta a quello che hai scelto per <em>prescelto</em>. Prepari sempre l'incantesimo scelto come fosse di un livello più basso.</p>"
+        },
+        {
+            "id": "Apotheosis",
+            "name": "Apoteosi",
+            "description": "<p>Una sola volta, dopo aver preso questa mossa, se trascorri del tempo in preghiera in modo appropriato per la tua divinità, scegli una caratteristica associata alla tua divinità (artigli dilanianti, ali piumate di zaffiro, un terzo occhio che vede tutto, etc.). Al termine della preghiera, acquisisci permanentemente questa caratteristica fisica.</p>"
+        },
+        {
+            "id": "Cast A Spell",
+            "name": "Lanciare Incantesimi (SAG)",
+            "description": "<p>Quando <strong>lanci un incantesimo concessoti dalla tua divinità</strong>, tira+SAG.</p>\n<p>✴ Con un 10+, l'incantesimo viene lanciato con successo e la tua divinità non lo revoca: puoi lanciarlo nuovamente in futuro.</p>\n<p>✴ Con un 7–9, l'incantesimo viene lanciato, ma scegli un'opzione:</p>\n<ul>\n<li>Attiri attenzioni indesiderate o metti te stesso in difficoltà. Il GM ti dirà come.</li>\n<li>Il lancio ti allontana dalla tua divinità: prendi -1 continuato a lanciare incantesimi fino alla tua prossima <em>comunione</em>.</li>\n<li>Dopo che l'hai lanciato, la tua divinità revoca l'incantesimo. Non puoi più lanciarlo fino alla tua prossima comunione.</li>\n</ul><p>Nota che mantenere attivo un incantesimo con effetti continuati potrebbe causare una penalità al tuo tiro di <em>lanciare incantesimi</em></p>"
+        },
+        {
+            "id": "Chosen One",
+            "name": "Prescelto",
+            "description": "<p>Scegli un incantesimo. Ti viene sempre concesso come fosse di un livello più basso.</p>"
+        },
+        {
+            "id": "Commune",
+            "name": "Comunione",
+            "description": "<p>Quando <strong>trascorri del tempo non interrotto (un'ora o più) in quieta comunione con la tua divinità</strong>:</p>\n<ul>\n<li>Perdi tutti gli incantesimi che ti erano stati concessi.</li>\n<li>La tua divinità ti concede dei nuovi incantesimi a tua scelta il cui livello totale non superi il tuo livello+1.</li>\n<li>Prepara tutte le orazioni, che non contano mai ai fini del limite.</li>\n</ul>."
+        },
+        {
+            "id": "Deity",
+            "name": "Divinità",
+            "description": "<p>Servi e veneri una divinità o una potenza che ti concede incantesimi. Dai un nome alla tua divinità (ad esempio Helferth, Sucellus, or Zorica) e scegli il suo dominio:</p>\n<ul>\n<li>Guarigione e Ricostruzione.</li>\n<li>Conquista Sanguinaria.</li>\n<li>Civiltà.</li>\n<li>Conoscenza e Cose Nascoste.</li>\n<li>I Reietti e i Dimenticati.</li>\n<li>Ciò che Giace Sotto.</li>\n</ul>\n<p>Scegli un precetto per la tua religione:</p>\n<ul>\n<li>La tua religione predica la santità della sofferenza, aggiungi <strong>Supplica: Sofferenza</strong>.</li>\n<li>La tua religione è settaria e isolata, aggiungi <strong> Supplica: Ottenere Segreti</strong>.</li>\n<li>La tua religione ha importanti riti sacrificali, aggiungi <strong>Supplica: Offerta</strong>.</li>\n<li>La tua religione crede nel processo per singolar tenzone, aggiungi <strong>Supplica: Vittoria Personale</strong>.</li>\n</ul>"
+        },
+        {
+            "id": "Devoted Healer",
+            "name": "Guaritore Devoto",
+            "description": "<p>Quando guarisci qualcuno, aggiungi il tuo livello alla quantità di danni guariti.</p>"
+        },
+        {
+            "id": "Divine Armor",
+            "name": "Armatura Divina",
+            "description": "<p><em>Sostituisce: Protezione Divina</em></p>\n<p>Quando non indossi armatura né scudo hai armatura 3.</p>"
+        },
+        {
+            "id": "Divine Guidance",
+            "name": "Orientación divina",
+            "description": "<p>Cuando haces una petición a tu deidad acorde con el precepto de tu religión, se te proporciona un conocimiento útil o un beneficio relacionado con el dominio de tu deidad. El DJ te dirá de qué se trata.</p>"
+        },
+        {
+            "id": "Divine Intervention",
+            "name": "Intervento Divino",
+            "description": "<p>Quando entri in comunione prendi 1 e perdi tutta la presa che avevi in precedenza. Quando tu o un alleato subite danni, spendi 1 presa per annullare il danno invocando la tua divinità, che interviene con una manifestazione appropriata (un soffio improvviso di vento, uno scivolone fortuito, un lampo di luce).</p>"
+        },
+        {
+            "id": "Divine Invincibility",
+            "name": "Invincibilità Divina",
+            "description": "<p><em>Sostituisce: Intervento Divino</em></p>\n<p>Quando entri in comunione prendi 2 e perdi tutta la presa che avevi in precedenza. Quando tu o un alleato subite danni, spendi 1 presa per annullare il danno invocando la tua divinità, che interviene con una manifestazione appropriata (un soffio improvviso di vento, uno scivolone fortuito, un lampo di luce).</p>"
+        },
+        {
+            "id": "Divine Protection",
+            "name": "Protezione Divina",
+            "description": "<p>Quando non indossi armatura né scudo hai armatura 2.</p>"
+        },
+        {
+            "id": "Empower",
+            "name": "Potenziare",
+            "description": "<p>Quando lanci un incantesimo, con un 10+ hai la possibilità di scegliere dalla lista del 7–9. Se lo fai, puoi scegliere una di queste opzioni:</p>\n<ul>\n<li>Gli effetti dell'incantesimo sono massimizzati.</li>\n<li>L'incantesimo ha effetto su un numero doppio di bersagli.</li>\n</ul>"
+        },
+        {
+            "id": "First Aid",
+            "name": "Primo Soccorso",
+            "description": "<p>Cura Ferite Leggere è un'orazione per te, e perciò non conta ai fini del tuo limite di incantesimi concessi.</p>"
+        },
+        {
+            "id": "Greater Empower",
+            "name": "Potenziare Migliorato",
+            "description": "<p><em>Sostituisce: Potenziare</em></p>\n<p>Quando lanci un incantesimo, con un 10-11 hai la possibilità di scegliere dalla lista del 7–9. Se lo fai, puoi scegliere una di queste opzioni. Con un 12+ puoi sceglierne una automaticamente.</p>\n<ul>\n<li>Gli effetti dell'incantesimo sono raddoppiati.</li>\n<li>L'incantesimo ha effetto su un numero doppio di bersagli.</li>\n</ul>"
+        },
+        {
+            "id": "Greater First Aid",
+            "name": "Primo Soccorso Migliorato",
+            "description": "<p><em>Richiede: Primo Soccorso</em></p>\n<p>Cura Ferite Moderate è un'orazione per te, e perciò non conta ai fini del tuo limite di incantesimi concessi.</p>"
+        },
+        {
+            "id": "Invigorate",
+            "name": "Rinvigorire",
+            "description": "<p>Quando guarisci qualcuno questi prende +2 al prossimo tiro di danni.</p>"
+        },
+        {
+            "id": "Martyr",
+            "name": "Martire",
+            "description": "<p><em>Sostituisce: Penitente</em></p>\n<p>Quando subisci danno e ti immergi nel dolore, puoi subire +1d4 danni (ignora l'armatura). Se lo fai, prendi +1 al prossimo tiro di lanciare incantesimi e aggiungi il tuo livello ai danni inflitti o guariti dall'incantesimo.</p>"
+        },
+        {
+            "id": "Multiclass Dabbler",
+            "name": "Apprendista Multiclasse",
+            "description": "<p>Scegli una mossa di un'altra classe. Considera il tuo livello come inferiore di uno ai fini di questa mossa.</p>"
+        },
+        {
+            "id": "Orison For Guidance",
+            "name": "Un'Offerta per un Consiglio",
+            "description": "<p>Quando sacrifichi qualcosa di valore alla tua divinità per pregare chiedendogli consiglio, la tua divinità ti dirà cosa vorrebbe che tu facessi. Se lo fai, guadagni un PE.</p>"
+        },
+        {
+            "id": "Penitent",
+            "name": "Penitente",
+            "description": "<p>Quando subisci danno e ti immergi nel dolore, puoi subire +1d4 danni (ignora l'armatura). Se lo fai, prendi +1 al prossimo tiro di lanciare incantesimi.</p>"
+        },
+        {
+            "id": "Providence",
+            "name": "Provvidenza",
+            "description": "<p><em>Sostituisce: Serenità</em></p>\n<p>Ignori la penalità di -1 proveniente da due incantesimi che mantieni attivi.</p>"
+        },
+        {
+            "id": "Reaper",
+            "name": "Mietitore",
+            "description": "<p>Quando spendi del tempo dopo una battaglia per dedicare la vittoria alla tua divinità e occuparti dei morti, prendi +1 al prossimo tiro.</p>"
+        },
+        {
+            "id": "Serenity",
+            "name": "Serenità",
+            "description": "<p>Sei in grado di dividere efficacemente il tuo potere. Quando lanci un incantesimo ignori la prima penalità di -1 proveniente dagli incantesimi continuati.</p>"
+        },
+        {
+            "id": "The Scales Of Life And Death",
+            "name": "Le Bilance della Vita e della Morte",
+            "description": "<p>Quando qualcuno esala il suo <em>ultimo respiro</em> in tua presenza, prende +1 al tiro.</p>"
+        },
+        {
+            "id": "Turn Undead",
+            "name": "Scacciare Non-Morti",
+            "description": "<p>Quando <strong>alzi in alto il tuo simbolo sacro e invochi la tua divinità per proteggerti</strong>, tira+SAG.</p>\n<p>✴ Con un 7+, fintanto che continui a pregare e brandire il tuo simbolo sacro, nessun non morto può avvicinarsi a te.</p>\n<p>✴ Con un 10+ i non morti intelligenti sono temporaneamente storditi dalla luce del tuo dio e quelli non senzienti fuggono.</p>\n<p>Se effettui un'azione aggressiva contro un non morto mentre scacci non morti l'effetto termina, e possono agire come di consueto. I non-morti intelligenti, i vampiri e simili, riusciranno a trovare comunque modi di farti del male da lontano. Sono abbastanza furbi.</p>"
+        }
+    ]
+}

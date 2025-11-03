@@ -1,0 +1,58 @@
+{
+    "label": "Equipaggiamento (Armature)",
+    "mapping": {
+        "description": "system.description",
+        "tags": "system.tags",
+        "tagsString": "system.tagsString"
+    },
+    "entries": [{
+            "id": "Chainmail",
+            "name": "Maglia di ferro",
+            "description": "<p>Armatura che consiste in numerosi piccoli anelli metallici intrecciati e saldati a fuoco o rivettati</p>",
+            "tags": "[{\"value\":\"armatura 1\"},{\"value\":\"indossato\"}]",
+            "tagsString": "armatura 1, indossato"
+        },
+        {
+            "id": "Hide Armor",
+            "name": "Pelle",
+            "description": "<p>Armatura di pelliccia, fatta in casa, indossata, descrivila:: </p>",
+            "tags": "[{\"value\":\"armatura 1\"},{\"value\":\"indossato\"}]",
+            "tagsString": "armatura 1, indossato"
+        },
+        {
+            "id": "Leather Armor",
+            "name": "Cuoio rigido",
+            "description": "<p>Armatura in cuoio grezzo, indurito e adattato al corpo.</p>",
+            "tags": "[{\"value\":\"armatura 1\"},{\"value\":\"indossato\"}]",
+            "tagsString": "armatura 1, indossato"
+        },
+        {
+            "id": "Ostentatious Clothes",
+            "name": "Abiti sontuosi",
+            "description": "<p>Con questo stai sicuramente facendo una dichiarazione..</p>",
+            "tags": "[{\"value\":\"indossato\"}]",
+            "tagsString": "indossato"
+        },
+        {
+            "id": "Plate",
+            "name": "Piastre",
+            "description": "<p>Armatura costituita da piastre metalliche dalla forma ergonomica.</p>",
+            "tags": "[{\"value\":\"armatura 3\"},{\"value\":\"indossato\"},{\"value\":\"ingombrante\"}]",
+            "tagsString": "armatura 3, indossato, ingombrante"
+        },
+        {
+            "id": "Scale Mail",
+            "name": "Scaglie",
+            "description": "<p>Armatura costituita da numerose piastre metalliche (fogli) fissate alla pelle.</p>",
+            "tags": "[{\"value\":\"armatura 2\"},{\"value\":\"indossato\"},{\"value\":\"ingombrante\"}]",
+            "tagsString": "armatura 2, indossato, ingombrante"
+        },
+        {
+            "id": "Shield",
+            "name": "Scudo",
+            "description": "<p>Lo scudo, solitamente fatto di legno, fa parte della tua armatura personale, che usi attivamente con un braccio per bloccare gli attacchi nemici e che può essere fissato facoltativamente al polso o all'avambraccio.</p>",
+            "tags": "[{\"value\":\"+1 armatura\"}]",
+            "tagsString": "+1 armatura"
+        }
+    ]
+}
