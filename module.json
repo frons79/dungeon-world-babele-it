@@ -1,15 +1,15 @@
 {
-  "id": "dungeon-world-babele-de",
-  "title": "Dungeon World Babele German",
-  "description": "This module is the German translation of the German SRD out of the Dungeon World system from Asocalips, approved by System Matters. Further information in the READ.ME. Module Babele is also needed for this module to function.",
+  "id": "dungeon-world-babele-it",
+  "title": "Dungeon World Babele Italian",
+  "description": "This module is the Italian translation of the Italian SRD out of the Dungeon World system from Asocalips, approved by Narrattiva. Further information in the READ.ME. Module Babele is also needed for this module to function.",
   "version": "3.0",
   "compatibility": {
       "minimum": "10",
-      "verified": "10.285"
+      "verified": "13"
     },
   "authors": [{
-      "name": "KarstenW (based on Simone's module Babele and the German SRD of Dungeon Worlds by System Matters)",
-      "discord": "KarstenW#7984",
+      "name": "Gabriele Frontini (based on Simone's module Babele and the Italian SRD of Dungeon World by Narrattiva)",
+      "discord": "frons79",
       "flags": {}
     }],
   "esmodules": ["babele-register.js"],
@@ -31,7 +31,7 @@
     }]
   },
    
-  "url": "https://gitlab.com/KarstenW76/dungeon-world-babele-de/",
-  "manifest": "https://gitlab.com/KarstenW76/dungeon-world-babele-de/-/raw/master/module.json",
-  "download": "https://gitlab.com/KarstenW76/dungeon-world-babele-de/-/archive/master/dungeon-world-babele-de-master.zip"
+  "url": "https://gitlab.com/frons79/dungeon-world-babele-it/",
+  "manifest": "https://gitlab.com/frons79/dungeon-world-babele-it/-/raw/master/module.json",
+  "download": "https://gitlab.com/frons79/dungeon-world-babele-it/-/archive/master/dungeon-world-babele-de-master.zip"
 }
