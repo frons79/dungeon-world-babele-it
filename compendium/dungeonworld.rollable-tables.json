@@ -1,0 +1,30 @@
+{
+  "label": "Tabelle casuali",
+  "entries": [
+    {
+      "id": "Treasure",
+      "name": "Tesoro",
+      "description": "Quando i giocatori frugano tra le proprietà di un mostro (addosso a lui o nascoste da qualche parte), descrivi onestamente ciò che trovano. Se il mostro ha accumulato delle ricchezze, puoi determinarle casualmente. Comincia con il dado di danno del mostro, modificato se il mostro è:\r\n• Accumulatore : Tira due volte il dado del danno e tieni il risultato più alto.\r\n• Lontano da casa : Aggiungere almeno una Razione al tesoro (utilizzabile da chiunque abbia gusti simili).\r\n• Magico : uno strano oggetto, forse magico.\r\n• Divino : il simbolo di una divinità (o di più dei).\r\n• Planare : qualcosa di estraneo a questa terra.\r\n• Dominatore di altri : +1d4 al tiro.\r\n• Antico e degno di nota : +1d4 al tiro.\r\nTira il dado del mostro, più tutti i modificatori :",
+      "results": {
+        "1-1": "Poche monete, [[/r 2d8]] o giù di lì.",
+        "2-2": "Un oggetto utile nella situazione attuale.",
+        "3-3": "Qualche moneta, circa [[/r 4d10]].",
+        "4-4": "Un oggetto piccolo (gemma, manufatto artistico) di un certo pregio, del valore di [[/r 2d10*10]] monete, peso 0.",
+        "5-5": "Un oggetto magico minore.",
+        "6-6": "Informazioni utili (sotto forma di note, indizi, ecc...).",
+        "7-7": "Una borsa di monete, [[/r 1d4*100]] circa, peso 1 per ogni 100.",
+        "8-8": "Un piccolo oggetti di grande valore [[/r 2d6*100]] monete, peso 0.",
+        "9-9": "Un cofanetto di monete ealtri oggetti di valore, peso 1 ma pari a [[/r 3d6*100]] monete.",
+        "10-10": "Un oggetto o effetto magico.",
+        "11-11": "Molti sacchetti di monete, per un valore di circa [[/r 2d4*100]].",
+        "12-12": "Un simbolo di rango (corona, bandiera), del valore di [[/r 3d4*100]] monete.",
+        "13-13": "Un grande oggetto d'arte del valore di [[/r 4d4*100]] monete, peso 1.",
+        "14-14": "Un oggetto unico, del valore di almeno [[/r 5d4*100]] monete.",
+        "15-15": "Tutte le informazioni necessarie per creare o imparare un nuovo incantesimo; tira ancora.",
+        "16-16": "Un portale oe sentiero segreto (o le informazioni per raggiungerlo); tira ancora.",
+        "17-17": "Qualcosa collegato a uno dei personaggi; tira ancora.",
+        "18-18": "Un tesoro: [[/r 1d10*1000]] monete e [[/r 1d10*10]] gemme del valore di [[/r 2d6*100]] ciascuna."
+      }
+    }
+  ]
+}

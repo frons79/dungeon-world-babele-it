@@ -1,37 +1,43 @@
 {
   "id": "dungeon-world-babele-it",
   "title": "Dungeon World Babele Italian",
-  "description": "This module is the Italian translation of the Italian SRD out of the Dungeon World system from Asocalips, approved by Narrattiva. Further information in the READ.ME. Module Babele is also needed for this module to function.",
+  "description": "This module is the Italian translation of the Italian SRD out of the Dungeon World system from Asocalips. Further information in the READ.ME. Module Babele is mandatory for this module to work.",
   "version": "3.0",
   "compatibility": {
-      "minimum": "10",
-      "verified": "13"
-    },
-  "authors": [{
-      "name": "Gabriele Frontini (based on Simone's module Babele and the Italian SRD of Dungeon World by Narrattiva)",
+    "minimum": "10",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Gabriele Frontini (based on Simone Ricci's module Babele and the Italian translation by Dungeon World Italia)",
       "discord": "frons79",
       "flags": {}
-    }],
-  "esmodules": ["babele-register.js"],
-  "scripts": [],
-  "styles": [],
-  "packs": [],
-  "languages": [],
-  "system": ["dungeonworld"],
+    }
+  ],
+  "esmodules": [
+    "babele-register.js"
+  ],
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "it.json",
+      "flags": {}
+    }
+  ],
   "relationships": {
-    "systems": [{
+    "systems": [
+      {
         "id": "dungeonworld",
         "type": "system",
-        "compatibility": {"verified": "1.6.1"}
-    }],
-    "modules": [{
-        "id": "babele",
-        "type": "module",
-        "compatibility": {"verified": "2.3.0"}
-    }]
+        "compatibility": {
+          "verified": "1.6.1"
+        }
+      }
+    ]
   },
-   
-  "url": "https://gitlab.com/frons79/dungeon-world-babele-it/",
-  "manifest": "https://gitlab.com/frons79/dungeon-world-babele-it/-/raw/master/module.json",
-  "download": "https://gitlab.com/frons79/dungeon-world-babele-it/-/archive/master/dungeon-world-babele-de-master.zip"
+  "url": "https://github.com/frons79/dungeon-world-babele-it/",
+  "manifest": "https://github.com/frons79/dungeon-world-babele-it/releases/download/1.0.0/module.json",
+  "download": "https://github.com/frons79/dungeon-world-babele-it/releases/download/1.0.0/module.zip",
+  "flags": {}
 }
