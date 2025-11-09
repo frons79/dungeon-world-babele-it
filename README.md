@@ -1,6 +1,6 @@
 # DUNGEON WORLD ITALIANO
 
-Italian translation of Asocalips' Dungeon World Compendium for Foundry VTT, translated using Simone Ricci's Babele module.
+Italian translation of Asocalips' Dungeon World Compendium for Foundry VTT.
 
 ## CREDITS
 
