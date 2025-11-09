@@ -118,11 +118,11 @@
         },
         {
             "id": "Outstanding Warrants",
-            "name": "Offene Rechnungen",
-            "description": "<p><strong>Wenn du an einen zivilisierten Ort zurückkehrst</strong>, an dem du schon mal Ärger gemacht hast, würfle+CH.",
+            "name": "Ricercato",
+            "description": "<p>Quando <strong>torni in un luogo civilizzato dove hai causato problemi in passato</strong>, tira+CAR.",
             "failure": "",
-            "partial": "Bei 7–9 ebenso, aber der SL wählt zusätzlich eine der folgenden Komplikationen: </p>\n<ul>\n<li>Die örtliche Wache hat einen Haftbefehl gegen dich. </li>\n<li>Jemand hat ein Kopfgeld auf dich ausgesetzt. </li>\n<li>Jemand, der dir wichtig ist, sitzt aufgrund deiner Taten in der Klemme.</li>\n</ul>",
-            "success": "Bei einer 10+ haben sich deine Taten herumgesprochen und jeder erkennt dich.",
+            "partial": "Con un 7–9, si è diffusa voce dei tuoi atti e tutti ti riconoscono, ma il GM sceglie anche una complicazione: </p>\n<ul>\n<li>La polizia locale ha un mandato per il tuo arresto.</li>\n<li>Qualcuno ha messo una taglia sulla tua testa.</li>\n<li>Qualcuno di importante per te è stato messo in difficoltà per via delle tue azioni.</li>\n</ul>",
+            "success": "Con un 10+, si è diffusa voce dei tuoi atti e tutti ti riconoscono.",
             "choices": ""
         },
         {

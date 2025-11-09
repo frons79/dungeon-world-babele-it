@@ -1,42 +1,69 @@
 {
-    "label": "Entrate/Uscite",
-    "mapping": {
-        "description": "content"
-    },
-    "entries": [{
-            "id": "Bribes",
-            "name": "Mazzette",
-            "description": "<ul>\n<li>La dote di un contadino: 20-Carisma monete</li>\n<li>«Protezione» per una piccola impresa: 100-Carisma monete</li>\n<li>Corrompere un funzionario governativo: 50-Carisma monete</li>\n<li>Una mazzetta convincente: 80-Carisma monete</li>\n<li>Un'offerta che non puoi rifiutare: 500-Carisma monete</li>\n</ul>"
-        },
-        {
-            "id": "Gifts and Finery",
-            "name": "Regali e Abiti Eleganti",
-            "description": "<ul>\n<li>Un regalo da contadino: 1 moneta</li>\n<li>Un regalo pregiato: 55 monete</li>\n<li>Un regalo nobile: 200 monete</li>\n<li>Un anello o un quadretto: 75 monete</li>\n<li>Abiti eleganti: 105 monete</li>\n<li>Un dipinto raffinato: 350+ monete</li>\n<li>Una corona degna di un re: 5000 monete</li>\n</ul>"
-        },
-        {
-            "id": "Hoards",
-            "name": "Bottino",
-            "description": "<ul>\n<li>I risparmi di un goblin: 2 monete</li>\n<li>I ciondoli di un lucertoloide: 5 monete</li>\n<li>Una spada «inestimabile»: 80 monete</li>\n<li>Le razzie di un condottiero orco: 250 monete</li>\n<li>La montagna di monete e gemme di un drago: 130K monete</li>\n</ul>"
-        },
-        {
-            "id": "Land and Buildings",
-            "name": "Terre ed Edifici",
-            "description": "<ul>\n<li>Tugurio: 20 monete</li>\n<li>Villetta: 500 monete</li>\n<li>Casa: 2500 monete</li>\n<li>Magione: 50K monete</li>\n<li>Fortezza: 75K monete</li>\n<li>Castello: 250K monete</li>\n<li>Palazzo: 1M monete</li>\n<li>Costi di mantenimento per un mese: 1% del costo originale</li>\n</ul>"
-        },
-        {
-            "id": "Meals",
-            "name": "Pasti",
-            "description": "<ul>\n<li>Un pasto abbondante per uno: 1 moneta</li>\n<li>Un pasto scarso per una famiglia: 1 moneta</li>\n<li>Un banchetto: 15 monete a persona</li>\n</ul>"
-        },
-        {
-            "id": "Services",
-            "name": "Servizi",
-            "description": "<ul>\n<li>Soggiorno di una settimana in una locanda da contadini: 14-Carisma monete</li>\n<li>Soggiorno di una settimana in una locanda civilizzata: 30-Carisma monete</li>\n<li>Soggiorno di una settimana nella migliore locanda in città: 43-Carisma monete</li>\n<li>Manovalanza comune per una settimana: 10 monete</li>\n<li>Paga di un mese per un soldato dell'esercito: 30 monete</li>\n<li>Oggetto su misura da un fabbro: costo base dell'oggetto + 50 monete</li>\n<li>«Compagnia» per una notte: 20-Carisma monete</li>\n<li>Una serata di canzoni e danze: 18-Carisma monete</li>\n<li>Scorta per un giorno lungo una strada infestata da banditi: 20 monete</li>\n<li>Scorta per un giorno lungo una strada infestata da mostri: 54 monete</li>\n<li>Un comune omicidio: 5 monete</li>\n<li>Un assassinio: 120 monete</li>\n<li>Cure da un cerusico: 5 monete</li>\n<li>Preghiere per un mese per i defunti: 1 moneta</li>\n<li>Riparazioni per un oggetto ordinario: 25% del costo dell'oggetto</li>\n</ul>"
-        },
-        {
-            "id": "Transport",
-            "name": "Trasporti",
-            "description": "<ul>\n<li>Asino e Carretto: 50 monete, carico 20</li>\n<li>Cavallo: 75 monete, carico 10</li>\n<li>Cavallo da guerra: 400 monete, carico 12</li>\n<li>Carro: 150 monete, carico 40</li>\n<li>Chiatta: 50 monete, carico 15</li>\n<li>Barca fluviale: 150 monete, carico 20</li>\n<li>Nave Mercantile: 5K monete, carico 200</li>\n<li>Nave da guerra: 20K monete, carico 100</li>\n<li>Pedaggio su una strada sicura: 1 moneta</li>\n<li>Pedaggio su una strada aspra: 10 monete</li>\n<li>Pedaggio su una strada pericolosa: 100 monete</li>\n</ul>"
+  "label": "Entrate/Uscite",
+  "folders": {},
+  "entries": {
+    "Hoards": {
+      "name": "Bottino",
+      "pages": {
+        "Hoards": {
+          "name": "Bottino",
+          "text": "<ul>\n<li>I risparmi di un goblin: 2 monete</li>\n<li>I ciondoli di un lucertoloide: 5 monete</li>\n<li>Una spada «inestimabile»: 80 monete</li>\n<li>Le razzie di un condottiero orco: 250 monete</li>\n<li>La montagna di monete e gemme di un drago: 130K monete</li>\n</ul>"
         }
-    ]
+      }
+    },
+    "Services": {
+      "name": "Servizi",
+      "pages": {
+        "Services": {
+          "name": "Servizi",
+          "text": "<ul>\n<li>Soggiorno di una settimana in una locanda da contadini: 14-Carisma monete</li>\n<li>Soggiorno di una settimana in una locanda civilizzata: 30-Carisma monete</li>\n<li>Soggiorno di una settimana nella migliore locanda in città: 43-Carisma monete</li>\n<li>Manovalanza comune per una settimana: 10 monete</li>\n<li>Paga di un mese per un soldato dell'esercito: 30 monete</li>\n<li>Oggetto su misura da un fabbro: costo base dell'oggetto + 50 monete</li>\n<li>«Compagnia» per una notte: 20-Carisma monete</li>\n<li>Una serata di canzoni e danze: 18-Carisma monete</li>\n<li>Scorta per un giorno lungo una strada infestata da banditi: 20 monete</li>\n<li>Scorta per un giorno lungo una strada infestata da mostri: 54 monete</li>\n<li>Un comune omicidio: 5 monete</li>\n<li>Un assassinio: 120 monete</li>\n<li>Cure da un cerusico: 5 monete</li>\n<li>Preghiere per un mese per i defunti: 1 moneta</li>\n<li>Riparazioni per un oggetto ordinario: 25% del costo dell'oggetto</li>\n</ul>"
+        }
+      }
+    },
+    "Gifts and Finery": {
+      "name": "Regali e Abiti Eleganti",
+      "pages": {
+        "Gifts and Finery": {
+          "name": "Regali e Abiti Eleganti",
+          "text": "<ul>\n<li>Un regalo da contadino: 1 moneta</li>\n<li>Un regalo pregiato: 55 monete</li>\n<li>Un regalo nobile: 200 monete</li>\n<li>Un anello o un quadretto: 75 monete</li>\n<li>Abiti eleganti: 105 monete</li>\n<li>Un dipinto raffinato: 350+ monete</li>\n<li>Una corona degna di un re: 5000 monete</li>\n</ul>"
+        }
+      }
+    },
+    "Bribes": {
+      "name": "Gratifications",
+      "pages": {
+        "Bribes": {
+          "name": "Mazzette",
+          "text": "<ul>\n<li>La dote di un contadino: 20-Carisma monete</li>\n<li>«Protezione» per una piccola impresa: 100-Carisma monete</li>\n<li>Corrompere un funzionario governativo: 50-Carisma monete</li>\n<li>Una mazzetta convincente: 80-Carisma monete</li>\n<li>Un'offerta che non puoi rifiutare: 500-Carisma monete</li>\n</ul>"
+        }
+      }
+    },
+    "Land and Buildings": {
+      "name": "Terre ed Edifici",
+      "pages": {
+        "Land and Buildings": {
+          "name": "Terre ed Edifici",
+          "text": "<ul>\n<li>Tugurio: 20 monete</li>\n<li>Villetta: 500 monete</li>\n<li>Casa: 2500 monete</li>\n<li>Magione: 50K monete</li>\n<li>Fortezza: 75K monete</li>\n<li>Castello: 250K monete</li>\n<li>Palazzo: 1M monete</li>\n<li>Costi di mantenimento per un mese: 1% del costo originale</li>\n</ul>"
+        }
+      }
+    },
+    "Meals": {
+      "name": "Nourriture",
+      "pages": {
+        "Meals": {
+          "name": "Pasti",
+          "text": "<ul>\n<li>Un pasto abbondante per uno: 1 moneta</li>\n<li>Un pasto scarso per una famiglia: 1 moneta</li>\n<li>Un banchetto: 15 monete a persona</li>\n</ul>"
+        }
+      }
+    },
+    "Transport": {
+      "name": "Transport",
+      "pages": {
+        "Transport": {
+          "name": "Trasporti",
+          "text": "<ul>\n<li>Asino e Carretto: 50 monete, carico 20</li>\n<li>Cavallo: 75 monete, carico 10</li>\n<li>Cavallo da guerra: 400 monete, carico 12</li>\n<li>Carro: 150 monete, carico 40</li>\n<li>Chiatta: 50 monete, carico 15</li>\n<li>Barca fluviale: 150 monete, carico 20</li>\n<li>Nave Mercantile: 5K monete, carico 200</li>\n<li>Nave da guerra: 20K monete, carico 100</li>\n<li>Pedaggio su una strada sicura: 1 moneta</li>\n<li>Pedaggio su una strada aspra: 10 monete</li>\n<li>Pedaggio su una strada pericolosa: 100 monete</li>\n</ul>"
+        }
+      }
+    }
+  }
 }

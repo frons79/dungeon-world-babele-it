@@ -1,7 +1,8 @@
 {
     "label": "Mosse del Bardo",
     "mapping": {
-        "description": "system.description"
+        "description": "system.description",
+	"requiresMove": "system.requiresMove"
     },
     "entries": [{
             "id": "A Little Help From My Friends",
@@ -41,7 +42,8 @@
         {
             "id": "Con",
             "name": "Truffa",
-            "description": "<p><em>Sostituisce Raggirare</em></p>\n<p>Quando <em>parlamenti</em> con qualcuno, con un 7+ prendi anche +1 al prossimo tiro con lui e puoi porre al giocatore che lo interpreta (il GM se è un personaggio del GM) una domanda a cui deve rispondere sinceramente.</p>"
+            "description": "<p><em>Sostituisce Raggirare</em></p>\n<p>Quando <em>parlamenti</em> con qualcuno, con un 7+ prendi anche +1 al prossimo tiro con lui e puoi porre al giocatore che lo interpreta (il GM se è un personaggio del GM) una domanda a cui deve rispondere sinceramente.</p>",
+		"requiresMove":"Raggirare"
         },
         {
             "id": "Devious",

@@ -15,7 +15,7 @@
         },
         {
             "id": "Cause Fear",
-            "name": "Provocar miedo",
+            "name": "Paura",
             "description": "<p>Livello 1 <em>Continuato</em></p>\n<p>Scegli un bersaglio intelligente che puoi vedere e un oggetto nelle vicinanze. Il bersaglio è spaventato dall'oggetto fintanto che mantieni attivo l'incantesimo</p>\n<p>La sua reazione è a sua discrezione: fuga, panico, supplica, lotta. Mentre questo incantesimo è attivo prendi -1 a <em>lanciare incantesimi</em>.</p>"
         },
         {

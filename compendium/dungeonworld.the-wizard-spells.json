@@ -45,8 +45,8 @@
         },
         {
             "id": "Contact Spirits",
-            "name": "Contactar con espíritus",
-            "description": "<p>Livello 1 <em>Convocazione</em></p>\n<p>Nombra al espíritu con el que quieres contactar (o déjaselo al DJ). Atraerás a esa criatura de entre los planos, lo bastante como para hablar con ella. Está obligada a responder lo mejor que pueda a una pregunta que le hagas.</p>"
+            "name": "Contattare Spiriti",
+            "description": "<p>Livello 1 <em>Convocazione</em></p>\n<p>Indica lo spirito che intendi contattare (o lascia la scelta al GM). Attiri la creatura attraverso i piani d'esistenza, vicino a te quanto basta per poterle parlare. È costretta a rispondere a una tua domanda al meglio delle proprie capacità.</p>"
         },
         {
             "id": "Contingency",
@@ -55,13 +55,13 @@
         },
         {
             "id": "Detect Magic",
-            "name": "Detectar magia",
-            "description": "<p>Livello 1 <em>Divinazione</em></p>\n<p>Uno de tus sentidos se sintoniza brevemente con la magia. El DJ te dirá qué es mágico en las inmediaciones.</p>"
+            "name": "Individuazione del Magico",
+            "description": "<p>Livello 1 <em>Divinazione</em></p>\n<p>Uno dei tuoi sensi è brevemente sintonizzato con la magia. Il GM ti dirà che cosa è magico in questo luogo.</p>"
         },
         {
             "id": "Dispel Magic",
-            "name": "Disipar magia",
-            "description": "<p>Livello 3</p>\n<p>Elige un conjuro o efecto mágico en tu presencia y la magia que lo alimenta se dispersará. Los conjuros menores son cancelados y la magia poderosa se queda reducida o disminuida mientras estés cerca.</p>"
+            "name": "Dissolvi Magie",
+            "description": "<p>Livello 3</p>\n<p>Scegli un incantesimo o un effetto magico in tua presenza: questo incantesimo lo fa a pezzi. Gli incantesimi minori terminano, le magie più potenti sono solamente ridotte o smorzate fintanto che sei nei dintorni.</p>"
         },
         {
             "id": "Dominate",

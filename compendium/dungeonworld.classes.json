@@ -13,7 +13,7 @@
       "races": {
         "0": {
           "label": "Estraneo",
-          "description": "Sarai Elfoo, nano, mezzuomo o umano, ma tu e la tua gente non siete di queste parti. All'inizio di ogni sessione, il GM ti farà una domanda a proposito della tua terra madre, di perché te ne sei andato o di cosa ti sei lasciato indietro. Se rispondi guadagna un PE."
+          "description": "Sarai Elfo, nano, mezzuomo o umano, ma tu e la tua gente non siete di queste parti. All'inizio di ogni sessione, il GM ti farà una domanda a proposito della tua terra madre, di perché te ne sei andato o di cosa ti sei lasciato indietro. Se rispondi guadagna un PE."
         }
       },
       "alignments": {
@@ -29,7 +29,7 @@
     },
     {
       "id": "The Bard",
-      "name": "bardo",
+      "name": "Bardo",
       "description": "<p>I poemi dicono che la vita di un avventuriero è fatta di mille strade aperte e della gloria di battaglie vinte e di ricchezze conquistate. Le storie che si raccontano in ogni taverna affollata di villici e braccianti dovranno pur avere una parvenza di verità, non è vero? Le canzoni che ispirano ugualmente nobili e pezzenti, per placare le bestie selvagge o spingere gli uomini alla furia, dovranno pur avere un'origine.</p>\n<p>È qui che arriva il bardo. Tu, con la tua lingua sciolta e il tuo acume. Tu, che racconti favole e canti canzoni. Un semplice menestrello può ripetere una storia, ma ci vuole un bardo per viverla. Metti gli stivali, nobile oratore. Affila la tua daga celata e rispondi all’appello. Qualcuno dev'essere lì, a lottare fianco a fianco con picchiatori e mercenari e futuri eroi. Chi meglio di te per scrivere la storia del tuo stesso eroismo?</p>\n<p>Nessuno. Dai inizio all'avventura.</p>",
       "races": {
         "0": {
@@ -59,7 +59,7 @@
     {
       "id": "The Cleric",
       "name": "Chierico",
-      "description": "<p>Le terre di <em>Dungeon World</em> sono allo sbando, dimenticate dagli dèi. È un mondo orribile, con morti che camminano e bestie di ogni genere che si aggirano contro natura per le zone selvagge tra le città sicure e benedette dai templi. È un mondo senza religione quello là fuori. È per questo che ha bisogno di te.</p>\n<p>Portare la gloria degli dèi ai selvaggi non è solo la tua natura, è la tua missione. Sta a te diffondere il verbo con la spada, la mazza e la magia, fendere dritto nel barbaro cuore dei luoghi senza dio e piantarvi il seme della religione. Alcuni dicono che è meglio tenere gli dèi vicino al cuore. Sciocchezze. Il tuo dio vive sul filo di una lama.</p>\n<p>Mostra al mondo chi è il suo signore.</p>",
+      "description": "<p>Le terre di <i>Dungeon World</i> sono allo sbando, dimenticate dagli dèi. È un mondo orribile, con morti che camminano e bestie di ogni genere che si aggirano contro natura per le zone selvagge tra le città sicure e benedette dai templi. È un mondo senza religione quello là fuori. È per questo che ha bisogno di te.</p>\n<p>Portare la gloria degli dèi ai selvaggi non è solo la tua natura, è la tua missione. Sta a te diffondere il verbo con la spada, la mazza e la magia, fendere dritto nel barbaro cuore dei luoghi senza dio e piantarvi il seme della religione. Alcuni dicono che è meglio tenere gli dèi vicino al cuore. Sciocchezze. Il tuo dio vive sul filo di una lama.</p>\n<p>Mostra al mondo chi è il suo signore.</p>",
       "races": {
         "0": {
           "label": "Nano",

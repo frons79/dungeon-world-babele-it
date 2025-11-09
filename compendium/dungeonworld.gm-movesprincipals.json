@@ -1,22 +1,33 @@
 {
-    "label": "Mosse e Principi del GM",
-    "mapping": {
-        "description": "content"
-    },
-    "entries": [{
-            "id": "Dungeon Moves",
-            "name": "Mosse del Dungeon",
-            "description": "<ul>\n<li>Cambia l'ambiente.</li>\n<li>Indica una minaccia incombente.</li>\n<li>Introduci una nuova fazione o tipo di creatura.</li>\n<li>Usa un pericolo di una fazione o di un tipo di creatura già esistente.</li>\n<li>Falli tornare sulle proprie tracce.</li>\n<li>Offri ricchezze in cambio di qualcosa.</li>\n<li>Offri una sfida a uno dei personaggi.</li>\n</ul>"
-        },
-        {
-            "id": "GM Moves",
-            "name": "Mosse del GM",
-            "description": "<ul>\n<li>Usa la mossa di un mostro, un pericolo, o un luogo.</li>\n<li>Rivela una verità sgradita.</li>\n<li>Mostra i segni di una minaccia incombente.</li>\n<li>Infliggi danno.</li>\n<li>Consuma le loro risorse.</li>\n<li>Rivoltagli contro le loro mosse.</li>\n<li>Separali.</li>\n<li>Crea un'opportunità appropriata alle capacità di una classe.</li>\n<li>Mostra il lato negativo delle loro classi, razze o oggetti.</li>\n<li>Offri un'opportunità, con o senza un costo.</li>\n<li>Metti qualcuno in difficoltà.</li>\n<li>Spiega le conseguenze o il prezzo da pagare e chiedi di nuovo.</li>\n</ul>"
-        },
-        {
-            "id": "Principals",
-            "name": "Principi",
-            "description": "<ul>\n<li>Disegna mappe, lascia spazi da riempire.</li>\n<li>Rivolgiti ai personaggi, non ai giocatori.</li>\n<li>Fai tuo ciò che è fantastico.</li>\n<li>Fai una mossa che abbia senso.</li>\n<li>Non pronunciare mai il nome della tua mossa.</li>\n<li>Rendi vivo ogni mostro.</li>\n<li>Dai un nome a ogni persona.</li>\n<li>Fai domande e usa le risposte.</li>\n<li>Sii un fan dei personaggi.</li>\n<li>Pensa pericoloso.</li>\n<li>Inizia e finisci con la fiction.</li>\n<li>Pensa ai retroscena.</li>\n</ul>"
+  "label": "Mosse e Principi del GM",
+  "folders": {},
+  "entries": {
+    "GM Moves": {
+      "name": "Mosse del GM",
+      "pages": {
+        "GM Moves": {
+          "name": "Mosse del GM",
+          "text": "<ul>\n<li>Cambia l'ambiente.</li>\n<li>Indica una minaccia incombente.</li>\n<li>Introduci una nuova fazione o tipo di creatura.</li>\n<li>Usa un pericolo di una fazione o di un tipo di creatura già esistente.</li>\n<li>Falli tornare sulle proprie tracce.</li>\n<li>Offri ricchezze in cambio di qualcosa.</li>\n<li>Offri una sfida a uno dei personaggi.</li>\n</ul>"
         }
-    ]
+      }
+    },
+    "Principals": {
+      "name": "Principi",
+      "pages": {
+        "Principals": {
+          "name": "Principi",
+          "text": "<ul>\n<li>Disegna mappe, lascia spazi da riempire.</li>\n<li>Rivolgiti ai personaggi, non ai giocatori.</li>\n<li>Fai tuo ciò che è fantastico.</li>\n<li>Fai una mossa che abbia senso.</li>\n<li>Non pronunciare mai il nome della tua mossa.</li>\n<li>Rendi vivo ogni mostro.</li>\n<li>Dai un nome a ogni persona.</li>\n<li>Fai domande e usa le risposte.</li>\n<li>Sii un fan dei personaggi.</li>\n<li>Pensa pericoloso.</li>\n<li>Inizia e finisci con la fiction.</li>\n<li>Pensa ai retroscena.</li>\n</ul>"
+        }
+      }
+    },
+    "Dungeon Moves": {
+      "name": "Mosse del Dungeon",
+      "pages": {
+        "Dungeon Moves": {
+          "name": "Mosse del Dungeon",
+          "text": "<ul>\n<li>Usa la mossa di un mostro, un pericolo, o un luogo.</li>\n<li>Rivela una verità sgradita.</li>\n<li>Mostra i segni di una minaccia incombente.</li>\n<li>Infliggi danno.</li>\n<li>Consuma le loro risorse.</li>\n<li>Rivoltagli contro le loro mosse.</li>\n<li>Separali.</li>\n<li>Crea un'opportunità appropriata alle capacità di una classe.</li>\n<li>Mostra il lato negativo delle loro classi, razze o oggetti.</li>\n<li>Offri un'opportunità, con o senza un costo.</li>\n<li>Metti qualcuno in difficoltà.</li>\n<li>Spiega le conseguenze o il prezzo da pagare e chiedi di nuovo.</li>\n</ul>"
+        }
+      }
+    }
+  }
 }

@@ -1,7 +1,7 @@
 {
   "id": "dungeon-world-babele-it",
   "title": "Dungeon World Babele Italian",
-  "description": "This module is the Italian translation of the Italian SRD out of the Dungeon World system from Asocalips. Further information in the READ.ME. Module Babele is mandatory for this module to work.",
+  "description": "<p>This module is the Italian translation of the Italian SRD out of the Dungeon World system from Asocalips. Further information in the READ.ME.</p><p>Module Babele is mandatory for this module to work.</p>",
   "version": "3.0",
   "compatibility": {
     "minimum": "10",
@@ -9,7 +9,7 @@
   },
   "authors": [
     {
-      "name": "Gabriele Frontini (based on Simone Ricci's module Babele and the Italian translation by Dungeon World Italia)",
+      "name": "Gabriele Frontini (based on Simone's module Babele and the Italian SRD of Dungeon World by Narrattiva)",
       "discord": "frons79",
       "flags": {}
     }
@@ -34,10 +34,17 @@
           "verified": "1.6.1"
         }
       }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
     ]
   },
   "url": "https://github.com/frons79/dungeon-world-babele-it/",
-  "manifest": "https://github.com/frons79/dungeon-world-babele-it/releases/download/1.0.0/module.json",
+  "manifest": "https://github.com/frons79/dungeon-world-babele-it/latest/download/module.json",
   "download": "https://github.com/frons79/dungeon-world-babele-it/releases/download/1.0.0/module.zip",
   "flags": {}
 }

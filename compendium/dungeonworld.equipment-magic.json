@@ -1,9 +1,9 @@
 {
 	"label": "Equipaggiamento (Oggetti magici)",
 	"mapping": {
-        "description": "data.description",
-        "tags": "data.tags",
-        "tagsString": "data.tagsString"
+        "description": "system.description",
+        "tags": "system.tags",
+        "tagsString": "system.tagsString"
     },
 	"entries": [
 		{

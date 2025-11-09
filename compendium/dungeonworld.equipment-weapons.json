@@ -15,7 +15,7 @@
         {
             "id": "Battle Axe",
             "name": "Ascia da Battaglia",
-            "description": "<p>Un'ascia a due lame, progettata per il combattimento..</p>",
+            "description": "<p>Un'ascia a due lame, progettata per il combattimento.</p>",
             "tags": "[{\"value\":\"media\"},{\"value\":\"+1 danni\"}]",
             "tagsString": "media, +1 danni"
         },
@@ -29,7 +29,7 @@
         {
             "id": "Club",
             "name": "Randello",
-            "description": "<p>Un'arma da combattimento in legno.</p>",
+            "description": "<p>Un'arma da combattimento grezza in legno.</p>",
             "tags": "[{\"value\":\"media\"}]",
             "tagsString": "media"
         },
@@ -71,7 +71,7 @@
         {
             "id": "Flail",
             "name": "Mazzafrusto",
-            "description": "<p>Arma da impatto con una testa da impatto fissata all'asta tramite una catena..</p>",
+            "description": "<p>Arma da impatto con una testa da impatto fissata all'asta tramite una catena.</p>",
             "tags": "[{\"value\":\"media\"},{\"value\":\"+1 danni\"}]",
             "tagsString": "media, +1 danni"
         },
@@ -85,28 +85,28 @@
         {
             "id": "Hunter's Bow",
             "name": "Arco da Cacciatore",
-            "description": "<p>Un arco ottimizzato per velocità e precisione..</p>",
+            "description": "<p>Un arco ottimizzato per velocità e precisione.</p>",
             "tags": "[{\"value\":\"vicino\"},{\"value\":\"lontano\"}]",
             "tagsString": "vicino, lontano"
         },
         {
             "id": "Knife",
             "name": "Coltello",
-            "description": "<p>Coltello, utensile e piccola arma, tutto in uno..</p>",
+            "description": "<p>Coltello, utensile e piccola arma, tutto in uno.</p>",
             "tags": "[{\"value\":\"corta\"}]",
             "tagsString": "corta"
         },
         {
             "id": "Long Sword",
             "name": "Spada lunga",
-            "description": "<p>Una spada con una lama lunga..</p>",
+            "description": "<p>Una spada con una lama lunga.</p>",
             "tags": "[{\"value\":\"media\"},{\"value\":\"+1 danni\"}]",
             "tagsString": "media, +1 danni"
         },
         {
             "id": "Mace",
             "name": "Mazza",
-            "description": "<p>Un'arma con una testa pesante su un calcio solido, adatta a sferrare colpi decisi..</p>",
+            "description": "<p>Un'arma con una testa pesante su un calcio solido, adatta a sferrare colpi decisi.</p>",
             "tags": "[{\"value\":\"media\"}]",
             "tagsString": "media"
         },
@@ -126,7 +126,7 @@
         },
         {
             "id": "Shillelagh",
-            "name": "Knüppel",
+            "name": "Verga",
             "description": "<p>Un grosso bastone di legno di quercia.</p>",
             "tags": "[{\"value\":\"media\"}]",
             "tagsString": "media"
@@ -134,7 +134,7 @@
         {
             "id": "Shiv",
             "name": "Daga",
-            "description": "<p>Eine hausgemachte messerähnliche Waffe.</p>",
+            "description": "<p>Un'arma artigianale simile a un coltello.</p>",
             "tags": "[{\"value\":\"corta\"}]",
             "tagsString": "corta"
         },
@@ -167,9 +167,9 @@
             "tagsString": "da lancio, vicino"
         },
         {
-            "id": "Two-cortaed sword",
+            "id": "Two-handed sword",
             "name": "Spadone",
-            "description": "Una spada a doppia corta con lama lunga.",
+            "description": "Una spada enorme a lama lunga.",
             "tags": "[{\"value\":\"media\"},{\"value\":\"+1 danni\"},{\"value\":\"a due mani\"}]",
             "tagsString": "media, +1 danni, a due mani"
         },

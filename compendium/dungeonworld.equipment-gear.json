@@ -1,9 +1,9 @@
 {
     "label": "Equipaggiamento (Attrezzatura da Dungeon)",
     "mapping": {
-        "description": "data.description",
-        "tags": "data.tags",
-        "tagsString": "data.tagsString"
+        "description": "system.description",
+        "tags": "system.tags",
+        "tagsString": "system.tagsString"
     },
     "entries": [{
             "id": "Adventuring Gear",
@@ -38,8 +38,8 @@
             "id": "Dwarven Hardtack",
             "name": "Gallette Naniche",
             "description": "<p>I Nani dicono che hanno il sapore di casa. Tutti gli altri dicono che hanno il sapore di casa, se per casa intendi un porcile, che va a fuoco.</p>",
-            "tags": "[{\"value\":\"Solo nani\"}]",
-            "tagsString": "Solo nani"
+            "tags": "[{\"value\":\"Razione\"},{\"value\":\"Solo nani\"}]",
+            "tagsString": "Razione, Solo nani"
         },
         {
             "id": "Elven Bread",
@@ -66,7 +66,9 @@
         {
             "id": "Personal Feast",
             "name": "Banchetto Personale",
-            "description": "<p>Fastoso è dir poco</p>"
+            "description": "<p>Fastoso è dir poco</p>",
+	    "tags": "[{\"value\":\"Razione\"}]",
+            "tagsString": "Razione"
         },
         {
             "id": "Poultices and Herbs",

@@ -1,10 +1,10 @@
 {
 	"label": "Mostri - 02 Abitanti delle paludi",
 	"mapping": {
-		"attributes": "data.attributes",
-		"details": "data.details",
-		"tags": "data.tags",
-		"tagsString": "data.tagsString"
+		"attributes": "system.attributes",
+		"details": "system.details",
+		"tags": "system.tags",
+		"tagsString": "system.tagsString"
 	},
 	"entries": [
 		{
